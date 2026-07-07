@@ -1,0 +1,2998 @@
+iyear,imonth,iday,region_txt,country_txt,latitude,longitude,nwound,nkill
+2000,1,1,North America,United States,44.405705,-85.714454,0.0,0.0
+2000,1,2,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2000,1,2,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2000,1,3,North America,United States,38.232471,-122.644448,0.0,0.0
+2000,1,3,North America,United States,39.103175,-84.511981,0.0,0.0
+2000,1,3,North America,United States,39.103175,-84.511981,0.0,0.0
+2000,1,4,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2000,1,7,South America,Colombia,2.938353,-73.208333,0.0,0.0
+2000,1,9,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2000,1,15,North America,United States,38.232471,-122.644448,0.0,0.0
+2000,1,17,South America,Colombia,4.54939,-74.53601,1.0,0.0
+2000,1,17,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2000,1,18,South America,Colombia,4.667128,-74.106056,6.0,1.0
+2000,1,20,North America,United States,39.16659,-86.534244,0.0,0.0
+2000,1,21,South America,Ecuador,-0.211188,-78.522629,0.0,0.0
+2000,1,23,South America,Paraguay,-25.282773,-57.63561,0.0,0.0
+2000,1,24,North America,United States,37.484175,-122.227102,0.0,0.0
+2000,1,26,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2000,1,28,South America,Colombia,7.131202,-73.124973,0.0,0.0
+2000,1,0,South America,Colombia,10.201996,-73.463689,0.0,11.0
+2000,1,29,South America,Colombia,7.027345,-71.428555,0.0,0.0
+2000,2,3,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2000,2,4,South America,Colombia,0.49765,-76.49768,4.0,2.0
+2000,2,9,North America,Mexico,32.493683,-116.95295,0.0,4.0
+2000,2,16,South America,Ecuador,-2.170832,-79.922359,1.0,0.0
+2000,2,17,South America,Colombia,3.656667,-76.688333,1.0,1.0
+2000,2,18,South America,Colombia,1.25525,-70.23339,2.0,0.0
+2000,2,20,South America,Colombia,7.946283,-72.898807,0.0,9.0
+2000,2,16,South America,Colombia,9.581058,-75.035527,0.0,28.0
+2000,2,21,South America,Ecuador,-2.170832,-79.922359,0.0,0.0
+2000,2,21,South America,Peru,-11.967368,-76.978462,6.0,1.0
+2000,2,22,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2000,2,22,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2000,2,22,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2000,2,25,North America,United States,37.548148,-121.988566,0.0,0.0
+2000,3,5,South America,Colombia,6.975556,-75.625,0.0,6.0
+2000,3,9,South America,Colombia,2.116667,-76.983333,0.0,0.0
+2000,3,12,North America,United States,43.557135,-90.888714,0.0,0.0
+2000,3,14,South America,Colombia,6.242026,-75.564766,10.0,2.0
+2000,3,15,South America,Colombia,3.429344,-76.516037,1.0,0.0
+2000,3,17,South America,Colombia,4.40464,-74.38643,4.0,2.0
+2000,3,22,South America,Colombia,4.845447,-74.622546,0.0,0.0
+2000,3,22,South America,Colombia,5.026003,-74.030012,0.0,0.0
+2000,3,22,North America,United States,41.222365,-111.970459,3.0,0.0
+2000,3,25,North America,United States,33.335061,-111.876318,1.0,0.0
+2000,3,26,South America,Colombia,4.29692,-74.80707,30.0,1.0
+2000,3,30,South America,Colombia,4.598333,-74.441389,14.0,4.0
+2000,4,3,North America,United States,39.176086,-94.574127,3.0,0.0
+2000,4,3,South America,Colombia,9.337295,-73.653621,0.0,0.0
+2000,4,6,South America,Colombia,8.63781,-72.73464,5.0,21.0
+2000,4,9,North America,United States,33.44826,-112.075774,0.0,0.0
+2000,4,11,South America,Colombia,7.07386,-75.14591,0.0,0.0
+2000,4,11,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,4,11,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,4,11,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,4,11,South America,Colombia,3.429344,-76.516037,1.0,0.0
+2000,4,11,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,4,12,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,4,13,South America,Colombia,9.33692,-74.48104,0.0,0.0
+2000,4,14,North America,United States,26.172735,-80.131209,0.0,0.0
+2000,5,7,North America,United States,47.039225,-122.891429,0.0,0.0
+2000,5,7,South America,Colombia,8.296944,-74.473056,0.0,0.0
+2000,5,15,South America,Colombia,6.19998,-75.23326,3.0,2.0
+2000,5,18,North America,Canada,46.803137,-71.241298,27.0,0.0
+2000,5,19,South America,Paraguay,-25.282773,-57.63561,3.0,0.0
+2000,5,27,North America,United States,43.20725,-71.536604,0.0,0.0
+2000,5,27,North America,United States,44.04992,-123.088544,0.0,0.0
+2000,6,4,South America,Colombia,5.41255,-74.99229,0.0,0.0
+2000,6,5,South America,Colombia,5.41255,-74.99229,0.0,0.0
+2000,6,16,North America,United States,44.04992,-123.088544,0.0,0.0
+2000,6,19,South America,Colombia,6.242026,-75.564766,0.0,1.0
+2000,5,25,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2000,7,1,South America,Colombia,4.667128,-74.106056,30.0,1.0
+2000,7,1,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,7,2,North America,United States,39.01737,-85.760763,0.0,0.0
+2000,7,7,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2000,7,10,South America,Colombia,7.00063,-76.26572,0.0,3.0
+2000,7,11,North America,Canada,49.25,-123.133333,1.0,0.0
+2000,7,15,South America,Colombia,4.010004,-75.603807,0.0,13.0
+2000,7,19,North America,United States,43.064388,-87.966202,0.0,0.0
+2000,7,22,South America,Colombia,2.77772,-75.25743,0.0,1.0
+2000,7,24,North America,Mexico,19.355751,-99.29935,3.0,0.0
+2000,7,29,South America,Colombia,1.47321,-77.137207,3.0,10.0
+2000,8,11,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2000,8,11,South America,Colombia,4.092517,-75.154538,0.0,2.0
+2000,8,25,North America,Mexico,16.734299,-92.036222,0.0,0.0
+2000,8,27,South America,Colombia,11.01079,-74.25162,0.0,9.0
+2000,8,27,South America,Colombia,3.88182,-77.07042,0.0,7.0
+2000,8,30,South America,Colombia,10.413711,-75.533549,0.0,0.0
+2000,9,4,South America,Colombia,7.060051,-73.853115,7.0,0.0
+2000,9,4,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2000,9,4,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2000,9,4,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2000,9,4,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2000,9,4,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2000,9,4,South America,Colombia,6.270526,-75.572173,0.0,0.0
+2000,9,4,South America,Colombia,6.17215,-75.609571,0.0,0.0
+2000,9,4,South America,Colombia,6.17215,-75.609571,0.0,0.0
+2000,9,4,South America,Colombia,6.17215,-75.609571,0.0,0.0
+2000,9,4,South America,Colombia,6.34593,-75.50811,0.0,0.0
+2000,9,4,South America,Colombia,6.34593,-75.50811,0.0,0.0
+2000,9,4,South America,Colombia,6.34053,-75.562227,0.0,0.0
+2000,9,4,South America,Colombia,6.37728,-75.44612,0.0,0.0
+2000,8,30,South America,Colombia,5.13083,-74.15825,0.0,0.0
+2000,9,5,South America,Brazil,-23.545751,-46.659943,0.0,0.0
+2000,9,6,North America,United States,44.045558,-123.080222,0.0,0.0
+2000,9,7,South America,Colombia,3.88182,-77.07042,0.0,7.0
+2000,9,9,North America,United States,39.16659,-86.534244,0.0,0.0
+2000,9,13,South America,Colombia,6.931857,-71.157523,0.0,0.0
+2000,9,13,South America,Colombia,6.2675,-75.568611,0.0,0.0
+2000,9,17,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,9,19,North America,Canada,49.887952,-119.496011,2.0,0.0
+2000,9,23,South America,Colombia,1.14661,-76.64812,0.0,0.0
+2000,9,25,South America,Colombia,1.14661,-76.64812,0.0,0.0
+2000,10,1,South America,Colombia,5.337522,-75.729304,0.0,0.0
+2000,10,1,South America,Colombia,7.32234,-73.01493,0.0,0.0
+2000,10,5,South America,Colombia,10.981412,-74.778319,0.0,1.0
+2000,10,6,South America,Colombia,6.270526,-75.572173,0.0,0.0
+2000,10,7,South America,Colombia,3.429344,-76.516037,7.0,0.0
+2000,10,7,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,10,7,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,10,7,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2000,10,12,South America,Ecuador,-0.879091,-76.085601,0.0,0.0
+2000,10,15,South America,Colombia,6.43711,-75.3313,0.0,11.0
+2000,10,20,North America,United States,33.44826,-112.075774,0.0,0.0
+2000,10,22,South America,Colombia,3.86647,-74.417001,0.0,0.0
+2000,10,28,South America,Colombia,8.43557,-73.28742,0.0,1.0
+2000,10,29,South America,Peru,-16.741855,-69.716499,0.0,0.0
+2000,11,1,North America,Canada,53.543564,-113.490452,0.0,0.0
+2000,11,1,North America,Canada,53.543564,-113.490452,0.0,0.0
+2000,11,2,South America,Colombia,7.39002,-73.50099,0.0,0.0
+2000,11,3,South America,Colombia,7.198606,-75.341218,5.0,19.0
+2000,11,14,South America,Colombia,3.429344,-76.516037,1.0,1.0
+2000,11,14,South America,Colombia,3.429344,-76.516037,8.0,0.0
+2000,11,18,South America,Colombia,0.49765,-76.49768,17.0,1.0
+2000,11,22,North America,Mexico,20.115301,-98.745887,0.0,1.0
+2000,11,22,South America,Colombia,3.420636,-76.522251,0.0,0.0
+2000,11,22,South America,Colombia,5.96347,-75.734024,0.0,17.0
+2000,11,25,South America,Colombia,4.40464,-74.38643,0.0,0.0
+2000,11,26,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2000,11,27,North America,United States,40.103955,-105.172429,0.0,0.0
+2000,11,28,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2000,11,29,South America,Colombia,0.66643,-76.87192,0.0,1.0
+2000,12,6,South America,Colombia,6.1429,-75.18417,15.0,29.0
+2000,12,7,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2000,12,9,North America,United States,40.883456,-72.940741,0.0,0.0
+2000,12,10,North America,United States,33.44826,-112.075774,0.0,0.0
+2000,12,14,North America,United States,33.44826,-112.075774,0.0,0.0
+2000,12,14,North America,United States,33.44826,-112.075774,0.0,0.0
+2000,12,15,South America,Colombia,4.667128,-74.106056,3.0,2.0
+2000,12,18,South America,Colombia,4.74386,-74.5337,1.0,1.0
+2000,12,17,South America,Colombia,4.44251,-74.04416,0.0,11.0
+2000,3,16,South America,Colombia,5.252803,-76.825965,0.0,0.0
+2000,12,19,North America,United States,40.960042,-72.995514,0.0,0.0
+2000,12,29,South America,Colombia,1.61456,-75.6053,0.0,7.0
+2000,12,20,North America,United States,33.44826,-112.075774,0.0,0.0
+2000,12,29,South America,Colombia,1.68448,-75.28659,0.0,7.0
+2000,12,30,North America,United States,40.946995,-73.021319,0.0,0.0
+2000,12,31,North America,United States,38.984895,-94.671684,0.0,0.0
+2001,1,0,South America,Colombia,3.800889,-76.641271,0.0,3.0
+2001,1,1,South America,Colombia,4.5981,-74.07603,0.0,0.0
+2001,1,2,North America,United States,42.738006,-123.417103,0.0,0.0
+2001,1,3,South America,Colombia,6.598449,-75.011559,0.0,11.0
+2001,1,5,South America,Colombia,6.23384,-75.1617,0.0,12.0
+2001,1,6,South America,Colombia,6.547306,-71.002231,0.0,0.0
+2001,1,6,South America,Colombia,7.060051,-73.853115,10.0,1.0
+2001,1,17,South America,Colombia,9.614635,-75.398636,0.0,28.0
+2001,1,0,South America,Colombia,7.060051,-73.853115,0.0,8.0
+2001,1,9,South America,Colombia,6.43711,-75.3313,0.0,1.0
+2001,1,9,South America,Colombia,6.08314,-75.33544,0.0,5.0
+2001,1,9,South America,Colombia,7.894195,-72.503885,0.0,4.0
+2001,1,10,South America,Colombia,6.242026,-75.564766,51.0,1.0
+2001,1,13,North America,United States,40.960042,-72.995514,0.0,0.0
+2001,1,13,South America,Colombia,10.77259,-73.00454,0.0,4.0
+2001,1,13,South America,Colombia,10.47692,-73.25049,2.0,3.0
+2001,1,15,South America,Colombia,2.62241,-76.56961,1.0,10.0
+2001,1,18,South America,Colombia,7.10577,-77.76488,0.0,1.0
+2001,1,18,North America,United States,33.494,-111.920694,0.0,0.0
+2001,1,19,South America,Colombia,5.872875,-75.567061,0.0,6.0
+2001,1,20,South America,Argentina,-34.61768,-58.444435,1.0,0.0
+2001,1,23,South America,Colombia,6.242026,-75.564766,0.0,1.0
+2001,1,23,North America,United States,36.974796,-121.953457,0.0,0.0
+2001,1,28,North America,United States,42.291957,-85.587437,0.0,0.0
+2001,1,28,South America,Colombia,11.06561,-72.76391,5.0,10.0
+2001,1,28,South America,Colombia,11.06561,-72.76391,5.0,10.0
+2001,1,30,South America,Colombia,6.28281,-75.33184,0.0,0.0
+2001,2,4,South America,Colombia,6.46052,-71.72989,0.0,0.0
+2001,2,4,South America,Colombia,6.95284,-71.87514,2.0,1.0
+2001,2,4,South America,Ecuador,-0.211188,-78.522629,0.0,0.0
+2001,2,6,South America,Colombia,11.288242,-74.151651,0.0,0.0
+2001,2,6,South America,Colombia,8.601686,-73.608184,0.0,0.0
+2001,2,6,South America,Colombia,7.34824,-73.89707,0.0,9.0
+2001,2,0,South America,Colombia,6.20781,-75.73436,0.0,5.0
+2001,2,12,South America,Colombia,7.894195,-72.503885,3.0,1.0
+2001,2,14,North America,Mexico,24.413892,-106.727641,3.0,12.0
+2001,2,15,South America,Colombia,3.429344,-76.516037,2.0,0.0
+2001,2,20,South America,Colombia,4.667128,-74.106056,20.0,0.0
+2001,2,20,North America,United States,36.33377,-119.292914,0.0,0.0
+2001,2,22,South America,Colombia,4.5981,-74.07603,0.0,0.0
+2001,3,2,North America,United States,40.697132,-73.931351,0.0,0.0
+2001,3,20,South America,Colombia,6.47005,-73.26162,0.0,1.0
+2001,3,3,South America,Colombia,9.951201,-75.079457,2.0,3.0
+2001,3,4,South America,Colombia,10.413711,-75.533549,0.0,0.0
+2001,3,12,South America,Colombia,9.3625,-73.60158,0.0,2.0
+2001,3,19,South America,Colombia,4.092517,-75.154538,0.0,0.0
+2001,3,19,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2001,3,22,South America,Colombia,9.30535,-75.3978,0.0,1.0
+2001,3,24,South America,Colombia,1.4,-78.566667,0.0,0.0
+2001,3,30,North America,United States,44.043266,-123.061512,0.0,0.0
+2001,4,2,South America,Colombia,10.91685,-74.76634,0.0,1.0
+2001,4,4,North America,United States,45.238255,-93.65305,0.0,0.0
+2001,4,5,North America,United States,48.194295,-122.126414,0.0,0.0
+2001,4,14,South America,Colombia,1.6975,-77.299444,0.0,25.0
+2001,4,15,North America,United States,45.511795,-122.675629,0.0,0.0
+2001,4,16,South America,Colombia,7.08582,-70.75779,0.0,0.0
+2001,4,23,South America,Guyana,6.821806,-58.159218,0.0,0.0
+2001,5,1,South America,Colombia,1.851988,-76.046976,1.0,1.0
+2001,5,4,South America,Colombia,3.429344,-76.516037,25.0,4.0
+2001,5,5,North America,United States,30.297774,-97.801914,0.0,0.0
+2001,5,14,South America,Colombia,4.608699,-72.928854,0.0,0.0
+2001,5,16,South America,Peru,-11.967368,-76.978462,6.0,0.0
+2001,5,17,South America,Colombia,6.242026,-75.564766,137.0,8.0
+2001,5,21,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2001,5,21,North America,United States,46.103654,-123.204304,0.0,0.0
+2001,5,21,North America,United States,47.610786,-122.331306,0.0,0.0
+2001,5,25,South America,Colombia,4.667128,-74.106056,20.0,4.0
+2001,6,1,North America,United States,45.285772,-122.334678,0.0,0.0
+2001,6,11,North America,United States,47.255135,-122.441654,0.0,0.0
+2001,6,12,North America,United States,32.345634,-110.943212,0.0,0.0
+2001,6,15,South America,Colombia,3.69748,-73.69899,16.0,0.0
+2001,6,15,South America,Colombia,10.95667,-72.78887,0.0,0.0
+2001,6,22,North America,Mexico,19.371887,-99.086624,0.0,0.0
+2001,6,25,South America,Colombia,4.814278,-75.694558,0.0,0.0
+2001,6,26,South America,Colombia,6.98336,-71.81668,0.0,0.0
+2001,6,27,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,7,6,South America,Colombia,1.61456,-75.6053,0.0,1.0
+2001,11,7,South America,Colombia,10.785085,-73.499038,0.0,0.0
+2001,7,12,North America,United States,48.194295,-122.126414,0.0,0.0
+2001,7,15,South America,Colombia,3.52721,-74.02371,0.0,0.0
+2001,7,17,South America,Colombia,5.333333,-76.733333,0.0,1.0
+2001,7,18,South America,Colombia,2.61091,-76.37917,0.0,0.0
+2001,7,23,South America,Venezuela,7.929572,-72.246594,0.0,0.0
+2001,7,24,North America,United States,38.962408,-119.939903,0.0,0.0
+2001,7,25,South America,Venezuela,10.482834,-66.962128,1.0,0.0
+2001,7,27,South America,Colombia,2.925561,-75.290777,0.0,0.0
+2001,8,0,South America,Colombia,6.270526,-75.572173,0.0,0.0
+2001,8,0,South America,Colombia,7.07786,-74.70355,0.0,0.0
+2001,8,0,South America,Colombia,7.48008,-73.92076,0.0,0.0
+2001,8,3,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2001,8,5,South America,Ecuador,-0.211188,-78.522629,0.0,0.0
+2001,8,5,South America,Ecuador,-2.170832,-79.922359,0.0,0.0
+2001,8,5,South America,Ecuador,-2.90008,-79.005896,0.0,0.0
+2001,8,5,South America,Ecuador,-1.056085,-80.455278,0.0,0.0
+2001,8,5,South America,Colombia,7.060051,-73.853115,0.0,0.0
+2001,8,5,South America,Colombia,7.060051,-73.853115,0.0,0.0
+2001,8,5,South America,Colombia,7.060051,-73.853115,0.0,0.0
+2001,8,5,South America,Colombia,1.66872,-77.01234,0.0,1.0
+2001,8,6,South America,Colombia,7.060051,-73.853115,2.0,0.0
+2001,8,6,South America,Colombia,8.79996,-74.61666,0.0,0.0
+2001,8,6,South America,Colombia,8.809894,-74.616688,0.0,0.0
+2001,8,6,South America,Colombia,8.8833,-74.7,0.0,0.0
+2001,8,7,South America,Colombia,5.657909,-75.837417,0.0,0.0
+2001,8,7,South America,Colombia,6.96316,-75.41732,0.0,0.0
+2001,8,8,North America,Mexico,19.371887,-99.086624,1.0,0.0
+2001,8,8,South America,Colombia,5.96478,-75.10166,35.0,3.0
+2001,8,8,North America,Mexico,19.371887,-99.086624,1.0,0.0
+2001,8,8,North America,United States,18.14859,-65.442114,0.0,0.0
+2001,8,8,South America,Peru,-11.428458,-74.488335,3.0,16.0
+2001,8,9,South America,Colombia,7.888219,-72.797697,4.0,2.0
+2001,8,10,South America,Venezuela,10.6,-67.033333,0.0,0.0
+2001,8,10,South America,Colombia,9.19974,-73.5433,0.0,0.0
+2001,8,10,South America,Colombia,9.98161,-75.30104,0.0,0.0
+2001,8,10,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2001,8,10,South America,Colombia,2.524168,-75.316146,0.0,3.0
+2001,8,10,South America,Colombia,1.851988,-76.046976,0.0,5.0
+2001,8,12,South America,Colombia,7.027541,-71.428724,0.0,0.0
+2001,8,12,South America,Colombia,11.271111,-73.179167,6.0,2.0
+2001,8,13,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,8,13,South America,Colombia,6.34053,-75.562227,0.0,0.0
+2001,8,13,South America,Colombia,8.95736,-73.62346,0.0,0.0
+2001,8,14,South America,Colombia,9.19974,-73.5433,0.0,0.0
+2001,8,14,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,8,14,South America,Colombia,6.643708,-73.653621,0.0,0.0
+2001,8,14,South America,Colombia,3.88182,-77.07042,0.0,0.0
+2001,8,14,South America,Colombia,7.888219,-72.797697,0.0,0.0
+2001,8,14,South America,Colombia,8.308585,-73.613541,0.0,0.0
+2001,8,14,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2001,8,14,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2001,8,15,South America,Colombia,6.907503,-75.074961,0.0,6.0
+2001,8,15,South America,Peru,-13.152712,-74.218628,0.0,0.0
+2001,8,16,South America,Brazil,-22.656693,-43.039843,0.0,1.0
+2001,8,17,South America,Colombia,3.382969,-76.586423,0.0,0.0
+2001,8,18,South America,Colombia,10.98766,-74.95335,0.0,1.0
+2001,8,18,South America,Colombia,5.449497,-74.667911,0.0,0.0
+2001,8,19,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2001,8,19,South America,Colombia,5.88423,-75.31635,0.0,0.0
+2001,8,19,South America,Colombia,6.69402,-73.01879,0.0,0.0
+2001,8,20,South America,Colombia,1.61456,-75.6053,0.0,0.0
+2001,8,20,South America,Colombia,4.71854,-74.92843,0.0,0.0
+2001,8,20,South America,Colombia,3.800889,-76.641271,0.0,0.0
+2001,8,20,South America,Colombia,4.71365,-75.09733,0.0,0.0
+2001,8,22,South America,Colombia,6.80966,-72.84968,0.0,0.0
+2001,8,22,South America,Colombia,3.372457,-73.873772,0.0,0.0
+2001,8,23,South America,Colombia,6.17215,-75.609571,0.0,0.0
+2001,8,23,South America,Colombia,6.153669,-75.37416,0.0,0.0
+2001,8,23,South America,Colombia,6.153669,-75.37416,0.0,0.0
+2001,8,23,South America,Colombia,6.153669,-75.37416,0.0,0.0
+2001,8,23,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,8,23,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,8,23,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,8,23,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,8,23,South America,Colombia,6.16914,-75.52406,0.0,0.0
+2001,8,23,South America,Colombia,9.71809,-75.12097,0.0,0.0
+2001,8,23,South America,Colombia,6.173826,-75.334737,20.0,1.0
+2001,8,23,South America,Colombia,6.242026,-75.564766,10.0,0.0
+2001,8,23,South America,Colombia,6.242026,-75.564766,20.0,0.0
+2001,8,24,South America,Colombia,7.894195,-72.503885,0.0,0.0
+2001,8,25,South America,Colombia,2.936848,-75.586642,3.0,0.0
+2001,8,25,South America,Colombia,10.380159,-74.88082,0.0,0.0
+2001,8,28,North America,Mexico,19.371887,-99.086624,0.0,0.0
+2001,8,28,South America,Colombia,7.89014,-75.66967,6.0,6.0
+2001,8,28,South America,Colombia,2.535935,-75.52767,0.0,0.0
+2001,8,28,South America,Colombia,0.884572,-77.503387,0.0,0.0
+2001,8,28,South America,Colombia,11.30613,-72.34137,0.0,0.0
+2001,8,29,South America,Colombia,7.48008,-73.92076,0.0,0.0
+2001,8,29,South America,Colombia,5.548323,-75.6441,0.0,5.0
+2001,8,29,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2001,8,29,South America,Colombia,8.63781,-72.73464,0.0,0.0
+2001,8,29,South America,Colombia,10.195424,-73.972736,0.0,0.0
+2001,8,30,South America,Colombia,1.90967,-75.15906,0.0,1.0
+2001,8,30,South America,Colombia,1.637898,-77.745208,0.0,7.0
+2001,8,30,South America,Colombia,6.13091,-72.70866,0.0,1.0
+2001,8,30,South America,Colombia,7.86424,-72.7172,0.0,0.0
+2001,8,31,South America,Colombia,7.131202,-73.124973,0.0,0.0
+2001,9,1,North America,Mexico,19.371887,-99.086624,0.0,0.0
+2001,9,1,South America,Colombia,7.06749,-73.16942,0.0,1.0
+2001,9,2,South America,Colombia,4.330762,-73.862957,0.0,0.0
+2001,9,3,South America,Colombia,1.71204,-76.02544,6.0,4.0
+2001,9,6,South America,Colombia,4.667128,-74.106056,0.0,1.0
+2001,9,8,North America,United States,32.222232,-110.925752,0.0,0.0
+2001,9,11,North America,United States,40.697132,-73.931351,8190.0,1384.0
+2001,9,11,North America,United States,40.697132,-73.931351,8191.0,1383.0
+2001,9,11,North America,United States,38.878742,-77.100006,106.0,190.0
+2001,9,11,North America,United States,40.018464,-78.907197,6.0,44.0
+2001,9,14,South America,Colombia,10.47692,-73.25049,0.0,0.0
+2001,9,14,South America,Colombia,8.41759,-73.796322,0.0,0.0
+2001,9,16,South America,Colombia,5.12379,-74.95201,2.0,11.0
+2001,9,19,South America,Colombia,1.807411,-78.763753,0.0,1.0
+2001,9,19,South America,Colombia,7.894195,-72.503885,1.0,1.0
+2001,9,20,North America,United States,32.89925,-105.960323,0.0,0.0
+2001,9,23,South America,Colombia,6.270526,-75.572173,0.0,0.0
+2001,9,24,South America,Colombia,10.47692,-73.25049,0.0,1.0
+2001,9,27,South America,Colombia,2.64934,-75.636802,0.0,0.0
+2001,9,27,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2001,10,2,North America,United States,26.368306,-80.128932,5.0,1.0
+2001,10,2,South America,Colombia,5.82696,-73.03441,1.0,0.0
+2001,10,3,South America,Brazil,-16.465735,-54.638748,0.0,0.0
+2001,10,7,South America,Colombia,1.67155,-78.14099,0.0,2.0
+2001,10,7,South America,Colombia,11.24725,-74.20166,0.0,6.0
+2001,10,8,South America,Colombia,4.667128,-74.106056,0.0,1.0
+2001,10,9,North America,United States,38.908642,-77.015381,1.0,2.0
+2001,10,10,South America,Colombia,3.899723,-76.302032,0.0,24.0
+2001,10,11,South America,Colombia,1.47888,-75.43724,0.0,5.0
+2001,11,10,South America,Colombia,1.61456,-75.6053,0.0,2.0
+2001,11,10,South America,Colombia,6.81429,-75.2406,0.0,0.0
+2001,11,10,South America,Colombia,7.7833,-73.73329,0.0,12.0
+2001,10,12,North America,United States,40.697132,-73.931351,6.0,0.0
+2001,10,14,South America,Colombia,5.067866,-75.517482,0.0,4.0
+2001,10,15,North America,United States,38.908642,-77.015381,6.0,2.0
+2001,10,15,North America,United States,40.697132,-73.931351,1.0,0.0
+2001,10,15,North America,United States,39.527395,-119.813414,0.0,0.0
+2001,10,15,North America,United States,40.38146,-120.383169,0.0,0.0
+2001,10,16,South America,Colombia,8.95736,-73.62346,0.0,1.0
+2001,10,17,North America,United States,40.697132,-73.931351,0.0,0.0
+2001,10,18,North America,United States,40.697132,-73.931351,1.0,0.0
+2001,10,18,South America,Brazil,-22.908278,-43.197026,0.0,0.0
+2001,10,19,North America,United States,40.697132,-73.931351,2.0,0.0
+2001,10,19,North America,Mexico,19.371887,-99.086624,0.0,1.0
+2001,10,20,South America,Colombia,6.37808,-75.142101,0.0,10.0
+2001,10,21,South America,Colombia,6.21723,-75.24309,2.0,5.0
+2001,10,27,South America,Colombia,9.3625,-73.60158,0.0,5.0
+2001,10,28,South America,Colombia,5.69224,-76.658093,0.0,1.0
+2001,10,29,North America,United States,40.697132,-73.931351,0.0,1.0
+2001,11,1,South America,Colombia,7.894195,-72.503885,0.0,1.0
+2001,11,4,South America,Colombia,6.09188,-75.63615,0.0,0.0
+2001,11,3,South America,Colombia,5.758927,-71.572395,0.0,0.0
+2001,11,5,North America,United States,47.117051,-88.544531,0.0,0.0
+2001,11,5,North America,United States,47.12186,-88.570024,0.0,0.0
+2001,11,10,South America,Colombia,1.61456,-75.6053,0.0,2.0
+2001,11,11,South America,Colombia,8.57451,-73.09339,0.0,0.0
+2001,11,11,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2001,11,14,North America,United States,41.439769,-73.126816,0.0,1.0
+2001,11,15,South America,Colombia,3.88182,-77.07042,1.0,2.0
+2001,11,18,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2001,11,18,South America,Colombia,3.173882,-76.259454,3.0,10.0
+2001,11,0,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2001,11,21,South America,Colombia,3.52721,-74.02371,0.0,1.0
+2001,11,22,South America,Colombia,8.173611,-76.059167,0.0,6.0
+2001,11,24,South America,Colombia,5.420595,-75.702686,0.0,3.0
+2001,11,22,South America,Colombia,8.173611,-76.059167,0.0,12.0
+2001,11,28,South America,Colombia,5.865618,-75.534273,0.0,7.0
+2001,11,30,South America,Colombia,10.413711,-75.533549,0.0,2.0
+2001,12,3,South America,Colombia,5.445543,-75.688443,2.0,1.0
+2001,12,3,South America,Colombia,11.242035,-74.205384,0.0,1.0
+2001,12,9,South America,Colombia,6.17215,-75.609571,0.0,0.0
+2001,12,9,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2001,12,10,South America,Colombia,11.544088,-72.90688,0.0,0.0
+2001,12,12,South America,Colombia,9.24605,-74.7595,0.0,0.0
+2001,12,0,South America,Colombia,1.38245,-77.15621,0.0,0.0
+2001,12,12,South America,Colombia,8.46771,-74.53563,0.0,0.0
+2001,12,17,South America,Colombia,1.61456,-75.6053,9.0,3.0
+2002,1,5,North America,United States,27.947354,-82.45875,0.0,1.0
+2002,1,12,South America,Colombia,2.11317,-74.76918,13.0,0.0
+2002,1,15,South America,Colombia,3.821611,-76.522252,0.0,0.0
+2002,1,15,South America,Colombia,4.21557,-73.81502,0.0,0.0
+2002,1,16,South America,Colombia,11.242035,-74.205384,2.0,2.0
+2002,1,16,South America,Colombia,3.88182,-77.07042,0.0,0.0
+2002,1,17,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2002,1,17,South America,Colombia,5.758927,-71.572395,0.0,0.0
+2002,1,18,South America,Colombia,2.243589,-77.010385,0.0,5.0
+2002,1,19,South America,Colombia,2.243589,-77.010385,1.0,4.0
+2002,1,20,South America,Colombia,10.223569,-73.491557,10.0,2.0
+2002,1,20,South America,Colombia,4.74386,-74.5337,1.0,2.0
+2002,1,20,South America,Colombia,5.0694,-74.598061,1.0,0.0
+2002,1,20,South America,Colombia,5.0694,-74.598061,0.0,0.0
+2002,1,22,South America,Colombia,4.26995,-73.48676,0.0,0.0
+2002,1,25,South America,Colombia,4.667128,-74.106056,28.0,5.0
+2002,1,26,North America,United States,44.943829,-93.093326,0.0,0.0
+2002,1,26,South America,Colombia,8.09242,-76.72738,8.0,0.0
+2002,1,28,South America,Colombia,7.894195,-72.503885,1.0,0.0
+2002,1,0,South America,Colombia,2.535935,-75.52767,0.0,7.0
+2002,1,30,South America,Colombia,7.08582,-70.75779,13.0,0.0
+2002,1,30,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2002,2,1,South America,Colombia,7.894195,-72.503885,0.0,0.0
+2002,7,4,North America,United States,34.097866,-118.407379,4.0,3.0
+2002,5,0,South America,Colombia,5.731036,-75.142048,0.0,0.0
+2002,2,6,South America,Colombia,9.30535,-75.3978,1.0,1.0
+2002,2,9,South America,Colombia,7.907275,-72.968411,0.0,0.0
+2002,2,10,South America,Colombia,7.08582,-70.75779,0.0,0.0
+2002,2,11,South America,Colombia,5.963316,-75.978722,0.0,0.0
+2002,2,13,South America,Colombia,5.41255,-74.99229,1.0,0.0
+2002,2,13,South America,Colombia,11.161162,-72.591641,0.0,0.0
+2002,2,15,South America,Colombia,11.544088,-72.90688,0.0,0.0
+2002,2,20,South America,Colombia,2.584114,-75.451866,0.0,0.0
+2002,1,23,South America,Colombia,3.429344,-76.516037,0.0,1.0
+2002,2,22,South America,Colombia,2.06273,-75.787203,0.0,1.0
+2002,2,23,South America,Colombia,1.61456,-75.6053,0.0,0.0
+2002,2,23,South America,Colombia,1.851988,-76.046976,0.0,0.0
+2002,2,24,South America,Colombia,2.18265,-73.78572,0.0,5.0
+2002,2,25,South America,Colombia,1.61456,-75.6053,0.0,0.0
+2002,2,27,South America,Colombia,7.08582,-70.75779,0.0,0.0
+2002,2,27,South America,Colombia,1.61456,-75.6053,0.0,0.0
+2002,3,0,South America,Colombia,5.20115,-75.868,0.0,0.0
+2002,3,0,South America,Colombia,4.75923,-74.38032,0.0,3.0
+2002,4,3,South America,Colombia,6.300593,-70.205356,0.0,0.0
+2002,4,3,South America,Colombia,2.45051,-77.98001,0.0,1.0
+2002,3,5,South America,Colombia,3.69748,-73.69899,0.0,0.0
+2002,3,16,South America,Colombia,3.429344,-76.516037,0.0,1.0
+2002,3,20,South America,Peru,-11.967368,-76.978462,32.0,9.0
+2002,3,24,North America,United States,42.129445,-80.085239,0.0,0.0
+2002,3,0,South America,Colombia,5.31723,-75.78713,0.0,0.0
+2002,3,30,South America,Colombia,6.18908,-67.4826,0.0,2.0
+2002,4,3,South America,Colombia,6.95284,-71.87514,0.0,0.0
+2002,5,4,South America,Colombia,4.243193,-75.241121,2.0,2.0
+2002,4,7,South America,Colombia,4.15127,-73.63872,70.0,12.0
+2002,4,9,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2002,4,9,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2002,4,9,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2002,4,9,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2002,4,14,South America,Colombia,10.981412,-74.778319,20.0,3.0
+2002,4,17,South America,Colombia,6.552373,-72.499692,0.0,0.0
+2002,4,19,South America,Colombia,2.261312,-76.74142,0.0,0.0
+2002,4,19,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2002,4,26,South America,Colombia,8.09242,-76.72738,18.0,9.0
+2002,5,0,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2002,5,0,South America,Colombia,5.790365,-75.428333,0.0,0.0
+2002,5,0,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2002,5,1,South America,Colombia,4.814278,-75.694558,0.0,2.0
+2002,5,1,South America,Colombia,1.95846,-72.65231,2.0,2.0
+2002,5,2,South America,Colombia,6.521111,-76.972222,80.0,119.0
+2002,5,2,South America,Colombia,6.43711,-75.3313,0.0,0.0
+2002,5,3,North America,United States,42.514446,-90.751516,1.0,0.0
+2002,5,3,North America,United States,42.443889,-91.009444,1.0,0.0
+2002,5,3,North America,United States,42.108337,-91.285159,1.0,0.0
+2002,5,3,North America,United States,39.16659,-86.534244,1.0,0.0
+2002,5,3,North America,United States,41.658086,-90.584582,1.0,0.0
+2002,5,3,North America,United States,42.095023,-89.97818,1.0,0.0
+2002,5,3,North America,United States,41.809751,-89.965119,1.0,0.0
+2002,5,3,North America,United States,42.317791,-90.221517,0.0,0.0
+2002,5,3,North America,United States,39.16659,-86.534244,0.0,0.0
+2002,5,4,North America,United States,41.466401,-98.703134,0.0,0.0
+2002,5,4,North America,United States,41.002235,-98.606738,0.0,0.0
+2002,5,4,North America,United States,41.432778,-97.358611,0.0,0.0
+2002,5,4,North America,United States,40.312784,-97.811986,0.0,0.0
+2002,5,4,North America,United States,40.414167,-97.452222,0.0,0.0
+2002,5,4,North America,United States,40.911111,-97.096944,0.0,0.0
+2002,5,4,North America,United States,41.689444,-98.003056,0.0,0.0
+2002,5,6,North America,United States,38.534719,-105.998902,0.0,0.0
+2002,5,6,North America,United States,38.26386,-104.612374,0.0,0.0
+2002,5,7,North America,United States,35.207255,-101.833894,0.0,0.0
+2002,5,7,South America,Colombia,2.584114,-75.451866,0.0,0.0
+2002,5,8,South America,Colombia,9.24605,-74.7595,0.0,1.0
+2002,5,8,South America,Colombia,5.758927,-71.572395,0.0,0.0
+2002,5,8,South America,Colombia,8.43557,-73.28742,1.0,3.0
+2002,5,9,South America,Colombia,4.17721,-74.53265,1.0,2.0
+2002,5,10,South America,Colombia,7.48008,-73.92076,0.0,1.0
+2002,5,13,North America,United States,40.008171,-75.13549,0.0,0.0
+2002,5,14,South America,Colombia,5.324309,-75.7277,1.0,1.0
+2002,5,14,South America,Colombia,4.5295,-75.64021,0.0,1.0
+2002,5,15,South America,Colombia,6.05703,-75.18513,2.0,0.0
+2002,5,15,South America,Colombia,7.07253,-75.44586,0.0,0.0
+2002,5,15,South America,Colombia,9.175967,-75.190353,0.0,0.0
+2002,5,19,South America,Colombia,10.47692,-73.25049,0.0,0.0
+2002,5,20,South America,Colombia,5.74759,-75.60678,0.0,0.0
+2002,5,23,South America,Colombia,11.354774,-72.520483,5.0,0.0
+2002,5,25,South America,Colombia,1.47888,-75.43724,0.0,2.0
+2002,5,28,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2002,5,28,South America,Colombia,4.667128,-74.106056,5.0,0.0
+2002,5,30,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2002,6,1,South America,Colombia,7.6676,-76.6803,23.0,9.0
+2002,6,3,South America,Colombia,4.845447,-74.622546,0.0,0.0
+2002,6,3,North America,United States,25.774591,-80.214195,0.0,0.0
+2002,6,3,North America,United States,25.774591,-80.214195,0.0,0.0
+2002,3,5,South America,Colombia,9.337295,-73.653621,0.0,0.0
+2002,5,0,South America,Colombia,5.973652,-75.361345,0.0,0.0
+2002,4,6,South America,Colombia,2.19716,-75.98108,0.0,2.0
+2002,6,6,South America,Colombia,0.873889,-75.618611,0.0,1.0
+2002,6,6,South America,Colombia,4.667128,-74.106056,10.0,1.0
+2002,6,14,South America,Colombia,5.336134,-74.303539,3.0,5.0
+2002,6,17,South America,Colombia,5.408299,-73.295907,0.0,0.0
+2002,6,16,South America,Colombia,1.637898,-77.745208,0.0,0.0
+2002,6,24,South America,Brazil,-22.908278,-43.197026,0.0,0.0
+2002,6,26,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2002,6,27,South America,Colombia,3.429344,-76.516037,0.0,1.0
+2002,7,1,South America,Colombia,4.667128,-74.106056,0.0,1.0
+2002,7,2,South America,Colombia,2.243589,-77.010385,2.0,1.0
+2002,7,10,North America,United States,47.610786,-122.331306,0.0,0.0
+2002,7,11,South America,Colombia,2.084325,-75.867193,0.0,3.0
+2002,7,18,South America,Colombia,1.18963,-76.97333,0.0,0.0
+2002,7,18,South America,Colombia,10.413711,-75.533549,16.0,3.0
+2002,7,20,South America,Colombia,6.81429,-75.2406,8.0,0.0
+2002,7,23,South America,Colombia,6.242026,-75.564766,13.0,2.0
+2002,7,24,South America,Colombia,4.845447,-74.622546,6.0,3.0
+2002,7,0,South America,Colombia,2.113188,-74.769206,4.0,0.0
+2002,8,25,South America,Colombia,5.88054,-71.89239,2.0,2.0
+2002,8,2,South America,Colombia,4.343864,-74.361955,17.0,1.0
+2002,8,3,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2002,8,4,South America,Colombia,4.667128,-74.106056,0.0,1.0
+2002,8,4,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2002,8,4,South America,Colombia,6.95284,-71.87514,16.0,0.0
+2002,8,6,South America,Colombia,5.28223,-73.16934,0.0,0.0
+2002,8,7,South America,Colombia,4.667128,-74.106056,69.0,14.0
+2002,8,11,North America,United States,41.839226,-79.268381,0.0,0.0
+2002,8,18,North America,United States,42.280826,-83.743038,0.0,0.0
+2002,8,19,South America,Colombia,5.252803,-76.825965,0.0,1.0
+2002,8,28,South America,Ecuador,-2.170832,-79.922359,3.0,0.0
+2002,8,29,South America,Ecuador,-2.170832,-79.922359,0.0,0.0
+2002,1,8,South America,Colombia,1.90967,-75.15906,0.0,1.0
+2002,9,2,North America,United States,42.37199,-83.467919,0.0,0.0
+2002,9,3,South America,Peru,-11.967368,-76.978462,0.0,0.0
+2002,9,5,South America,Colombia,6.242026,-75.564766,0.0,1.0
+2002,9,5,South America,Colombia,4.667128,-74.106056,0.0,1.0
+2002,9,16,South America,Chile,-33.366238,-70.505302,1.0,0.0
+2002,9,21,North America,United States,37.5407,-77.433654,0.0,0.0
+2002,9,25,South America,Guyana,6.821806,-58.159218,6.0,4.0
+2002,10,3,North America,United States,40.697132,-73.931351,0.0,0.0
+2002,10,17,South America,Colombia,6.242026,-75.564766,2.0,1.0
+2002,10,19,South America,Colombia,2.68523,-75.32598,0.0,4.0
+2002,10,22,South America,Colombia,4.667128,-74.106056,24.0,7.0
+2002,4,11,South America,Colombia,3.429344,-76.516037,0.0,1.0
+2002,11,11,South America,Colombia,5.341765,-74.237861,0.0,0.0
+2002,11,13,South America,Colombia,7.894195,-72.503885,3.0,0.0
+2002,11,18,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2002,11,19,South America,Colombia,11.242035,-74.205384,5.0,1.0
+2002,11,19,South America,Colombia,11.242035,-74.205384,5.0,1.0
+2002,11,22,South America,Colombia,4.667128,-74.106056,2.0,0.0
+2002,11,23,South America,Colombia,6.46052,-71.72989,0.0,2.0
+2002,11,25,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2002,11,26,North America,United States,42.129445,-80.085239,0.0,0.0
+2002,12,2,South America,Venezuela,10.340556,-68.736944,0.0,0.0
+2002,12,4,South America,Colombia,4.79961,-74.74089,0.0,1.0
+2002,12,9,South America,Colombia,4.667128,-74.106056,65.0,0.0
+2002,12,13,South America,Colombia,4.667128,-74.106056,32.0,0.0
+2002,12,13,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2002,12,16,South America,Colombia,2.925561,-75.290777,25.0,1.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2003,1,1,North America,United States,42.001804,-80.315408,0.0,0.0
+2003,1,7,South America,Colombia,4.667128,-74.106056,5.0,8.0
+2003,1,7,North America,Mexico,18.024283,-94.678171,1.0,2.0
+2003,1,7,South America,Colombia,4.74386,-74.5337,5.0,8.0
+2003,1,8,South America,Colombia,7.027345,-71.428555,3.0,1.0
+2003,1,9,South America,Colombia,6.792231,-71.775544,15.0,4.0
+2003,1,11,South America,Colombia,6.46052,-71.72989,2.0,0.0
+2003,1,12,South America,Colombia,6.37696,-71.71833,3.0,3.0
+2003,1,15,South America,Colombia,7.198606,-75.341218,7.0,4.0
+2003,1,16,South America,Colombia,6.242026,-75.564766,30.0,6.0
+2003,1,16,South America,Colombia,4.837712,-75.66807,0.0,11.0
+2003,1,16,South America,Colombia,4.99243,-76.01866,0.0,3.0
+2003,1,16,South America,Colombia,4.714444,-75.795833,2.0,3.0
+2003,1,18,South America,Colombia,3.27199,-73.087749,0.0,0.0
+2003,1,20,South America,Colombia,9.74704,-74.81537,2.0,7.0
+2003,1,20,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2003,1,20,North America,United States,47.610786,-122.331306,0.0,0.0
+2003,1,21,South America,Colombia,6.46052,-71.72989,0.0,0.0
+2003,1,23,South America,Colombia,7.08582,-70.75779,0.0,0.0
+2003,1,26,South America,Colombia,6.46052,-71.72989,6.0,6.0
+2003,1,28,South America,Colombia,10.413711,-75.533549,0.0,0.0
+2003,1,28,South America,Colombia,10.413711,-75.533549,2.0,0.0
+2003,1,28,South America,Colombia,10.413711,-75.533549,0.0,0.0
+2003,1,28,South America,Ecuador,-0.211188,-78.522629,1.0,0.0
+2003,1,29,South America,Colombia,6.099066,-72.247791,0.0,0.0
+2003,2,7,South America,Colombia,4.667128,-74.106056,162.0,32.0
+2003,2,14,South America,Colombia,2.93303,-75.285828,37.0,18.0
+2003,2,25,South America,Venezuela,10.482834,-66.962128,2.0,0.0
+2003,2,25,South America,Venezuela,10.482834,-66.962128,2.0,0.0
+2003,2,27,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2003,3,2,South America,Venezuela,10.632808,-71.632977,0.0,0.0
+2003,3,3,North America,United States,39.728352,-121.837348,0.0,0.0
+2003,3,4,South America,Colombia,6.96316,-75.41732,0.0,0.0
+2003,3,4,South America,Colombia,2.584114,-75.451866,0.0,0.0
+2003,3,5,South America,Colombia,7.894195,-72.503885,68.0,7.0
+2003,3,5,South America,Colombia,9.71809,-75.12097,3.0,1.0
+2003,3,5,South America,Ecuador,-0.211188,-78.522629,0.0,0.0
+2003,3,6,South America,Colombia,4.941389,-75.938889,0.0,0.0
+2003,3,8,South America,Colombia,10.14864,-73.96144,0.0,0.0
+2003,3,10,South America,Colombia,4.667128,-74.106056,3.0,0.0
+2003,3,10,South America,Colombia,10.60485,-72.97948,0.0,0.0
+2003,3,10,North America,United States,39.728352,-121.837348,0.0,0.0
+2003,3,11,South America,Colombia,7.08582,-70.75779,6.0,1.0
+2003,3,11,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2003,3,11,North America,United States,35.08418,-106.648639,0.0,0.0
+2003,3,11,North America,United States,35.08418,-106.648639,0.0,0.0
+2003,3,11,North America,United States,35.08418,-106.648639,0.0,0.0
+2003,3,16,South America,Colombia,2.584114,-75.451866,0.0,0.0
+2003,3,17,North America,United States,38.908642,-77.015381,0.0,0.0
+2003,3,18,South America,Colombia,7.08582,-70.75779,0.0,1.0
+2003,3,18,South America,Colombia,9.52358,-75.23069,0.0,0.0
+2003,3,19,South America,Ecuador,-2.170832,-79.922359,3.0,0.0
+2003,3,21,South America,Colombia,1.210589,-77.993327,2.0,0.0
+2003,3,21,North America,United States,42.320702,-83.640432,0.0,0.0
+2003,3,21,North America,United States,42.321863,-83.636152,0.0,0.0
+2003,3,22,South America,Venezuela,10.156611,-67.99721,0.0,0.0
+2003,3,22,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2003,3,22,North America,United States,38.232471,-122.644448,0.0,0.0
+2003,3,23,South America,Ecuador,-2.170832,-79.922359,0.0,0.0
+2003,3,23,South America,Venezuela,10.156611,-67.99721,0.0,0.0
+2003,3,23,South America,Venezuela,7.766716,-72.233333,0.0,0.0
+2003,3,25,South America,Colombia,0.823757,-77.634908,0.0,0.0
+2003,3,26,South America,Colombia,3.113889,-76.626111,0.0,0.0
+2003,3,26,South America,Colombia,8.568451,-74.55436,2.0,1.0
+2003,3,27,South America,Colombia,6.270526,-75.572173,0.0,0.0
+2003,3,27,South America,Colombia,1.68448,-75.28659,0.0,0.0
+2003,3,27,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2003,3,29,North America,United States,32.38012,-86.300629,0.0,0.0
+2003,3,31,North America,United States,33.890884,-117.261733,0.0,0.0
+2003,4,12,South America,Guyana,6.792893,-58.044561,0.0,0.0
+2003,4,14,South America,Brazil,-22.908278,-43.197026,0.0,0.0
+2003,4,4,North America,United States,41.842602,-87.681229,0.0,0.0
+2003,4,17,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2003,4,19,South America,Colombia,8.670438,-74.030012,4.0,0.0
+2003,4,17,South America,Colombia,6.792231,-71.775544,3.0,1.0
+2003,4,18,South America,Colombia,3.538611,-74.896111,2.0,3.0
+2003,4,19,South America,Colombia,9.781757,-75.872394,0.0,0.0
+2003,4,21,South America,Colombia,6.05703,-75.18513,0.0,1.0
+2003,5,2,South America,Colombia,6.242026,-75.564766,7.0,0.0
+2003,5,3,South America,Colombia,5.337522,-75.729304,4.0,3.0
+2003,5,4,North America,United States,39.728352,-121.837348,0.0,0.0
+2003,5,8,South America,Colombia,5.384329,-75.161146,0.0,0.0
+2003,5,9,South America,Colombia,3.429344,-76.516037,0.0,3.0
+2003,5,9,South America,Colombia,3.996389,-76.974444,1.0,1.0
+2003,5,9,South America,Colombia,3.800889,-76.641271,0.0,0.0
+2003,5,9,South America,Colombia,2.535935,-75.52767,0.0,0.0
+2003,5,19,South America,Colombia,11.354774,-72.520483,0.0,0.0
+2003,5,24,South America,Colombia,11.272246,-73.309852,0.0,0.0
+2003,5,25,North America,United States,26.214297,-80.271999,0.0,0.0
+2003,5,27,South America,Colombia,2.113188,-74.769206,4.0,1.0
+2003,6,1,North America,United States,42.75248,-83.032269,0.0,0.0
+2003,6,0,South America,Colombia,6.1429,-75.18417,10.0,4.0
+2003,6,3,North America,United States,39.745155,-121.79361,0.0,0.0
+2003,6,5,North America,United States,39.728352,-121.837348,0.0,0.0
+2003,7,1,South America,Colombia,2.86001,-76.52746,0.0,0.0
+2003,7,2,South America,Colombia,1.93005,-76.21495,11.0,1.0
+2003,7,6,South America,Colombia,1.57036,-75.32731,35.0,1.0
+2003,7,10,South America,Peru,-11.844638,-76.386121,10.0,7.0
+2003,8,1,North America,United States,32.715695,-117.161719,0.0,0.0
+2003,8,1,South America,Colombia,6.547306,-71.002231,0.0,0.0
+2003,8,3,South America,Colombia,5.613615,-75.457812,1.0,1.0
+2003,8,8,South America,Colombia,6.95284,-71.87514,4.0,5.0
+2003,8,8,South America,Colombia,5.639633,-72.898807,0.0,0.0
+2003,8,9,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2003,8,10,South America,Colombia,3.69748,-73.69899,17.0,1.0
+2003,8,22,North America,United States,34.072149,-117.938024,0.0,0.0
+2003,8,28,North America,United States,37.831455,-122.285164,0.0,0.0
+2003,8,28,North America,United States,37.831455,-122.285164,0.0,0.0
+2003,9,6,North America,United States,39.76691,-86.149964,0.0,0.0
+2003,9,22,North America,United States,43.666894,-85.265114,0.0,0.0
+2003,9,23,South America,Colombia,12.240833,-71.962222,0.0,0.0
+2003,9,24,North America,United States,46.731937,-117.154422,0.0,0.0
+2003,9,26,North America,United States,37.658034,-121.87722,0.0,0.0
+2003,9,28,South America,Colombia,1.61456,-75.6053,48.0,11.0
+2003,9,19,North America,United States,32.715695,-117.161719,0.0,0.0
+2003,9,19,North America,United States,32.715695,-117.161719,0.0,0.0
+2003,10,8,South America,Colombia,4.667128,-74.106056,12.0,6.0
+2003,10,10,South America,Colombia,4.2045,-75.79185,0.0,2.0
+2003,10,14,South America,Colombia,6.915406,-75.675478,0.0,1.0
+2003,10,15,South America,Colombia,4.667128,-74.106056,0.0,1.0
+2003,10,15,North America,United States,34.84802,-82.400219,0.0,0.0
+2003,10,16,South America,Colombia,6.792231,-71.775544,5.0,1.0
+2003,10,16,South America,Colombia,6.242026,-75.564766,8.0,1.0
+2003,10,16,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2003,10,22,South America,Colombia,4.667128,-74.106056,3.0,0.0
+2003,10,22,South America,Colombia,6.17215,-75.609571,11.0,0.0
+2003,10,23,South America,Colombia,6.792231,-71.775544,2.0,0.0
+2003,10,25,North America,United States,45.296544,-92.967595,0.0,0.0
+2003,11,10,South America,Colombia,11.242035,-74.205384,0.0,1.0
+2003,11,12,North America,United States,38.908642,-77.015381,0.0,0.0
+2003,11,18,North America,United States,39.450214,-87.413382,0.0,0.0
+2003,11,20,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2003,11,24,South America,Venezuela,10.247054,-67.596335,0.0,0.0
+2003,12,1,South America,Colombia,9.07923,-74.88985,0.0,6.0
+2003,12,1,South America,Colombia,9.07923,-74.88985,0.0,1.0
+2003,12,29,South America,Bolivia,-15.83588,-67.564848,0.0,0.0
+2004,1,1,South America,Colombia,0.280373,-76.926854,0.0,0.0
+2004,1,5,South America,Colombia,7.933889,-72.500833,0.0,4.0
+2004,1,7,South America,Colombia,5.499147,-75.183126,0.0,8.0
+2004,1,12,South America,Colombia,6.30484,-75.880642,5.0,5.0
+2004,2,2,North America,United States,38.908642,-77.015381,0.0,0.0
+2004,2,7,North America,United States,38.03213,-78.477529,0.0,0.0
+2004,2,16,South America,Colombia,6.099066,-72.247791,22.0,0.0
+2004,2,16,South America,Ecuador,-0.211188,-78.522629,0.0,0.0
+2004,2,18,South America,Ecuador,-2.170832,-79.922359,0.0,0.0
+2004,3,17,South America,Colombia,8.083272,-73.224495,0.0,3.0
+2004,3,18,North America,Mexico,17.054348,-96.712954,3.0,0.0
+2004,4,1,North America,United States,35.472015,-97.520354,0.0,0.0
+2004,4,5,North America,Canada,45.50867,-73.553992,0.0,0.0
+2004,4,20,North America,United States,47.912876,-122.098185,0.0,0.0
+2004,5,3,South America,Colombia,2.77772,-75.25743,0.0,1.0
+2004,5,5,South America,Colombia,6.46052,-71.72989,38.0,3.0
+2004,5,19,South America,Colombia,3.372457,-73.873772,2.0,0.0
+2004,5,20,South America,Colombia,6.242026,-75.564766,17.0,4.0
+2004,5,20,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2004,5,20,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2004,5,20,South America,Colombia,2.93303,-75.285828,1.0,0.0
+2004,5,20,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2004,5,20,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2004,5,20,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2004,5,20,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2004,5,24,South America,Colombia,7.882318,-76.630626,82.0,6.0
+2004,6,4,South America,Peru,-9.036944,-75.5075,4.0,3.0
+2004,6,5,South America,Peru,-9.036944,-75.5075,1.0,2.0
+2004,6,6,South America,Colombia,3.429344,-76.516037,7.0,0.0
+2004,6,7,South America,Colombia,6.242026,-75.564766,14.0,0.0
+2004,6,14,North America,United States,40.60675,-111.938754,0.0,0.0
+2004,6,20,South America,Colombia,6.80449,-76.24752,5.0,5.0
+2004,6,29,South America,Colombia,6.242026,-75.564766,3.0,4.0
+2004,7,2,North America,United States,26.616265,-80.057244,0.0,0.0
+2004,7,8,South America,Colombia,7.198606,-75.341218,0.0,1.0
+2004,7,8,North America,United States,40.251844,-111.649316,0.0,0.0
+2004,7,11,South America,Colombia,5.96478,-75.10166,0.0,2.0
+2004,7,21,South America,Colombia,7.894195,-72.503885,0.0,1.0
+2004,7,25,South America,Colombia,5.621995,-72.300701,0.0,0.0
+2004,8,3,South America,Colombia,4.165833,-76.386389,1.0,9.0
+2004,8,10,South America,Colombia,8.40255,-73.20768,3.0,0.0
+2004,8,11,South America,Colombia,7.946283,-72.898807,0.0,9.0
+2004,8,26,South America,Colombia,4.667128,-74.106056,4.0,2.0
+2004,9,3,South America,Colombia,3.86547,-67.92671,2.0,2.0
+2004,9,5,South America,Colombia,0.49765,-76.49768,7.0,3.0
+2004,11,7,South America,Colombia,1.207787,-77.2772,0.0,0.0
+2004,12,9,North America,United States,38.600119,-77.162202,0.0,0.0
+2004,12,27,North America,United States,38.89116,-121.292809,0.0,0.0
+2005,1,1,South America,Colombia,6.46052,-71.72989,0.0,17.0
+2005,1,1,North America,United States,44.46867,-71.185077,0.0,0.0
+2005,1,9,North America,United States,47.039225,-122.891429,0.0,0.0
+2005,1,12,North America,United States,38.88302,-121.078378,0.0,0.0
+2005,2,7,North America,United States,38.393414,-120.803032,0.0,0.0
+2005,2,13,North America,United States,38.896549,-121.076948,0.0,0.0
+2005,2,15,North America,United States,38.907241,-121.08435,0.0,0.0
+2005,2,17,North America,United States,35.08418,-106.648639,0.0,0.0
+2005,2,20,South America,Colombia,3.429344,-76.516037,2.0,0.0
+2005,2,20,South America,Colombia,4.085809,-76.197188,0.0,1.0
+2005,2,20,South America,Colombia,7.00063,-76.26572,5.0,4.0
+2005,3,14,North America,United States,38.878742,-77.100006,0.0,0.0
+2005,3,19,North America,United States,39.16659,-86.534244,0.0,0.0
+2005,3,30,North America,United States,39.16659,-86.534244,0.0,0.0
+2005,4,8,South America,Colombia,1.90967,-75.15906,0.0,1.0
+2005,4,13,North America,United States,41.637675,-70.930869,0.0,0.0
+2005,4,13,North America,United States,47.613435,-122.035494,0.0,0.0
+2005,4,13,North America,United States,47.613435,-122.035494,0.0,0.0
+2005,4,15,South America,Colombia,2.95485,-76.26825,17.0,4.0
+2005,4,15,South America,Colombia,3.24114,-74.35539,0.0,0.0
+2005,4,17,South America,Colombia,2.95485,-76.26825,8.0,18.0
+2005,4,28,South America,Colombia,3.429344,-76.516037,5.0,0.0
+2005,5,5,North America,United States,40.697132,-73.931351,0.0,0.0
+2005,5,13,South America,Bolivia,-17.783219,-63.182042,0.0,0.0
+2005,5,19,South America,Colombia,5.26541,-76.55651,3.0,10.0
+2005,5,24,South America,Colombia,1.90967,-75.15906,2.0,6.0
+2005,6,5,South America,Colombia,7.08582,-70.75779,0.0,0.0
+2005,6,6,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2005,6,6,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2005,6,6,South America,Argentina,-34.68631,-58.528473,0.0,0.0
+2005,6,9,South America,Colombia,0.66643,-76.87192,0.0,0.0
+2005,6,11,South America,Colombia,0.49765,-76.49768,9.0,2.0
+2005,7,4,North America,United States,26.714388,-80.052689,0.0,0.0
+2005,7,6,North America,Mexico,16.863443,-99.881597,0.0,2.0
+2005,7,8,North America,United States,44.46867,-71.185077,0.0,0.0
+2005,7,10,South America,Colombia,4.02846,-74.63552,5.0,4.0
+2005,7,18,South America,Colombia,11.544088,-72.90688,1.0,9.0
+2005,7,24,South America,Peru,-8.448899,-76.324652,2.0,3.0
+2005,8,6,South America,Colombia,7.08582,-70.75779,12.0,1.0
+2005,8,12,South America,Colombia,1.045,-76.274167,0.0,0.0
+2005,8,15,South America,Colombia,7.946283,-72.898807,0.0,4.0
+2005,8,18,South America,Colombia,3.7246,-75.4841,0.0,1.0
+2005,9,0,North America,United States,34.097866,-118.407379,0.0,0.0
+2005,10,3,South America,Colombia,4.658056,-76.476667,8.0,5.0
+2005,10,31,South America,Uruguay,-34.891151,-56.187214,0.0,0.0
+2005,11,12,South America,Colombia,4.667128,-74.106056,2.0,3.0
+2005,11,20,North America,United States,39.6425,-77.717579,0.0,0.0
+2005,11,29,North America,United States,32.715695,-117.161719,0.0,0.0
+2005,11,29,North America,United States,32.715695,-117.161719,0.0,0.0
+2005,12,4,South America,Colombia,2.436685,-75.527401,3.0,1.0
+2005,12,6,South America,Colombia,7.289972,-75.392693,0.0,1.0
+2005,12,8,South America,Colombia,7.39002,-73.50099,0.0,2.0
+2005,12,8,South America,Colombia,6.98848,-73.05084,0.0,0.0
+2005,12,9,South America,Colombia,5.337522,-75.729304,0.0,1.0
+2005,12,9,South America,Colombia,6.1429,-75.18417,2.0,4.0
+2005,12,9,South America,Colombia,3.93667,-75.2208,1.0,3.0
+2005,12,10,South America,Colombia,3.429344,-76.516037,0.0,2.0
+2005,12,14,South America,Colombia,2.04998,-77.1333,1.0,1.0
+2005,12,14,South America,Colombia,9.19974,-73.5433,0.0,2.0
+2005,12,15,South America,Colombia,8.43557,-73.28742,3.0,0.0
+2005,12,18,South America,Colombia,2.243589,-77.010385,0.0,0.0
+2005,12,20,North America,United States,39.150174,-84.518436,0.0,0.0
+2005,12,23,South America,Colombia,6.547306,-71.002231,5.0,0.0
+2005,12,24,South America,Colombia,1.03033,-76.61475,12.0,0.0
+2006,1,17,South America,Colombia,3.429344,-76.516037,0.0,3.0
+2006,1,17,North America,United States,48.173986,-122.528214,0.0,0.0
+2006,1,18,South America,Chile,-33.366238,-70.505302,1.0,0.0
+2006,1,18,South America,Colombia,3.88182,-77.07042,0.0,1.0
+2006,1,19,South America,Colombia,7.08582,-70.75779,0.0,1.0
+2006,1,20,South America,Colombia,4.26889,-75.9361,0.0,1.0
+2006,1,22,South America,Colombia,4.67451,-75.78425,0.0,1.0
+2006,1,30,North America,Canada,43.539102,-80.247622,0.0,0.0
+2006,1,30,South America,Guyana,6.821806,-58.159218,0.0,1.0
+2006,1,19,South America,Colombia,7.08582,-70.75779,0.0,1.0
+2006,2,4,South America,Colombia,7.060051,-73.853115,0.0,0.0
+2006,2,4,South America,Colombia,8.23342,-73.35331,0.0,0.0
+2006,2,12,South America,Colombia,10.63213,-74.92172,0.0,6.0
+2006,2,12,South America,Colombia,1.129314,-76.990616,0.0,0.0
+2006,2,16,South America,Colombia,3.429344,-76.516037,4.0,2.0
+2006,2,25,South America,Colombia,5.790365,-75.428333,11.0,9.0
+2006,2,27,South America,Colombia,2.77772,-75.25743,4.0,9.0
+2006,3,3,North America,United States,35.904912,-79.046913,9.0,0.0
+2006,4,3,South America,Colombia,6.94742,-71.435449,0.0,1.0
+2006,4,4,South America,Colombia,6.29495,-73.04042,0.0,1.0
+2006,4,4,South America,Colombia,6.29495,-73.04042,0.0,1.0
+2006,4,6,South America,Colombia,4.667128,-74.106056,10.0,1.0
+2006,4,6,South America,Colombia,4.667128,-74.106056,10.0,2.0
+2006,4,7,North America,Mexico,27.480024,-99.510535,0.0,1.0
+2006,4,7,North America,Mexico,27.480024,-99.510535,0.0,1.0
+2006,4,8,South America,Colombia,7.946283,-72.898807,0.0,1.0
+2006,4,11,South America,Colombia,9.70219,-73.27915,0.0,0.0
+2006,4,11,South America,Colombia,7.08582,-70.75779,0.0,0.0
+2006,4,12,North America,Mexico,27.480024,-99.510535,3.0,4.0
+2006,4,12,North America,Mexico,17.536723,-101.26687,30.0,1.0
+2006,4,13,South America,Colombia,4.496389,-73.641111,0.0,0.0
+2006,5,20,South America,Colombia,3.88182,-77.07042,0.0,0.0
+2006,5,20,South America,Colombia,8.43557,-73.28742,0.0,0.0
+2006,5,22,South America,Colombia,2.756736,-76.629934,9.0,5.0
+2006,5,22,South America,Colombia,11.242035,-74.205384,0.0,0.0
+2006,5,22,South America,Colombia,10.25466,-74.91548,0.0,0.0
+2006,5,26,South America,Colombia,1.621111,-77.574722,0.0,0.0
+2006,5,28,South America,Colombia,5.252803,-76.825965,0.0,0.0
+2006,6,17,South America,Colombia,2.03955,-77.21702,0.0,11.0
+2006,6,18,South America,Colombia,4.667128,-74.106056,0.0,6.0
+2006,6,27,North America,Canada,43.539102,-80.247622,0.0,0.0
+2006,6,30,North America,United States,34.097866,-118.407379,0.0,0.0
+2006,7,4,South America,Colombia,3.529901,-76.298006,3.0,6.0
+2006,7,7,South America,Brazil,-23.550711,-46.633475,11.0,0.0
+2006,7,7,South America,Colombia,2.938353,-73.208333,0.0,0.0
+2006,7,11,South America,Colombia,6.242026,-75.564766,8.0,1.0
+2006,7,12,North America,United States,34.097866,-118.407379,0.0,0.0
+2006,7,13,South America,Colombia,7.440534,-77.118906,0.0,0.0
+2006,7,15,South America,Brazil,-24.008724,-46.412376,0.0,1.0
+2006,7,15,South America,Colombia,7.440534,-77.118906,0.0,0.0
+2006,7,28,North America,United States,47.610786,-122.331306,5.0,1.0
+2006,8,2,South America,Colombia,6.2675,-75.568611,7.0,6.0
+2006,8,21,South America,Colombia,3.429344,-76.516037,5.0,0.0
+2006,8,24,North America,Mexico,21.158964,-86.845937,1.0,0.0
+2006,9,11,North America,United States,41.523505,-90.577549,0.0,0.0
+2006,10,19,South America,Colombia,4.667128,-74.106056,5.0,0.0
+2006,10,29,South America,Colombia,4.15127,-73.63872,3.0,2.0
+2006,11,6,North America,Mexico,19.371887,-99.086624,0.0,0.0
+2006,11,21,South America,Colombia,3.429344,-76.516037,15.0,0.0
+2006,12,28,South America,Colombia,6.242026,-75.564766,0.0,1.0
+2007,1,17,South America,Colombia,0.869892,-73.841906,1.0,0.0
+2007,1,19,South America,Colombia,1.68448,-75.28659,1.0,0.0
+2007,1,21,South America,Colombia,3.88182,-77.07042,9.0,3.0
+2007,1,23,North America,Mexico,15.832731,-96.667036,0.0,1.0
+2007,2,6,North America,Mexico,16.863443,-99.881597,0.0,4.0
+2007,2,6,North America,Mexico,16.901363,-99.83459,0.0,3.0
+2007,2,19,North America,Mexico,27.480024,-99.510535,1.0,1.0
+2007,3,16,South America,Colombia,3.88182,-77.07042,10.0,5.0
+2007,3,18,North America,United States,39.758968,-104.876305,0.0,0.0
+2007,3,20,North America,United States,39.758968,-104.876305,0.0,0.0
+2007,3,21,North America,United States,39.758968,-104.876305,0.0,0.0
+2007,3,28,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,4,9,South America,Colombia,3.429344,-76.516037,34.0,1.0
+2007,4,9,South America,Colombia,6.46052,-71.72989,0.0,13.0
+2007,4,25,North America,United States,30.283581,-97.698654,0.0,0.0
+2007,5,9,North America,United States,36.848311,-75.979278,0.0,0.0
+2007,5,18,South America,Peru,-15.493296,-70.135574,48.0,6.0
+2007,6,3,South America,Colombia,6.48635,-75.39466,3.0,5.0
+2007,6,4,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2007,6,4,South America,Colombia,3.322222,-76.234722,0.0,0.0
+2007,6,6,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2007,6,10,South America,Colombia,1.334366,-74.841392,0.0,0.0
+2007,6,14,South America,Peru,-16.477529,-71.819708,2.0,4.0
+2007,6,24,North America,United States,34.097866,-118.407379,0.0,0.0
+2007,7,10,North America,Mexico,20.608914,-100.078262,0.0,0.0
+2007,7,13,South America,Colombia,6.643708,-73.653621,0.0,0.0
+2007,7,14,North America,Mexico,25.684139,-100.250999,3.0,1.0
+2007,8,18,South America,Colombia,8.57451,-73.09339,0.0,1.0
+2007,8,18,South America,Colombia,2.00048,-76.77854,0.0,1.0
+2007,8,27,North America,Mexico,21.881796,-102.29127,2.0,4.0
+2007,9,22,South America,Colombia,3.934847,-74.601414,0.0,1.0
+2007,10,16,South America,Colombia,3.590521,-75.382914,0.0,1.0
+2007,10,16,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,10,17,South America,Colombia,7.011061,-75.691654,0.0,2.0
+2007,10,20,North America,United States,34.097866,-118.407379,0.0,0.0
+2007,10,22,South America,Colombia,0.49765,-76.49768,7.0,2.0
+2007,10,23,South America,Colombia,1.19974,-75.66284,0.0,2.0
+2007,10,25,South America,Colombia,2.535935,-75.52767,0.0,0.0
+2007,10,26,North America,United States,40.697132,-73.931351,0.0,0.0
+2007,10,26,South America,Colombia,3.88182,-77.07042,6.0,3.0
+2007,11,7,South America,Venezuela,10.482834,-66.962128,8.0,0.0
+2007,11,13,South America,Peru,-12.104012,-74.752534,2.0,4.0
+2007,11,17,South America,Colombia,4.092517,-75.154538,3.0,6.0
+2007,11,20,South America,Colombia,2.44186,-76.60617,3.0,1.0
+2007,11,25,South America,Colombia,2.938353,-73.208333,1.0,1.0
+2007,11,26,South America,Venezuela,10.117643,-68.047751,0.0,1.0
+2007,11,26,South America,Colombia,1.90967,-75.15906,2.0,2.0
+2007,12,6,South America,Colombia,7.440534,-77.118906,20.0,5.0
+2007,12,8,South America,Peru,-11.967368,-76.978462,0.0,4.0
+2007,12,10,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,12,13,South America,Bolivia,-19.047937,-65.259541,0.0,0.0
+2007,12,15,South America,Bolivia,-17.783219,-63.182042,0.0,0.0
+2007,12,18,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,12,18,South America,Colombia,7.07386,-75.14591,2.0,1.0
+2007,12,18,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,12,19,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,12,19,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,12,20,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2007,12,23,South America,Colombia,3.88182,-77.07042,0.0,0.0
+2007,12,24,South America,Bolivia,-16.509317,-68.10434,0.0,0.0
+2008,1,24,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2008,1,26,South America,Guyana,6.792893,-58.044561,3.0,11.0
+2008,1,26,South America,Guyana,6.821806,-58.159218,2.0,0.0
+2008,1,26,South America,Colombia,7.08582,-70.75779,2.0,4.0
+2008,1,29,South America,Colombia,4.667128,-74.106056,4.0,0.0
+2008,1,30,South America,Colombia,4.06052,-74.692318,0.0,2.0
+2008,2,5,North America,United States,34.097866,-118.407379,0.0,0.0
+2008,2,9,North America,United States,35.615725,-87.035447,0.0,0.0
+2008,2,15,North America,Mexico,19.371887,-99.086624,1.0,1.0
+2008,2,15,South America,Colombia,7.08582,-70.75779,0.0,1.0
+2008,2,15,North America,Mexico,19.371887,-99.086624,2.0,2.0
+2008,2,17,North America,United States,40.802071,-124.163673,0.0,0.0
+2008,2,17,North America,United States,40.802071,-124.163673,0.0,0.0
+2008,2,18,South America,Guyana,6.404285,-58.625935,7.0,12.0
+2008,2,24,South America,Venezuela,10.482834,-66.962128,0.0,1.0
+2008,3,3,North America,United States,47.754265,-122.163458,0.0,0.0
+2008,3,5,South America,Colombia,0.53636,-76.5875,0.0,0.0
+2008,3,5,South America,Colombia,4.667128,-74.106056,5.0,0.0
+2008,3,6,North America,United States,40.697132,-73.931351,0.0,0.0
+2008,3,18,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2008,4,1,South America,Colombia,4.21557,-73.81502,0.0,0.0
+2008,4,3,South America,Colombia,2.56426,-72.637985,1.0,0.0
+2008,4,7,North America,United States,39.176086,-94.574127,0.0,0.0
+2008,4,7,North America,United States,39.176086,-94.574127,0.0,0.0
+2008,4,13,South America,Colombia,2.51379,-76.38945,0.0,0.0
+2008,4,18,South America,Peru,-16.407435,-71.536798,0.0,0.0
+2008,4,20,South America,Colombia,7.579405,-75.400101,14.0,1.0
+2008,4,22,North America,United States,25.793095,-80.134904,0.0,0.0
+2008,4,22,South America,Colombia,7.89014,-75.66967,0.0,2.0
+2008,4,25,North America,United States,32.715695,-117.161719,0.0,0.0
+2008,4,28,South America,Colombia,4.99243,-76.01866,0.0,0.0
+2008,4,29,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2008,4,30,South America,Colombia,11.544088,-72.90688,0.0,0.0
+2008,5,1,South America,Colombia,2.331277,-75.716054,0.0,0.0
+2008,5,3,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2008,5,6,South America,Colombia,1.806147,-76.978708,1.0,3.0
+2008,5,6,South America,Colombia,0.884572,-77.503387,0.0,0.0
+2008,5,11,South America,Colombia,1.210589,-77.993327,0.0,0.0
+2008,5,14,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2008,5,14,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2008,5,22,North America,Canada,53.543564,-113.490452,8.0,0.0
+2008,5,24,South America,Colombia,7.882318,-76.630626,0.0,2.0
+2008,5,26,South America,Ecuador,0.270278,-78.276667,0.0,0.0
+2008,5,26,North America,United States,42.32356,-122.875614,0.0,0.0
+2008,5,27,South America,Colombia,11.033333,-72.65,0.0,0.0
+2008,5,27,South America,Colombia,11.377761,-72.238892,0.0,0.0
+2008,5,29,South America,Colombia,10.95667,-72.78887,0.0,0.0
+2008,5,29,South America,Colombia,11.377761,-72.238892,0.0,0.0
+2008,6,1,South America,Colombia,11.272246,-73.309852,0.0,0.0
+2008,6,5,South America,Colombia,3.7246,-75.4841,1.0,0.0
+2008,6,8,South America,Colombia,2.148251,-77.079591,0.0,0.0
+2008,6,8,South America,Colombia,3.88182,-77.07042,0.0,1.0
+2008,6,9,South America,Colombia,4.667128,-74.106056,1.0,1.0
+2008,6,10,South America,Colombia,4.56933,-74.95296,0.0,0.0
+2008,6,10,South America,Colombia,3.88182,-77.07042,7.0,0.0
+2008,6,10,South America,Colombia,3.194857,-75.645906,0.0,0.0
+2008,6,11,South America,Colombia,5.26541,-76.55651,0.0,0.0
+2008,6,11,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2008,6,12,South America,Colombia,3.91272,-75.47591,0.0,0.0
+2008,6,12,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,6,12,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,6,14,North America,United States,32.268085,-107.75867,0.0,0.0
+2008,6,15,South America,Colombia,6.1429,-75.18417,0.0,0.0
+2008,6,15,South America,Colombia,6.1429,-75.18417,0.0,0.0
+2008,6,15,South America,Colombia,1.334366,-74.841392,0.0,1.0
+2008,6,19,South America,Colombia,9.52358,-75.23069,3.0,0.0
+2008,6,21,South America,Colombia,8.63781,-72.73464,0.0,0.0
+2008,6,26,South America,Colombia,4.43891,-75.23223,3.0,1.0
+2008,6,26,South America,Colombia,5.20115,-75.868,0.0,0.0
+2008,6,27,South America,Colombia,1.338227,-77.592617,0.0,3.0
+2008,7,1,South America,Colombia,6.19878,-75.09243,1.0,0.0
+2008,7,1,South America,Colombia,11.377761,-72.238892,0.0,0.0
+2008,7,3,South America,Colombia,8.09242,-76.72738,0.0,1.0
+2008,7,8,South America,Colombia,8.43557,-73.28742,4.0,0.0
+2008,7,11,South America,Colombia,5.69224,-76.658093,0.0,0.0
+2008,7,14,North America,Mexico,25.426724,-100.995425,0.0,0.0
+2008,7,15,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2008,7,17,South America,Colombia,7.440534,-77.118906,0.0,0.0
+2008,7,17,South America,Colombia,6.242026,-75.564766,2.0,4.0
+2008,7,25,North America,United States,32.832925,-117.271312,1.0,0.0
+2008,7,25,South America,Colombia,5.295869,-75.882595,0.0,1.0
+2008,7,26,South America,Colombia,8.044995,-75.334173,0.0,1.0
+2008,7,27,North America,United States,35.951761,-83.952337,7.0,2.0
+2008,7,28,South America,Colombia,6.242026,-75.564766,0.0,1.0
+2008,7,31,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,7,31,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,8,1,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2008,8,2,North America,United States,36.974025,-122.030954,1.0,0.0
+2008,8,2,North America,United States,36.974025,-122.030954,1.0,0.0
+2008,8,4,South America,Colombia,7.894195,-72.503885,0.0,0.0
+2008,8,5,North America,Mexico,28.836561,-105.914332,0.0,2.0
+2008,8,5,North America,Mexico,31.733333,-106.483333,0.0,1.0
+2008,8,6,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,8,6,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2008,8,8,North America,Canada,51.038021,-114.060989,1.0,0.0
+2008,8,9,South America,Colombia,4.667128,-74.106056,10.0,0.0
+2008,8,10,South America,Colombia,2.43126,-76.86477,0.0,9.0
+2008,8,10,South America,Chile,-33.469115,-70.641997,0.0,0.0
+2008,8,10,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2008,8,14,South America,Colombia,7.172043,-75.763873,52.0,7.0
+2008,8,15,South America,Colombia,1.57036,-75.32731,0.0,0.0
+2008,8,21,South America,Colombia,4.667128,-74.106056,3.0,0.0
+2008,8,22,South America,Colombia,6.295346,-75.028282,12.0,1.0
+2008,8,26,South America,Colombia,5.85071,-76.02301,0.0,0.0
+2008,8,31,South America,Colombia,1.851988,-76.046976,0.0,0.0
+2008,9,1,South America,Colombia,3.429344,-76.516037,26.0,5.0
+2008,9,5,South America,Colombia,2.243589,-77.010385,0.0,0.0
+2008,9,9,South America,Colombia,2.19673,-75.62909,3.0,0.0
+2008,9,10,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2008,9,15,North America,Mexico,19.700593,-101.186421,101.0,8.0
+2008,9,15,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2008,9,17,South America,Colombia,4.667128,-74.106056,2.0,0.0
+2008,9,18,South America,Colombia,4.486133,-73.895119,0.0,0.0
+2008,9,19,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,9,19,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,9,19,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,9,19,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,9,19,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,9,20,South America,Colombia,3.88182,-77.07042,2.0,0.0
+2008,9,23,South America,Colombia,6.94997,-71.56666,0.0,0.0
+2008,10,2,South America,Colombia,1.57036,-75.32731,4.0,0.0
+2008,10,3,South America,Colombia,4.667128,-74.106056,5.0,1.0
+2008,10,4,South America,Colombia,1.807411,-78.763753,0.0,0.0
+2008,10,6,South America,Colombia,5.420595,-75.702686,1.0,3.0
+2008,10,8,South America,Colombia,5.045763,-75.512498,0.0,1.0
+2008,10,11,South America,Colombia,2.85,-76.316667,0.0,1.0
+2008,10,11,South America,Colombia,2.95485,-76.26825,0.0,1.0
+2008,10,11,North America,Canada,55.555446,-120.076197,0.0,0.0
+2008,10,11,North America,Mexico,25.673211,-100.309201,0.0,0.0
+2008,10,12,South America,Colombia,2.998638,-75.30562,2.0,0.0
+2008,10,12,South America,Colombia,2.998638,-75.30562,5.0,1.0
+2008,10,16,North America,Canada,55.555446,-120.076197,0.0,0.0
+2008,10,17,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,10,22,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2008,10,23,South America,Colombia,4.667128,-74.106056,3.0,0.0
+2008,10,23,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2008,10,23,South America,Colombia,4.667128,-74.106056,2.0,0.0
+2008,10,23,South America,Colombia,4.667128,-74.106056,2.0,0.0
+2008,10,23,South America,Colombia,4.667128,-74.106056,2.0,0.0
+2008,10,23,South America,Colombia,4.667128,-74.106056,6.0,0.0
+2008,10,23,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2008,10,27,South America,Colombia,6.00283,-76.78047,4.0,1.0
+2008,10,29,South America,Colombia,8.408869,-75.581913,0.0,0.0
+2008,10,31,North America,Canada,55.555446,-120.076197,0.0,0.0
+2008,11,2,South America,Ecuador,1.089187,-78.98996,3.0,0.0
+2008,11,4,South America,Colombia,1.61456,-75.6053,0.0,0.0
+2008,11,4,South America,Colombia,8.637278,-72.737852,2.0,1.0
+2008,11,5,North America,United States,42.10125,-72.589294,2.0,0.0
+2008,11,5,South America,Colombia,7.579405,-75.400101,0.0,2.0
+2008,11,7,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2008,11,14,North America,United States,33.74937,-116.967889,1.0,0.0
+2008,11,15,South America,Colombia,3.866667,-74.416667,0.0,1.0
+2008,11,15,South America,Colombia,8.45917,-73.94093,0.0,1.0
+2008,11,20,South America,Colombia,6.547306,-71.002231,0.0,0.0
+2008,11,20,South America,Colombia,7.30986,-72.48288,0.0,0.0
+2008,11,21,South America,Colombia,7.07962,-70.757051,0.0,0.0
+2008,11,21,South America,Colombia,6.95284,-71.87514,0.0,0.0
+2008,11,22,South America,Colombia,7.6676,-76.6803,2.0,1.0
+2008,11,26,South America,Colombia,2.85,-76.316667,0.0,0.0
+2008,11,29,South America,Colombia,0.49765,-76.49768,0.0,0.0
+2008,11,29,South America,Colombia,0.49765,-76.49768,12.0,0.0
+2008,12,3,South America,Colombia,2.524168,-75.316146,0.0,0.0
+2008,12,4,South America,Colombia,1.36673,-78.233346,3.0,0.0
+2008,12,5,South America,Colombia,6.792231,-71.775544,0.0,9.0
+2008,12,8,South America,Colombia,2.56855,-72.64184,0.0,0.0
+2008,12,9,South America,Colombia,11.377761,-72.238892,0.0,1.0
+2008,12,10,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2008,12,13,South America,Colombia,8.173611,-76.059167,5.0,0.0
+2008,12,14,South America,Colombia,6.295346,-75.028282,11.0,0.0
+2008,12,20,South America,Colombia,3.794155,-73.840728,0.0,0.0
+2008,12,21,South America,Colombia,0.42529,-76.90507,0.0,0.0
+2008,12,22,South America,Colombia,0.69905,-75.25521,1.0,3.0
+2008,12,25,South America,Colombia,6.547306,-71.002231,1.0,5.0
+2008,12,29,South America,Colombia,4.667128,-74.106056,5.0,0.0
+2009,1,4,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2009,1,4,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2009,1,4,North America,Canada,55.555446,-120.076197,0.0,0.0
+2009,1,8,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2009,1,10,North America,Canada,53.543564,-113.490452,0.0,0.0
+2009,1,11,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2009,1,14,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2009,1,16,South America,Chile,-33.366238,-70.505302,1.0,0.0
+2009,1,16,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2009,1,16,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2009,1,16,South America,Colombia,2.925561,-75.290777,0.0,0.0
+2009,1,16,South America,Colombia,2.925561,-75.290777,0.0,0.0
+2009,1,20,South America,Ecuador,-2.170832,-79.922359,0.0,0.0
+2009,1,24,South America,Colombia,4.010004,-75.603807,0.0,0.0
+2009,1,27,South America,Colombia,4.667128,-74.106056,20.0,2.0
+2009,1,30,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2009,2,4,South America,Colombia,1.67155,-78.14099,0.0,17.0
+2009,2,8,South America,Colombia,4.71854,-74.92843,0.0,0.0
+2009,2,10,South America,Colombia,1.683056,-77.073056,0.0,1.0
+2009,2,11,South America,Colombia,1.210589,-77.993327,0.0,10.0
+2009,2,12,South America,Colombia,7.060051,-73.853115,0.0,1.0
+2009,2,17,South America,Colombia,7.894195,-72.503885,1.0,0.0
+2009,2,18,South America,Colombia,5.29307,-72.70293,0.0,3.0
+2009,2,19,South America,Colombia,4.814278,-75.694558,1.0,0.0
+2009,2,22,South America,Colombia,1.807411,-78.763753,2.0,0.0
+2009,2,23,South America,Peru,-9.297478,-75.996312,0.0,0.0
+2009,2,26,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2009,2,28,South America,Colombia,2.44186,-76.60617,0.0,0.0
+2009,3,7,North America,United States,34.097866,-118.407379,0.0,0.0
+2009,3,7,South America,Colombia,2.93303,-75.285828,1.0,0.0
+2009,3,7,South America,Colombia,4.15127,-73.63872,0.0,0.0
+2009,3,14,South America,Colombia,0.869892,-73.841906,0.0,0.0
+2009,3,16,South America,Colombia,2.44186,-76.60617,1.0,0.0
+2009,3,18,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2009,3,22,South America,Colombia,2.95485,-76.26825,0.0,0.0
+2009,3,25,South America,Colombia,2.33056,-72.6278,0.0,0.0
+2009,3,25,South America,Colombia,0.823757,-77.634908,4.0,0.0
+2009,3,25,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2009,3,27,South America,Colombia,1.207787,-77.2772,0.0,0.0
+2009,3,28,South America,Colombia,7.860013,-76.590619,8.0,0.0
+2009,3,29,South America,Colombia,5.69224,-76.658093,13.0,0.0
+2009,3,31,South America,Colombia,4.085809,-76.197188,0.0,1.0
+2009,4,6,South America,Colombia,5.69224,-76.658093,0.0,0.0
+2009,4,9,South America,Peru,-13.163874,-74.223564,4.0,1.0
+2009,4,9,South America,Peru,-13.163874,-74.223564,2.0,13.0
+2009,4,13,South America,Colombia,2.63874,-76.52915,0.0,2.0
+2009,4,13,South America,Colombia,8.00281,-73.51174,4.0,1.0
+2009,4,14,South America,Colombia,6.95284,-71.87514,0.0,2.0
+2009,4,15,South America,Colombia,3.194857,-75.645906,0.0,4.0
+2009,4,15,South America,Bolivia,-17.783219,-63.182042,0.0,0.0
+2009,4,17,South America,Colombia,7.57649,-75.350334,9.0,0.0
+2009,4,18,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2009,4,24,South America,Colombia,5.69224,-76.658093,0.0,0.0
+2009,4,26,South America,Colombia,10.63213,-74.92172,1.0,0.0
+2009,4,27,South America,Colombia,7.007022,-73.909401,1.0,0.0
+2009,4,27,South America,Colombia,4.43891,-75.23223,2.0,0.0
+2009,4,28,South America,Colombia,5.69224,-76.658093,0.0,0.0
+2009,4,29,South America,Colombia,0.884572,-77.503387,0.0,0.0
+2009,5,1,South America,Colombia,10.77259,-73.00454,1.0,0.0
+2009,5,3,South America,Colombia,4.085809,-76.197188,0.0,0.0
+2009,5,9,South America,Colombia,1.338227,-77.592617,2.0,0.0
+2009,5,13,South America,Colombia,2.600127,-75.937222,0.0,0.0
+2009,5,15,South America,Colombia,4.87737,-74.46776,2.0,0.0
+2009,5,16,South America,Colombia,3.133333,-76.3925,0.0,0.0
+2009,5,18,South America,Colombia,2.998638,-75.30562,2.0,0.0
+2009,5,20,South America,Colombia,7.027345,-71.428555,0.0,0.0
+2009,5,24,South America,Colombia,2.93303,-75.285828,2.0,0.0
+2009,5,26,South America,Colombia,2.93303,-75.285828,1.0,0.0
+2009,5,28,South America,Colombia,-0.211188,-78.522629,0.0,0.0
+2009,5,29,South America,Colombia,2.19673,-75.62909,3.0,4.0
+2009,5,30,North America,United States,31.577335,-111.331452,1.0,2.0
+2009,5,31,North America,United States,37.68698,-97.335579,0.0,1.0
+2009,5,31,North America,United States,36.133571,-86.83692,0.0,0.0
+2009,6,1,South America,Colombia,0.49765,-76.49768,0.0,0.0
+2009,6,1,North America,United States,34.757116,-92.380745,1.0,1.0
+2009,6,3,South America,Colombia,1.03033,-76.61475,0.0,0.0
+2009,6,4,South America,Colombia,0.884572,-77.503387,7.0,2.0
+2009,6,6,South America,Colombia,5.69224,-76.658093,11.0,0.0
+2009,6,14,South America,Colombia,2.524168,-75.316146,0.0,0.0
+2009,6,21,South America,Colombia,4.43891,-75.23223,0.0,0.0
+2009,6,23,South America,Colombia,2.85,-76.316667,0.0,1.0
+2009,6,25,North America,Mexico,26.603577,-109.174626,3.0,2.0
+2009,6,26,South America,Colombia,4.667128,-74.106056,2.0,0.0
+2009,6,26,South America,Colombia,3.7246,-75.4841,1.0,0.0
+2009,6,28,South America,Colombia,2.35305,-72.83189,1.0,0.0
+2009,6,30,South America,Colombia,7.579405,-75.400101,0.0,1.0
+2009,7,1,North America,Canada,55.715908,-120.133948,0.0,0.0
+2009,7,2,South America,Colombia,8.63781,-72.73464,0.0,0.0
+2009,7,3,North America,United States,33.660191,-117.999215,5.0,0.0
+2009,7,4,North America,Canada,55.754211,-120.2341,0.0,0.0
+2009,7,4,South America,Colombia,7.07962,-70.757051,0.0,0.0
+2009,7,5,South America,Colombia,7.07962,-70.757051,0.0,0.0
+2009,7,7,South America,Colombia,7.57649,-75.350334,4.0,0.0
+2009,7,7,South America,Colombia,7.579405,-75.400101,5.0,0.0
+2009,7,9,South America,Colombia,7.920032,-76.156695,0.0,1.0
+2009,7,11,South America,Colombia,7.07962,-70.757051,0.0,0.0
+2009,7,11,South America,Colombia,3.429344,-76.516037,1.0,2.0
+2009,7,17,South America,Colombia,3.014194,-76.481654,0.0,0.0
+2009,7,20,South America,Colombia,6.459591,-71.730547,0.0,1.0
+2009,7,20,South America,Colombia,6.459591,-71.730547,0.0,0.0
+2009,7,21,South America,Colombia,3.179578,-76.260763,20.0,3.0
+2009,7,27,South America,Colombia,4.827542,-76.847638,0.0,6.0
+2009,7,28,South America,Colombia,8.436159,-73.286109,0.0,0.0
+2009,8,1,South America,Peru,-12.57906,-74.228928,3.0,5.0
+2009,8,2,South America,Colombia,1.14649,-77.003367,0.0,0.0
+2009,8,4,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2009,8,6,South America,Colombia,7.107162,-77.762949,0.0,0.0
+2009,8,6,South America,Colombia,2.62277,-76.570532,0.0,0.0
+2009,8,9,South America,Colombia,1.617291,-75.602934,0.0,0.0
+2009,8,11,South America,Colombia,3.429344,-76.516037,0.0,1.0
+2009,8,12,South America,Bolivia,-16.509317,-68.10434,5.0,0.0
+2009,8,12,South America,Bolivia,-16.509317,-68.10434,2.0,0.0
+2009,8,13,South America,Colombia,0.685004,-76.604751,0.0,0.0
+2009,8,19,South America,Colombia,0.873444,-77.640418,0.0,0.0
+2009,8,20,South America,Colombia,3.012249,-76.48227,0.0,0.0
+2009,8,24,North America,United States,37.54703,-122.314834,0.0,0.0
+2009,8,24,South America,Colombia,9.237331,-75.7216,0.0,1.0
+2009,8,26,South America,Colombia,1.807411,-78.763753,2.0,12.0
+2009,9,3,South America,Colombia,1.931769,-76.215021,0.0,2.0
+2009,9,4,North America,United States,47.976575,-122.206419,0.0,0.0
+2009,9,5,South America,Colombia,6.242026,-75.564766,30.0,1.0
+2009,9,6,South America,Colombia,8.053397,-73.087711,0.0,0.0
+2009,9,6,South America,Colombia,3.252918,-75.751198,0.0,0.0
+2009,9,7,South America,Colombia,2.58328,-75.449375,0.0,1.0
+2009,9,10,South America,Colombia,8.642183,-72.734823,6.0,2.0
+2009,9,11,South America,Colombia,1.807411,-78.763753,3.0,1.0
+2009,9,14,South America,Colombia,6.099066,-72.247791,0.0,1.0
+2009,9,15,South America,Colombia,7.301376,-72.492754,0.0,0.0
+2009,9,16,South America,Colombia,6.187506,-72.472583,0.0,1.0
+2009,9,17,South America,Colombia,11.37696,-72.238339,2.0,0.0
+2009,9,20,South America,Colombia,3.218143,-74.391476,8.0,1.0
+2009,9,21,South America,Colombia,6.828487,-75.512764,1.0,0.0
+2009,9,27,South America,Colombia,4.667128,-74.106056,6.0,0.0
+2009,9,30,South America,Colombia,3.563828,-73.795299,1.0,1.0
+2009,10,2,South America,Colombia,6.041423,-72.636638,0.0,0.0
+2009,10,3,South America,Colombia,3.375833,-74.801389,0.0,0.0
+2009,10,5,South America,Colombia,5.792498,-75.784921,0.0,0.0
+2009,10,8,South America,Colombia,1.335946,-71.950299,1.0,0.0
+2009,10,8,South America,Colombia,3.375833,-74.801389,4.0,3.0
+2009,10,0,South America,Colombia,6.551189,-75.822754,0.0,0.0
+2009,10,11,South America,Venezuela,7.532824,-71.999407,1.0,10.0
+2009,10,13,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2009,10,13,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2009,10,17,South America,Colombia,2.938546,-73.208681,1.0,0.0
+2009,10,20,South America,Chile,-37.956974,-72.431389,0.0,0.0
+2009,10,28,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2009,10,31,South America,Colombia,7.07962,-70.757051,0.0,0.0
+2009,11,2,South America,Colombia,8.08297,-72.799591,0.0,0.0
+2009,11,5,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2009,11,5,North America,United States,31.13,-97.78,32.0,13.0
+2009,11,7,South America,Colombia,3.250789,-75.749749,0.0,1.0
+2009,11,8,South America,Colombia,3.501283,-75.833258,0.0,2.0
+2009,11,8,South America,Colombia,3.501283,-75.833258,0.0,1.0
+2009,11,11,South America,Colombia,1.615654,-75.603322,1.0,1.0
+2009,11,14,South America,Colombia,2.93303,-75.285828,4.0,0.0
+2009,11,20,South America,Colombia,4.277408,-74.771698,13.0,6.0
+2009,11,22,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2009,11,28,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2009,11,28,South America,Colombia,3.666424,-74.749173,0.0,0.0
+2009,12,1,South America,Colombia,2.957845,-76.267928,0.0,0.0
+2009,12,1,South America,Colombia,3.917687,-75.249625,0.0,1.0
+2009,12,4,South America,Colombia,2.791342,-76.403572,2.0,0.0
+2009,12,7,South America,Colombia,2.998638,-75.30562,2.0,0.0
+2009,12,7,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2009,12,8,South America,Colombia,3.755299,-74.831935,0.0,1.0
+2009,12,17,South America,Colombia,7.038966,-76.961927,0.0,0.0
+2009,12,23,South America,Colombia,3.917295,-75.249849,5.0,1.0
+2009,12,25,North America,United States,42.331685,-83.047924,2.0,0.0
+2009,12,26,South America,Colombia,3.866753,-74.416838,0.0,0.0
+2009,12,26,South America,Colombia,6.447527,-75.959332,0.0,0.0
+2009,12,26,South America,Colombia,7.661469,-75.330292,0.0,0.0
+2009,12,26,South America,Colombia,3.985581,-74.484205,0.0,0.0
+2009,12,28,South America,Colombia,1.233333,-76.6,0.0,0.0
+2010,1,9,South America,Colombia,1.148127,-76.646288,0.0,0.0
+2010,1,12,South America,Colombia,6.963936,-75.416364,0.0,0.0
+2010,1,12,South America,Colombia,3.037514,-76.406527,0.0,0.0
+2010,1,15,South America,Colombia,4.86676,-75.620683,0.0,0.0
+2010,1,18,South America,Colombia,3.153478,-75.052659,0.0,0.0
+2010,1,22,South America,Colombia,2.448852,-76.605478,0.0,0.0
+2010,1,28,South America,Colombia,2.634896,-76.631349,0.0,0.0
+2010,2,2,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2010,2,3,South America,Argentina,-38.951872,-68.059079,0.0,0.0
+2010,2,9,South America,Colombia,7.02664,-71.425576,0.0,0.0
+2010,2,14,South America,Colombia,2.56426,-72.637985,1.0,5.0
+2010,2,16,South America,Colombia,2.892423,-76.553158,0.0,2.0
+2010,2,17,North America,United States,27.9656,-82.799764,0.0,0.0
+2010,2,18,North America,United States,30.283581,-97.698654,15.0,2.0
+2010,2,19,South America,Colombia,7.025909,-71.428275,0.0,0.0
+2010,2,20,South America,Colombia,2.633187,-76.633476,5.0,0.0
+2010,2,20,South America,Colombia,2.791342,-76.403572,5.0,0.0
+2010,2,20,South America,Colombia,2.853802,-76.313611,5.0,0.0
+2010,2,21,South America,Colombia,2.794462,-76.399982,0.0,0.0
+2010,2,21,South America,Colombia,0.962302,-77.732459,0.0,0.0
+2010,2,22,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2010,2,22,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2010,2,22,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2010,2,25,North America,United States,40.697132,-73.931351,0.0,0.0
+2010,2,26,South America,Colombia,7.027345,-71.428555,0.0,0.0
+2010,3,4,North America,United States,38.878742,-77.100006,2.0,1.0
+2010,3,6,South America,Colombia,3.010941,-76.481032,0.0,0.0
+2010,3,7,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2010,3,11,South America,Colombia,6.953724,-71.875302,0.0,0.0
+2010,3,12,South America,Colombia,6.824432,-71.227281,0.0,0.0
+2010,3,13,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2010,3,14,South America,Colombia,2.573024,-77.884957,0.0,0.0
+2010,3,18,South America,Colombia,2.795353,-76.40133,0.0,0.0
+2010,3,19,South America,Colombia,1.909235,-75.156485,0.0,0.0
+2010,3,19,South America,Colombia,3.010142,-76.482326,1.0,0.0
+2010,3,22,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2010,3,23,South America,Colombia,3.88675,-77.069205,0.0,0.0
+2010,3,23,North America,Mexico,16.647497,-92.545467,0.0,0.0
+2010,3,24,South America,Colombia,3.88675,-77.069205,51.0,9.0
+2010,3,25,South America,Colombia,4.814542,-75.691309,0.0,0.0
+2010,3,26,South America,Colombia,5.049416,-75.499308,0.0,0.0
+2010,3,28,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2010,4,4,South America,Colombia,3.32655,-76.232264,0.0,0.0
+2010,4,7,South America,Colombia,2.992977,-76.687069,0.0,8.0
+2010,4,8,South America,Colombia,4.442204,-75.20279,0.0,0.0
+2010,4,9,South America,Colombia,3.250582,-76.227643,1.0,0.0
+2010,4,26,South America,Colombia,3.174329,-76.259939,0.0,0.0
+2010,4,30,North America,United States,39.758968,-104.876305,0.0,0.0
+2010,5,1,North America,United States,40.697132,-73.931351,0.0,0.0
+2010,5,2,South America,Colombia,3.034407,-76.408318,0.0,1.0
+2010,5,4,South America,Colombia,6.667608,-71.209013,0.0,0.0
+2010,5,6,South America,Colombia,2.957243,-76.26863,4.0,2.0
+2010,5,8,South America,Colombia,6.953928,-71.874573,0.0,1.0
+2010,5,10,North America,United States,30.33138,-81.655799,0.0,0.0
+2010,5,12,North America,Mexico,21.123619,-101.680496,0.0,0.0
+2010,5,14,South America,Colombia,7.11115,-75.551838,0.0,0.0
+2010,5,15,South America,Colombia,7.311698,-72.482121,0.0,0.0
+2010,5,17,South America,Colombia,6.915242,-75.676182,0.0,0.0
+2010,5,18,South America,Colombia,3.010619,-76.484352,0.0,0.0
+2010,5,18,North America,Canada,45.42153,-75.697193,0.0,0.0
+2010,5,23,North America,Mexico,20.673343,-103.344177,0.0,0.0
+2010,5,25,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2010,5,25,South America,Colombia,3.250582,-76.227643,1.0,0.0
+2010,5,25,South America,Colombia,2.998638,-75.30562,2.0,0.0
+2010,5,27,South America,Colombia,1.212936,-77.27471,7.0,5.0
+2010,5,28,South America,Colombia,3.009676,-76.483957,1.0,0.0
+2010,5,28,South America,Colombia,5.732579,-75.142303,4.0,2.0
+2010,5,29,South America,Chile,-33.366238,-70.505302,1.0,0.0
+2010,5,29,South America,Colombia,1.807411,-78.763753,0.0,0.0
+2010,5,30,South America,Colombia,3.323236,-76.234622,1.0,0.0
+2010,5,30,South America,Colombia,3.323236,-76.234622,1.0,0.0
+2010,5,30,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2010,5,31,South America,Colombia,7.138618,-72.664499,0.0,0.0
+2010,6,1,South America,Colombia,7.029222,-71.427329,0.0,11.0
+2010,6,1,South America,Colombia,6.45929,-71.736282,0.0,0.0
+2010,6,1,South America,Colombia,1.931356,-76.214635,0.0,0.0
+2010,6,3,South America,Colombia,1.67304,-78.137385,0.0,0.0
+2010,6,5,North America,United States,40.759505,-111.888229,0.0,0.0
+2010,6,8,South America,Colombia,1.569321,-75.325882,0.0,0.0
+2010,6,10,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2010,6,12,South America,Colombia,7.882318,-76.630626,17.0,1.0
+2010,6,17,South America,Paraguay,-22.800307,-56.31678,7.0,2.0
+2010,6,19,South America,Colombia,1.807411,-78.763753,0.0,0.0
+2010,6,19,South America,Colombia,2.93303,-75.285828,0.0,0.0
+2010,6,19,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2010,6,20,South America,Colombia,0.884572,-77.503387,0.0,0.0
+2010,6,20,South America,Colombia,8.637278,-72.737852,0.0,0.0
+2010,6,24,South America,Colombia,6.964565,-75.417688,0.0,0.0
+2010,6,25,South America,Colombia,11.376099,-72.238326,0.0,0.0
+2010,6,26,South America,Colombia,6.962843,-75.416355,0.0,0.0
+2010,6,26,South America,Colombia,2.52379,-75.314872,0.0,0.0
+2010,6,27,South America,Colombia,4.445375,-75.232967,0.0,0.0
+2010,6,28,South America,Colombia,4.922824,-75.062819,0.0,0.0
+2010,6,28,South America,Colombia,1.929369,-76.217089,0.0,0.0
+2010,7,7,North America,United States,40.564938,-111.839048,0.0,0.0
+2010,7,8,South America,Colombia,8.233812,-73.349693,0.0,0.0
+2010,7,9,South America,Colombia,8.233812,-73.349693,0.0,0.0
+2010,7,10,South America,Colombia,2.443255,-76.608381,3.0,0.0
+2010,7,11,South America,Colombia,7.003889,-76.264384,3.0,1.0
+2010,7,11,South America,Colombia,7.027345,-71.428555,0.0,0.0
+2010,7,19,South America,Colombia,3.221544,-75.237268,0.0,0.0
+2010,7,19,South America,Colombia,2.929202,-75.275574,0.0,0.0
+2010,7,27,North America,United States,46.187884,-123.831253,0.0,0.0
+2010,8,5,South America,Colombia,1.334366,-74.841392,0.0,0.0
+2010,8,7,South America,Colombia,2.256046,-77.248989,0.0,0.0
+2010,8,7,South America,Colombia,7.173371,-75.760827,0.0,0.0
+2010,8,7,South America,Colombia,8.639336,-72.734336,0.0,1.0
+2010,8,9,South America,Colombia,6.95894,-71.872647,0.0,0.0
+2010,8,9,South America,Colombia,6.46215,-71.73328,0.0,0.0
+2010,8,10,North America,Canada,53.543564,-113.490452,0.0,0.0
+2010,8,11,South America,Colombia,3.01488,-76.483969,0.0,0.0
+2010,8,12,South America,Colombia,4.667128,-74.106056,9.0,0.0
+2010,8,15,South America,Colombia,0.854911,-77.518444,0.0,0.0
+2010,8,28,South America,Colombia,1.685217,-75.287581,0.0,0.0
+2010,8,30,South America,Colombia,3.050665,-76.416632,0.0,0.0
+2010,9,1,North America,United States,38.995508,-77.028075,0.0,1.0
+2010,9,2,South America,Colombia,0.905414,-77.629697,0.0,0.0
+2010,9,2,South America,Colombia,-24.472445,-55.696772,0.0,1.0
+2010,9,8,South America,Chile,-33.010693,-71.527794,0.0,0.0
+2010,9,9,South America,Colombia,0.854911,-77.518444,0.0,0.0
+2010,9,16,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2010,9,22,South America,Paraguay,-23.4,-57.43,0.0,0.0
+2010,9,24,South America,Colombia,11.355488,-72.521403,0.0,0.0
+2010,9,26,South America,Colombia,7.045092,-75.178857,0.0,0.0
+2010,10,0,North America,United States,38.544054,-77.343246,0.0,0.0
+2010,10,0,North America,United States,38.544054,-77.343246,0.0,0.0
+2010,10,6,South America,Colombia,6.77467,-74.799707,0.0,0.0
+2010,10,10,South America,Colombia,2.608354,-76.343738,0.0,0.0
+2010,10,19,North America,United States,38.878742,-77.100006,0.0,0.0
+2010,10,21,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2010,10,24,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2010,10,24,South America,Colombia,8.636792,-72.73457,0.0,0.0
+2010,10,25,South America,Colombia,4.252399,-75.33211,0.0,0.0
+2010,10,25,North America,United States,38.894279,-77.431099,0.0,0.0
+2010,10,29,South America,Colombia,7.001284,-76.266,0.0,0.0
+2010,11,0,North America,United States,38.658172,-77.249705,0.0,0.0
+2010,11,3,South America,Colombia,4.086546,-76.199626,0.0,1.0
+2010,11,7,North America,Mexico,20.673343,-103.344177,0.0,0.0
+2010,11,16,North America,United States,34.097866,-118.407379,0.0,0.0
+2010,11,17,South America,Colombia,6.952811,-71.877169,0.0,0.0
+2010,11,17,South America,Colombia,1.21123,-77.276393,3.0,2.0
+2010,11,19,South America,Colombia,4.015691,-75.603962,12.0,3.0
+2010,11,20,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,20,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,20,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,20,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,21,South America,Colombia,6.960928,-75.414856,0.0,0.0
+2010,11,22,South America,Colombia,2.633519,-76.632228,0.0,0.0
+2010,11,22,South America,Colombia,8.437675,-73.285947,0.0,0.0
+2010,11,22,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,22,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,22,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,23,South America,Colombia,8.637411,-72.734019,0.0,0.0
+2010,11,24,South America,Colombia,0.426858,-76.903426,0.0,0.0
+2010,11,26,South America,Colombia,1.338499,-71.950247,0.0,0.0
+2010,11,28,South America,Colombia,2.771975,-77.664319,3.0,0.0
+2010,11,29,South America,Colombia,1.901309,-76.28312,0.0,0.0
+2010,11,30,South America,Colombia,6.912177,-75.67536,0.0,0.0
+2010,11,30,South America,Colombia,6.190899,-74.991043,0.0,0.0
+2010,11,30,South America,Colombia,6.190899,-74.991043,0.0,0.0
+2010,11,30,South America,Colombia,0.342871,-76.909656,0.0,0.0
+2010,12,2,South America,Colombia,1.931138,-76.214664,1.0,0.0
+2010,12,7,North America,Mexico,19.371887,-99.086624,0.0,0.0
+2010,12,9,South America,Colombia,4.433833,-75.212797,0.0,0.0
+2010,12,13,South America,Colombia,1.629476,-75.599241,0.0,0.0
+2010,12,16,South America,Colombia,3.221544,-75.237268,0.0,0.0
+2010,12,20,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2010,12,20,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2010,12,20,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2010,12,24,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2010,12,27,South America,Colombia,3.915374,-75.480427,0.0,0.0
+2010,12,30,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2011,1,4,South America,Colombia,2.998638,-75.30562,1.0,0.0
+2011,1,6,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2011,1,6,North America,United States,38.9767,-76.489934,1.0,0.0
+2011,1,6,North America,United States,39.192978,-76.7238,1.0,0.0
+2011,1,7,North America,United States,38.908642,-77.015381,0.0,0.0
+2011,1,9,South America,Colombia,6.971101,-71.071952,0.0,0.0
+2011,1,9,South America,Colombia,0.342871,-76.909656,0.0,0.0
+2011,1,12,South America,Paraguay,-25.289816,-57.660906,0.0,0.0
+2011,1,12,South America,Paraguay,-25.289816,-57.660906,0.0,0.0
+2011,1,13,South America,Colombia,7.073939,-75.148851,0.0,0.0
+2011,1,13,South America,Colombia,0.507276,-76.49764,0.0,1.0
+2011,1,16,South America,Paraguay,-23.344279,-57.043494,4.0,0.0
+2011,1,16,South America,Colombia,3.250421,-76.229354,0.0,2.0
+2011,1,17,North America,United States,47.65878,-117.426047,0.0,0.0
+2011,1,18,South America,Colombia,12.230907,-71.988072,0.0,0.0
+2011,1,25,South America,Paraguay,-26.116667,-55.93,0.0,0.0
+2011,1,26,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2011,2,1,South America,Colombia,6.949733,-75.119527,1.0,0.0
+2011,2,2,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2011,2,2,South America,Colombia,1.338227,-77.592617,1.0,1.0
+2011,2,3,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2011,2,7,South America,Colombia,0.962302,-77.732459,0.0,0.0
+2011,2,7,South America,Colombia,1.807411,-78.763753,3.0,0.0
+2011,2,8,South America,Colombia,0.884572,-77.503387,0.0,0.0
+2011,2,13,South America,Colombia,0.427671,-76.90729,0.0,0.0
+2011,2,17,South America,Colombia,2.198176,-75.978271,4.0,0.0
+2011,2,22,North America,United States,42.96125,-85.655719,0.0,0.0
+2011,2,23,South America,Colombia,11.354774,-72.520483,0.0,0.0
+2011,2,25,South America,Colombia,8.438299,-73.285869,0.0,0.0
+2011,2,28,South America,Colombia,7.421825,-76.538708,0.0,2.0
+2011,2,28,South America,Colombia,8.438299,-73.285869,0.0,0.0
+2011,3,1,South America,Colombia,7.421825,-76.538708,0.0,2.0
+2011,3,1,South America,Colombia,6.982464,-75.296942,0.0,0.0
+2011,3,2,South America,Colombia,1.852797,-76.048009,0.0,0.0
+2011,3,5,South America,Colombia,8.639187,-72.733691,0.0,0.0
+2011,3,7,South America,Colombia,4.443287,-69.793424,0.0,0.0
+2011,3,13,South America,Colombia,1.222113,-77.677232,0.0,0.0
+2011,3,14,South America,Colombia,4.441059,-75.242234,0.0,1.0
+2011,3,16,South America,Colombia,2.95679,-76.268641,0.0,0.0
+2011,3,21,South America,Colombia,8.04928,-73.0855,0.0,0.0
+2011,3,22,South America,Colombia,6.956951,-71.874538,0.0,1.0
+2011,3,22,South America,Colombia,8.04928,-73.085536,0.0,0.0
+2011,3,23,South America,Colombia,7.027345,-71.428555,0.0,0.0
+2011,3,23,South America,Colombia,8.04928,-73.0855,0.0,0.0
+2011,3,26,South America,Colombia,11.376512,-72.238708,0.0,0.0
+2011,3,28,South America,Colombia,3.05,-76.416667,0.0,0.0
+2011,3,29,South America,Colombia,8.646096,-72.733387,0.0,0.0
+2011,3,31,South America,Colombia,6.820856,-71.324402,0.0,0.0
+2011,4,2,South America,Colombia,6.788008,-71.025959,0.0,0.0
+2011,4,2,South America,Colombia,0.667105,-76.871354,0.0,0.0
+2011,4,3,South America,Colombia,5.626579,-72.423508,0.0,0.0
+2011,4,3,South America,Colombia,4.083333,-76.2,0.0,0.0
+2011,4,5,South America,Colombia,6.81699,-75.243998,0.0,0.0
+2011,4,6,South America,Colombia,4.486997,-73.893197,0.0,0.0
+2011,4,7,South America,Colombia,10.652893,-72.923999,0.0,0.0
+2011,4,8,South America,Colombia,3.05,-76.416667,1.0,0.0
+2011,4,10,South America,Colombia,6.813887,-75.240296,4.0,0.0
+2011,4,12,South America,Colombia,8.436226,-73.286661,0.0,0.0
+2011,4,13,South America,Colombia,2.452201,-76.807042,0.0,0.0
+2011,4,18,South America,Colombia,7.058333,-75.76198,0.0,2.0
+2011,4,19,South America,Colombia,8.834313,-73.197745,0.0,0.0
+2011,4,23,North America,United States,37.957702,-121.29078,0.0,0.0
+2011,4,23,South America,Colombia,2.533333,-75.316667,0.0,0.0
+2011,4,29,South America,Colombia,1.733408,-76.564337,1.0,1.0
+2011,5,6,North America,United States,39.849557,-75.355746,0.0,0.0
+2011,5,7,South America,Colombia,3.018782,-76.643934,0.0,5.0
+2011,5,7,South America,Colombia,2.039672,-76.924525,1.0,0.0
+2011,5,7,South America,Colombia,2.650027,-75.649575,0.0,0.0
+2011,5,12,South America,Colombia,0.701166,-75.250067,0.0,0.0
+2011,5,15,South America,Colombia,0.425291,-76.9052,0.0,2.0
+2011,5,21,South America,Colombia,2.956218,-76.268396,0.0,0.0
+2011,5,22,South America,Colombia,2.243056,-77.278611,1.0,1.0
+2011,5,22,South America,Colombia,6.001894,-76.781744,0.0,1.0
+2011,5,22,South America,Colombia,6.001894,-76.781744,2.0,3.0
+2011,5,23,South America,Colombia,3.887255,-77.067341,0.0,0.0
+2011,5,23,South America,Colombia,3.05,-76.416667,3.0,0.0
+2011,5,25,South America,Colombia,5.981594,-76.360207,0.0,3.0
+2011,5,26,South America,Colombia,8.851155,-76.425455,1.0,0.0
+2011,5,26,South America,Colombia,2.358296,-75.687919,0.0,0.0
+2011,5,26,South America,Colombia,2.149275,-77.081451,1.0,0.0
+2011,5,28,South America,Colombia,2.998638,-75.30562,0.0,0.0
+2011,5,29,South America,Colombia,6.978869,-75.296389,0.0,2.0
+2011,6,1,South America,Chile,-33.366238,-70.505302,1.0,0.0
+2011,6,2,South America,Colombia,7.073165,-73.851015,0.0,0.0
+2011,6,7,South America,Colombia,2.116667,-76.983333,0.0,1.0
+2011,6,29,North America,Mexico,19.645565,-99.168927,0.0,0.0
+2011,6,29,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2011,9,26,North America,United States,43.662938,-116.68736,0.0,0.0
+2011,11,1,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2011,11,1,South America,Colombia,1.752199,-75.58217,0.0,2.0
+2011,11,2,South America,Colombia,2.998638,-75.30562,4.0,1.0
+2011,11,2,South America,Colombia,0.685,-76.604444,0.0,0.0
+2011,11,6,South America,Colombia,2.85,-76.316667,3.0,1.0
+2011,11,6,South America,Colombia,2.64307,-76.98918,2.0,1.0
+2011,11,7,South America,Colombia,6.491205,-74.402511,13.0,1.0
+2011,11,9,South America,Chile,-33.583333,-70.7,0.0,0.0
+2011,11,11,North America,United States,38.908642,-77.015381,0.0,0.0
+2011,11,12,South America,Colombia,7.198606,-75.341218,0.0,1.0
+2011,11,12,South America,Colombia,2.957423,-76.267166,10.0,0.0
+2011,11,14,South America,Colombia,3.176146,-76.260556,0.0,0.0
+2011,11,14,South America,Colombia,4.45556,-76.38948,0.0,0.0
+2011,11,15,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2011,11,18,South America,Colombia,3.250584,-75.75026,2.0,2.0
+2011,11,22,South America,Ecuador,-2.170832,-79.922359,0.0,0.0
+2011,11,28,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2011,12,7,South America,Colombia,9.702809,-73.277775,0.0,0.0
+2011,12,7,South America,Colombia,1.751851,-75.584091,4.0,0.0
+2011,12,7,North America,Mexico,20.115301,-98.745887,1.0,0.0
+2011,12,8,South America,Colombia,3.174531,-76.259609,2.0,0.0
+2011,12,9,South America,Colombia,2.956011,-76.269046,0.0,0.0
+2011,12,9,South America,Colombia,2.550699,-76.063847,1.0,0.0
+2011,12,10,South America,Colombia,3.25375,-75.750179,2.0,0.0
+2011,12,18,South America,Colombia,12.228233,-71.992872,0.0,0.0
+2011,12,21,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2011,12,22,South America,Colombia,7.07386,-75.14591,1.0,1.0
+2011,12,30,South America,Colombia,0.667041,-76.873223,16.0,2.0
+2011,12,30,South America,Chile,-38.948921,-72.331113,0.0,0.0
+2012,1,1,North America,United States,30.488927,-87.227633,0.0,0.0
+2012,1,1,North America,United States,40.697132,-73.931351,0.0,0.0
+2012,1,1,North America,United States,40.697132,-73.931351,0.0,0.0
+2012,1,1,North America,United States,40.697132,-73.931351,0.0,0.0
+2012,1,1,North America,United States,40.697132,-73.931351,0.0,0.0
+2012,1,3,North America,United States,40.944543,-74.075419,0.0,0.0
+2012,1,6,North America,Mexico,25.593517,-99.990181,0.0,1.0
+2012,1,8,South America,Peru,-5.380227,-78.698601,0.0,5.0
+2012,1,8,North America,United States,34.023163,-86.048875,0.0,0.0
+2012,1,11,North America,United States,40.832301,-74.110727,1.0,0.0
+2012,1,13,South America,Colombia,8.649889,-72.733281,2.0,3.0
+2012,1,15,South America,Colombia,1.211933,-77.982468,6.0,1.0
+2012,1,17,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2012,1,18,South America,Colombia,8.669344,-73.040528,0.0,0.0
+2012,1,21,South America,Colombia,7.01306,-75.6953,7.0,2.0
+2012,1,21,South America,Colombia,2.44993,-76.80785,0.0,1.0
+2012,2,1,South America,Colombia,1.806567,-78.76485,70.0,9.0
+2012,2,2,South America,Colombia,3.178149,-76.467272,34.0,6.0
+2012,2,2,South America,Colombia,4.416702,-75.500045,4.0,1.0
+2012,2,2,South America,Colombia,7.033301,-74.533334,1.0,1.0
+2012,2,3,South America,Colombia,3.248953,-76.229252,2.0,0.0
+2012,2,6,South America,Venezuela,8.883318,-64.250024,2.0,0.0
+2012,2,11,South America,Colombia,3.261744,-76.540844,11.0,3.0
+2012,2,20,South America,Colombia,3.066775,-76.34992,9.0,3.0
+2012,2,28,South America,Colombia,6.547306,-71.002231,0.0,0.0
+2012,3,3,South America,Colombia,6.45929,-71.736282,3.0,3.0
+2012,3,8,South America,Colombia,2.054667,-77.233994,0.0,3.0
+2012,3,10,South America,Colombia,2.116667,-74.766667,6.0,0.0
+2012,3,12,South America,Colombia,0.869892,-73.841906,0.0,2.0
+2012,3,17,South America,Colombia,6.547306,-71.002231,2.0,11.0
+2012,3,17,South America,Colombia,6.547306,-71.002231,0.0,0.0
+2012,3,18,North America,Mexico,24.26694,-98.836276,0.0,7.0
+2012,3,19,North America,Mexico,23.736916,-99.141115,5.0,0.0
+2012,3,23,South America,Colombia,8.283333,-76.383333,0.0,2.0
+2012,3,25,North America,Mexico,25.869029,-97.502738,0.0,0.0
+2012,3,27,South America,Colombia,7.946283,-72.898807,6.0,1.0
+2012,4,1,North America,United States,44.281591,-88.438409,0.0,0.0
+2012,4,7,South America,Colombia,5.252803,-76.825965,2.0,9.0
+2012,4,8,South America,Peru,-11.717222,-72.945278,0.0,0.0
+2012,4,9,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2012,4,13,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2012,4,13,South America,Colombia,10.387337,-75.519663,0.0,0.0
+2012,4,14,South America,Colombia,2.76028,-76.6339,2.0,1.0
+2012,4,14,South America,Colombia,2.76028,-76.6339,0.0,0.0
+2012,4,18,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2012,4,21,South America,Colombia,4.440663,-75.244141,7.0,0.0
+2012,4,22,South America,Colombia,4.440663,-75.244141,1.0,0.0
+2012,4,23,South America,Brazil,-2.530731,-44.306826,0.0,1.0
+2012,4,24,North America,Mexico,27.480024,-99.510535,1.0,0.0
+2012,4,24,North America,Mexico,27.480024,-99.510535,0.0,0.0
+2012,4,27,South America,Colombia,1.91417,-75.145,0.0,3.0
+2012,4,27,South America,Colombia,3.3275,-76.238611,0.0,5.0
+2012,4,28,South America,Colombia,0.869892,-73.841906,0.0,4.0
+2012,5,1,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2012,5,5,South America,Colombia,3.680989,-73.625988,0.0,0.0
+2012,5,8,South America,Colombia,2.243056,-77.278611,2.0,3.0
+2012,5,9,South America,Colombia,6.535313,-70.913185,0.0,0.0
+2012,5,10,North America,Canada,45.50867,-73.553992,0.0,0.0
+2012,5,10,North America,Mexico,29.089186,-110.96133,1.0,0.0
+2012,5,10,South America,Colombia,8.65,-72.733333,17.0,8.0
+2012,5,11,North America,Mexico,27.480024,-99.510535,0.0,0.0
+2012,5,12,North America,Mexico,18.93402,-99.231483,0.0,1.0
+2012,5,15,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2012,5,15,South America,Colombia,4.667128,-74.106056,39.0,5.0
+2012,5,17,North America,Mexico,27.492199,-109.940706,0.0,1.0
+2012,5,3,North America,Mexico,19.190478,-96.152386,0.0,4.0
+2012,5,19,South America,Colombia,1.10091,-75.40091,2.0,1.0
+2012,5,20,North America,United States,33.909395,-84.113468,0.0,0.0
+2012,5,20,North America,United States,36.659582,-79.711978,0.0,0.0
+2012,5,21,South America,Colombia,11.378289,-72.238173,4.0,12.0
+2012,5,22,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2012,5,23,North America,United States,33.912749,-84.467353,0.0,0.0
+2012,5,25,South America,Colombia,1.08722,-77.62245,6.0,1.0
+2012,5,25,South America,Colombia,1.283333,-77.466667,6.0,0.0
+2012,5,31,North America,Mexico,19.566519,-101.706829,1.0,0.0
+2012,6,2,North America,Mexico,25.869029,-97.502738,0.0,0.0
+2012,6,2,South America,Colombia,6.90333,-75.6825,2.0,2.0
+2012,6,3,South America,Colombia,7.07202,-75.35473,3.0,0.0
+2012,6,4,South America,Colombia,1.406396,-75.453903,3.0,4.0
+2012,6,6,South America,Colombia,7.289972,-75.392693,0.0,2.0
+2012,6,6,South America,Peru,-12.08299,-72.92067,0.0,0.0
+2012,6,13,North America,Mexico,19.530476,-96.909131,0.0,1.0
+2012,6,17,South America,Colombia,3.886611,-77.070229,9.0,0.0
+2012,6,18,North America,United States,33.019843,-96.698886,1.0,0.0
+2012,6,20,South America,Colombia,1.246,-78.11531,7.0,4.0
+2012,6,19,South America,Colombia,2.46077,-76.644881,7.0,1.0
+2012,6,22,North America,Mexico,23.737156,-99.143987,0.0,2.0
+2012,7,1,North America,Canada,45.555202,-73.608972,0.0,0.0
+2012,7,3,South America,Colombia,7.079371,-70.758977,0.0,0.0
+2012,7,4,South America,Colombia,1.202106,-76.916983,3.0,5.0
+2012,7,4,South America,Colombia,7.386155,-72.65509,0.0,0.0
+2012,7,4,South America,Colombia,2.76516,-77.23571,7.0,0.0
+2012,7,4,North America,United States,37.084227,-94.513281,0.0,0.0
+2012,7,14,South America,Colombia,11.916667,-72.0,0.0,0.0
+2012,7,8,South America,Colombia,7.25,-74.75,1.0,3.0
+2012,7,8,South America,Colombia,2.955984,-76.269334,5.0,0.0
+2012,7,9,South America,Colombia,5.170847,-72.551117,3.0,3.0
+2012,7,10,South America,Colombia,2.76516,-77.23571,5.0,1.0
+2012,7,10,South America,Colombia,2.243056,-77.278611,0.0,0.0
+2012,7,20,South America,Colombia,3.886611,-77.070229,5.0,1.0
+2012,7,20,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2012,7,20,South America,Colombia,2.116667,-74.766667,0.0,0.0
+2012,7,20,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2012,7,22,South America,Colombia,7.033333,-72.066667,0.0,0.0
+2012,7,22,South America,Colombia,1.35,-77.6,0.0,0.0
+2012,7,24,South America,Colombia,6.959519,-71.88179,0.0,0.0
+2012,7,24,South America,Colombia,6.959519,-71.88179,0.0,0.0
+2012,8,3,South America,Colombia,3.22425,-76.31368,2.0,1.0
+2012,8,3,South America,Colombia,6.958901,-71.881764,1.0,0.0
+2012,8,5,North America,United States,42.88585,-87.863136,4.0,7.0
+2012,8,6,North America,United States,37.056467,-94.536324,0.0,0.0
+2012,8,8,South America,Colombia,11.1597,-72.5856,0.0,0.0
+2012,8,9,South America,Colombia,4.083333,-76.2,0.0,0.0
+2012,8,10,South America,Colombia,3.88718,-77.066102,0.0,0.0
+2012,8,10,South America,Colombia,2.63874,-76.52915,0.0,0.0
+2012,8,10,South America,Colombia,1.809844,-78.764763,0.0,0.0
+2012,8,12,North America,United States,41.880028,-88.007845,0.0,0.0
+2012,8,14,South America,Colombia,8.642434,-72.736695,0.0,0.0
+2012,8,14,South America,Colombia,8.63781,-72.73464,0.0,0.0
+2012,8,15,South America,Colombia,1.809844,-78.764763,1.0,2.0
+2012,8,15,South America,Peru,-11.254017,-74.637381,5.0,5.0
+2012,8,15,North America,United States,38.908642,-77.015381,1.0,0.0
+2012,8,16,South America,Colombia,1.513648,-78.677878,6.0,5.0
+2012,8,16,South America,Colombia,2.45,-76.616667,0.0,0.0
+2012,8,19,South America,Colombia,1.434603,-78.448545,0.0,0.0
+2012,8,21,South America,Colombia,7.027016,-71.428531,0.0,0.0
+2012,8,25,South America,Colombia,0.882194,-77.5062,0.0,0.0
+2012,8,26,South America,Colombia,3.64411,-73.88645,4.0,6.0
+2012,8,30,South America,Colombia,11.354774,-72.520483,0.0,0.0
+2012,8,31,South America,Colombia,2.449931,-76.616667,2.0,0.0
+2012,9,2,South America,Colombia,7.066667,-73.85,27.0,0.0
+2012,9,4,South America,Paraguay,-22.811926,-57.101319,0.0,1.0
+2012,9,4,South America,Paraguay,-22.811926,-57.101319,2.0,0.0
+2012,9,4,South America,Colombia,11.03537,-72.661686,0.0,0.0
+2012,9,8,South America,Colombia,2.112932,-74.76919,2.0,0.0
+2012,9,12,South America,Colombia,11.354774,-72.520483,0.0,0.0
+2012,9,24,South America,Colombia,1.337977,-77.591224,20.0,0.0
+2012,9,26,South America,Peru,-12.622925,-73.087749,3.0,0.0
+2012,9,28,South America,Ecuador,-0.2004,-75.771433,0.0,0.0
+2012,9,30,North America,United States,41.528165,-83.618569,0.0,0.0
+2012,10,2,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2012,10,3,South America,Colombia,7.078605,-70.758636,0.0,0.0
+2012,10,3,South America,Colombia,6.959448,-71.881724,2.0,0.0
+2012,10,6,South America,Peru,-12.647404,-73.048645,0.0,0.0
+2012,10,14,South America,Colombia,6.686593,-71.342782,4.0,2.0
+2012,10,14,South America,Colombia,8.65,-72.733333,0.0,0.0
+2012,10,14,South America,Paraguay,-23.343092,-57.049447,0.0,0.0
+2012,10,19,South America,Colombia,0.516667,-76.5,3.0,5.0
+2012,10,29,South America,Colombia,3.1955,-76.328921,1.0,6.0
+2012,10,29,South America,Bolivia,-22.015407,-63.678247,2.0,0.0
+2012,10,31,South America,Colombia,3.416662,-76.166618,17.0,2.0
+2012,11,2,North America,Canada,49.186495,-122.823134,0.0,0.0
+2012,11,2,South America,Colombia,1.65583,-78.1653,4.0,2.0
+2012,11,3,South America,Colombia,8.822653,-73.149934,0.0,0.0
+2012,11,11,South America,Colombia,2.954086,-76.692855,25.0,0.0
+2012,11,15,South America,Paraguay,-23.565803,-56.550281,0.0,0.0
+2012,11,17,South America,Colombia,8.04928,-73.085536,3.0,1.0
+2012,11,18,South America,Colombia,7.027336,-71.428494,0.0,2.0
+2012,11,18,South America,Colombia,4.440598,-75.244141,3.0,0.0
+2012,11,18,South America,Colombia,4.440598,-75.244141,4.0,0.0
+2012,11,30,North America,Mexico,19.343744,-99.156188,0.0,0.0
+2012,11,30,North America,United States,32.879502,-111.757352,0.0,0.0
+2012,12,6,South America,Colombia,2.566401,-75.924953,0.0,1.0
+2012,12,8,South America,Colombia,3.049912,-76.416542,3.0,1.0
+2012,12,14,South America,Colombia,6.799932,-76.800004,0.0,0.0
+2012,12,24,South America,Colombia,8.673589,-73.040407,5.0,0.0
+2012,12,31,South America,Colombia,2.566718,-77.883335,6.0,0.0
+2013,1,2,South America,Colombia,2.243884,-77.010385,0.0,0.0
+2013,1,3,South America,Colombia,7.318612,-72.48146,0.0,0.0
+2013,1,4,South America,Chile,-38.667719,-72.224441,0.0,2.0
+2013,1,5,South America,Chile,-38.9573,-72.626929,0.0,0.0
+2013,1,5,South America,Chile,-38.16402,-72.903185,0.0,0.0
+2013,1,5,North America,Canada,49.282729,-123.120737,0.0,0.0
+2013,1,8,South America,Colombia,7.11751,-72.3394,0.0,0.0
+2013,1,8,South America,Brazil,-21.633455,-41.048953,0.0,1.0
+2013,1,9,South America,Chile,-40.619518,-72.472989,0.0,0.0
+2013,1,10,South America,Colombia,8.833292,-73.199913,3.0,1.0
+2013,1,17,North America,United States,47.252877,-122.444291,0.0,0.0
+2013,1,18,South America,Colombia,8.530351,-74.036873,0.0,0.0
+2013,1,20,South America,Colombia,3.05,-76.416667,0.0,0.0
+2013,1,20,South America,Colombia,8.316667,-73.15,4.0,0.0
+2013,1,20,South America,Colombia,0.666111,-76.870833,0.0,0.0
+2013,1,20,South America,Colombia,8.05306,-73.08777,0.0,1.0
+2013,1,20,South America,Colombia,2.229662,-77.004032,0.0,1.0
+2013,1,20,South America,Colombia,0.666111,-76.870833,0.0,0.0
+2013,1,20,South America,Colombia,1.065854,-76.317414,0.0,0.0
+2013,1,21,South America,Colombia,11.354774,-72.520483,0.0,0.0
+2013,1,22,South America,Colombia,6.953862,-71.874474,0.0,0.0
+2013,1,22,South America,Colombia,7.171495,-75.7643,0.0,1.0
+2013,1,23,South America,Colombia,2.343425,-77.231748,7.0,0.0
+2013,1,25,South America,Colombia,11.35521,-72.520483,0.0,0.0
+2013,1,25,South America,Colombia,3.400074,-76.23285,0.0,0.0
+2013,1,25,South America,Colombia,2.343554,-77.231537,1.0,0.0
+2013,1,22,South America,Colombia,7.917793,-72.889652,0.0,0.0
+2013,1,30,South America,Colombia,1.114769,-76.319946,0.0,0.0
+2013,1,30,South America,Colombia,0.435826,-75.527653,0.0,1.0
+2013,1,31,South America,Colombia,1.628118,-77.459456,2.0,4.0
+2013,1,31,North America,Mexico,19.371887,-99.086624,101.0,37.0
+2013,2,1,South America,Colombia,11.379744,-72.243454,0.0,3.0
+2013,2,1,South America,Colombia,6.242026,-75.564766,5.0,0.0
+2013,2,3,South America,Colombia,4.056142,-75.995192,3.0,2.0
+2013,2,7,North America,United States,33.875294,-117.566438,1.0,1.0
+2013,2,4,South America,Colombia,2.583229,-75.816835,1.0,1.0
+2013,2,4,South America,Colombia,7.188101,-75.35059,2.0,2.0
+2013,2,5,South America,Colombia,5.233187,-76.829109,0.0,0.0
+2013,2,5,South America,Colombia,3.034755,-76.408123,3.0,2.0
+2013,2,5,South America,Colombia,3.034755,-76.408123,0.0,0.0
+2013,2,7,South America,Colombia,2.935498,-75.28318,2.0,0.0
+2013,2,7,North America,Mexico,25.542844,-103.406786,5.0,0.0
+2013,2,8,South America,Colombia,6.860985,-70.70569,0.0,0.0
+2013,2,11,South America,Colombia,0.676672,-76.880074,0.0,0.0
+2013,2,12,South America,Colombia,1.336992,-71.952474,27.0,2.0
+2013,2,12,South America,Colombia,1.336992,-71.952474,0.0,0.0
+2013,2,16,South America,Colombia,7.163575,-75.759401,0.0,0.0
+2013,2,16,South America,Colombia,0.4997,-76.500404,2.0,0.0
+2013,2,16,South America,Colombia,6.964597,-75.424104,0.0,0.0
+2013,2,19,South America,Paraguay,-23.399128,-57.422943,0.0,1.0
+2013,2,24,South America,Colombia,11.551262,-72.900891,0.0,0.0
+2013,2,25,South America,Colombia,0.325732,-76.878675,13.0,2.0
+2013,2,25,North America,United States,47.610786,-122.331306,0.0,0.0
+2013,3,3,North America,Mexico,29.564449,-104.544098,0.0,1.0
+2013,3,3,South America,Colombia,1.807209,-78.769583,0.0,0.0
+2013,3,4,South America,Peru,-12.414374,-73.900641,0.0,1.0
+2013,3,5,South America,Colombia,1.813128,-78.754227,0.0,0.0
+2013,3,5,South America,Colombia,1.813128,-78.754227,0.0,0.0
+2013,3,6,North America,Mexico,28.631272,-106.072715,0.0,0.0
+2013,3,6,North America,Mexico,28.631272,-106.072715,0.0,0.0
+2013,3,11,South America,Colombia,2.251617,-77.020512,17.0,0.0
+2013,3,14,South America,Colombia,11.09983,-72.53402,0.0,0.0
+2013,3,15,North America,Mexico,21.156762,-86.842448,4.0,7.0
+2013,3,20,South America,Peru,-12.286658,-74.874104,0.0,0.0
+2013,3,22,South America,Colombia,4.092517,-75.154538,0.0,2.0
+2013,3,24,North America,Mexico,17.05423,-96.71323,0.0,2.0
+2013,3,28,South America,Colombia,0.501931,-76.497517,0.0,0.0
+2013,3,30,South America,Colombia,8.095106,-76.732407,0.0,1.0
+2013,4,5,South America,Colombia,3.173889,-76.259444,8.0,4.0
+2013,4,5,South America,Peru,-12.86366,-72.69258,1.0,1.0
+2013,4,6,South America,Colombia,1.100127,-75.400047,5.0,3.0
+2013,4,8,South America,Venezuela,10.482834,-66.962128,7.0,0.0
+2013,4,10,South America,Ecuador,-2.203816,-79.897453,0.0,0.0
+2013,4,10,South America,Colombia,7.027336,-71.428494,2.0,2.0
+2013,4,14,South America,Colombia,7.027336,-71.428494,0.0,3.0
+2013,4,15,North America,United States,42.350265,-71.080976,132.0,1.0
+2013,4,15,North America,United States,42.350265,-71.080976,132.0,2.0
+2013,4,16,North America,United States,37.339386,-121.894956,0.0,0.0
+2013,4,17,North America,Mexico,20.647162,-103.414493,0.0,0.0
+2013,4,17,North America,United States,31.816677,-97.087902,151.0,15.0
+2013,4,18,North America,United States,42.359606,-71.093134,0.0,1.0
+2013,4,18,North America,United States,40.207537,-100.597003,0.0,0.0
+2013,4,18,South America,Colombia,1.807981,-78.768396,0.0,0.0
+2013,4,18,South America,Colombia,1.807981,-78.768396,0.0,0.0
+2013,4,18,South America,Colombia,1.807981,-78.768396,0.0,0.0
+2013,4,18,South America,Paraguay,-23.45954,-56.738399,0.0,1.0
+2013,4,19,North America,United States,42.370888,-71.182911,16.0,2.0
+2013,4,19,South America,Colombia,2.851834,-76.315899,0.0,1.0
+2013,4,21,South America,Paraguay,-23.4,-57.43,2.0,1.0
+2013,4,21,South America,Paraguay,-23.318849,-56.488096,3.0,1.0
+2013,4,11,South America,Ecuador,-2.203816,-79.897453,0.0,1.0
+2013,4,25,South America,Peru,-12.28365,-74.873414,0.0,1.0
+2013,5,2,South America,Colombia,4.301109,-74.806105,0.0,0.0
+2013,5,2,South America,Paraguay,-23.4,-57.43,0.0,0.0
+2013,5,7,North America,Canada,45.42153,-75.697193,0.0,0.0
+2013,5,12,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2013,5,11,South America,Colombia,3.429344,-76.516037,0.0,1.0
+2013,5,13,South America,Colombia,1.806667,-78.764722,0.0,1.0
+2013,5,14,South America,Colombia,1.052069,-76.631163,4.0,1.0
+2013,5,15,North America,Canada,49.285142,-123.090667,0.0,0.0
+2013,5,18,South America,Colombia,0.529675,-76.850441,1.0,0.0
+2013,5,20,North America,United States,38.908642,-77.015381,0.0,0.0
+2013,5,20,North America,United States,38.908642,-77.015381,0.0,0.0
+2013,5,20,North America,United States,40.697132,-73.931351,0.0,0.0
+2013,5,21,South America,Colombia,8.832152,-73.215837,0.0,0.0
+2013,5,21,South America,Colombia,8.499537,-73.273773,0.0,0.0
+2013,5,21,South America,Colombia,8.678779,-72.733841,0.0,0.0
+2013,5,22,South America,Colombia,7.133333,-72.666667,6.0,12.0
+2013,5,22,South America,Colombia,8.562868,-72.747213,0.0,0.0
+2013,5,22,South America,Colombia,2.998611,-75.304444,0.0,0.0
+2013,5,22,South America,Colombia,11.377778,-72.238889,1.0,4.0
+2013,5,27,South America,Colombia,2.237895,-76.995335,0.0,0.0
+2013,5,30,South America,Colombia,2.624542,-72.760311,2.0,3.0
+2013,5,31,South America,Paraguay,-23.45954,-56.738399,0.0,1.0
+2013,6,4,South America,Colombia,1.297035,-75.754603,3.0,5.0
+2013,6,5,South America,Colombia,3.041097,-76.49379,0.0,1.0
+2013,6,5,South America,Peru,-12.728041,-73.947004,2.0,0.0
+2013,6,6,South America,Peru,-13.002668,-73.513029,0.0,1.0
+2013,6,9,South America,Colombia,4.650092,-76.478594,2.0,2.0
+2013,6,11,South America,Brazil,-22.759087,-43.454762,0.0,1.0
+2013,6,11,South America,Peru,-12.5125,-73.857778,1.0,1.0
+2013,6,20,South America,Colombia,2.33056,-73.084077,0.0,0.0
+2013,6,22,South America,Peru,-12.677856,-72.622833,0.0,0.0
+2013,6,22,South America,Colombia,8.472974,-72.574458,0.0,0.0
+2013,7,1,North America,Canada,48.428061,-123.366008,0.0,0.0
+2013,7,4,South America,Colombia,8.046767,-73.088078,0.0,0.0
+2013,7,5,South America,Colombia,6.963234,-71.881599,0.0,0.0
+2013,7,5,South America,Colombia,1.029444,-76.616389,0.0,1.0
+2013,7,6,South America,Colombia,2.235151,-77.003603,17.0,0.0
+2013,7,14,South America,Colombia,5.7,-76.666667,1.0,1.0
+2013,7,17,South America,Colombia,2.47611,-78.1169,2.0,0.0
+2013,7,20,South America,Colombia,6.68301,-71.68358,5.0,15.0
+2013,7,21,South America,Brazil,-22.848195,-45.227283,0.0,0.0
+2013,7,21,South America,Colombia,7.89807,-72.5085,20.0,1.0
+2013,7,23,South America,Peru,-12.728041,-73.947004,0.0,0.0
+2013,7,25,North America,United States,42.995673,-71.454741,0.0,0.0
+2013,7,26,South America,Colombia,1.586089,-78.663664,4.0,1.0
+2013,7,28,South America,Colombia,6.963234,-71.881599,0.0,0.0
+2013,7,30,South America,Colombia,1.806667,-78.764722,1.0,1.0
+2013,8,6,South America,Colombia,4.473738,-74.121429,0.0,0.0
+2013,8,8,North America,United States,45.545339,-122.661681,0.0,0.0
+2013,8,10,South America,Colombia,0.425278,-76.905278,1.0,1.0
+2013,8,17,South America,Paraguay,-23.45868,-56.738212,1.0,5.0
+2013,8,18,South America,Colombia,6.791318,-70.471717,0.0,0.0
+2013,8,22,North America,United States,43.366501,-124.21789,0.0,0.0
+2013,8,24,South America,Colombia,6.440859,-71.79883,0.0,16.0
+2013,8,25,South America,Colombia,5.582507,-76.648491,0.0,0.0
+2013,8,27,South America,Colombia,1.803799,-77.168663,0.0,0.0
+2013,8,30,South America,Colombia,4.092517,-75.154538,1.0,5.0
+2013,8,31,South America,Colombia,6.953691,-71.878846,0.0,1.0
+2013,9,3,North America,United States,43.375245,-124.224996,0.0,0.0
+2013,9,6,South America,Argentina,-41.133472,-71.310278,0.0,0.0
+2013,9,7,South America,Colombia,6.956503,-71.859529,0.0,0.0
+2013,9,10,South America,Colombia,6.953344,-71.874966,0.0,0.0
+2013,9,12,South America,Colombia,1.642231,-77.816391,1.0,0.0
+2013,9,19,South America,Argentina,-34.61768,-58.444435,2.0,0.0
+2013,10,1,South America,Paraguay,-23.45954,-56.738399,7.0,1.0
+2013,10,3,South America,Colombia,7.318612,-72.48146,0.0,0.0
+2013,10,3,North America,United States,37.083284,-94.502838,0.0,0.0
+2013,10,4,South America,Colombia,7.318612,-72.48146,0.0,0.0
+2013,10,4,North America,United States,37.083284,-94.502838,0.0,0.0
+2013,10,7,South America,Colombia,7.100893,-73.846207,0.0,0.0
+2013,10,7,South America,Colombia,7.100893,-73.846207,0.0,0.0
+2013,10,7,South America,Colombia,7.465964,-73.938446,0.0,0.0
+2013,10,9,South America,Colombia,11.3776,-72.239169,0.0,0.0
+2013,10,9,South America,Colombia,7.07417,-75.147814,8.0,0.0
+2013,10,13,South America,Colombia,11.531598,-72.275019,0.0,0.0
+2013,10,15,South America,Colombia,7.289972,-75.392693,5.0,1.0
+2013,10,17,South America,Colombia,7.027175,-71.427448,0.0,0.0
+2013,10,17,South America,Colombia,6.644404,-70.970969,2.0,1.0
+2013,10,18,South America,Colombia,5.245764,-76.821361,0.0,0.0
+2013,10,21,South America,Colombia,6.644404,-70.970969,0.0,0.0
+2013,10,21,South America,Colombia,6.644404,-70.970969,0.0,0.0
+2013,10,21,South America,Colombia,6.644404,-70.970969,0.0,0.0
+2013,10,21,South America,Colombia,6.793458,-71.769545,0.0,0.0
+2013,10,22,South America,Colombia,11.354774,-72.520483,0.0,0.0
+2013,10,23,South America,Paraguay,-23.343832,-57.051071,2.0,1.0
+2013,10,23,South America,Paraguay,-23.343832,-57.051071,0.0,0.0
+2013,11,1,North America,United States,34.097866,-118.407379,4.0,1.0
+2013,11,4,South America,Colombia,3.379958,-74.042712,0.0,1.0
+2013,11,4,South America,Colombia,2.519177,-76.39286,0.0,0.0
+2013,11,4,South America,Colombia,2.519177,-76.39286,0.0,0.0
+2013,11,6,South America,Colombia,2.838804,-77.618866,0.0,0.0
+2013,11,14,South America,Colombia,11.000639,-72.756321,2.0,1.0
+2013,11,15,South America,Colombia,0.281867,-76.930397,2.0,0.0
+2013,11,15,South America,Colombia,3.253279,-76.228219,2.0,0.0
+2013,11,18,South America,Colombia,2.558963,-75.564823,0.0,1.0
+2013,11,19,South America,Colombia,2.046455,-76.917458,2.0,0.0
+2013,11,21,South America,Colombia,6.959519,-71.88179,0.0,1.0
+2013,11,21,South America,Colombia,2.971842,-76.267204,1.0,0.0
+2013,11,26,South America,Peru,-11.431789,-74.4848,0.0,1.0
+2013,11,26,South America,Colombia,3.888318,-77.06756,0.0,0.0
+2013,11,26,South America,Colombia,3.888318,-77.06756,0.0,0.0
+2013,12,2,South America,Colombia,3.75,-75.583333,2.0,2.0
+2013,12,3,South America,Colombia,7.170678,-72.428576,0.0,0.0
+2013,12,4,South America,Colombia,1.806667,-78.764722,12.0,0.0
+2013,12,6,South America,Colombia,8.833333,-73.2,1.0,0.0
+2013,12,6,South America,Colombia,2.728989,-76.050909,0.0,1.0
+2013,12,7,South America,Colombia,2.550217,-76.066616,38.0,8.0
+2013,12,10,South America,Colombia,2.958056,-76.271389,2.0,4.0
+2013,12,14,South America,Colombia,1.820559,-75.885346,2.0,1.0
+2013,12,15,South America,Colombia,0.497412,-76.492367,0.0,0.0
+2013,12,20,South America,Colombia,8.833333,-73.2,0.0,0.0
+2013,12,20,South America,Colombia,3.153056,-75.053056,0.0,0.0
+2013,12,23,South America,Colombia,7.111846,-75.549612,2.0,0.0
+2013,12,31,South America,Chile,-38.948921,-72.331113,1.0,0.0
+2014,1,1,South America,Colombia,8.86879,-73.194094,0.0,0.0
+2014,1,1,South America,Colombia,8.608345,-73.316615,0.0,0.0
+2014,1,1,South America,Colombia,8.608345,-73.316615,0.0,0.0
+2014,1,1,South America,Colombia,8.608345,-73.316615,0.0,0.0
+2014,1,26,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2014,1,6,North America,Mexico,19.371887,-99.086624,0.0,0.0
+2014,1,9,South America,Colombia,7.073611,-75.145833,0.0,5.0
+2014,1,10,South America,Colombia,8.833333,-73.2,0.0,0.0
+2014,1,11,South America,Brazil,-19.916667,-43.933333,0.0,1.0
+2014,1,16,South America,Colombia,3.418666,-76.241882,61.0,1.0
+2014,1,20,South America,Colombia,2.958056,-76.271389,0.0,1.0
+2014,1,24,South America,Colombia,1.293409,-75.490868,0.0,1.0
+2014,1,24,South America,Colombia,2.251617,-76.993046,1.0,1.0
+2014,1,24,South America,Colombia,2.55,-76.066667,0.0,0.0
+2014,1,24,South America,Colombia,0.516667,-76.5,3.0,1.0
+2014,1,26,South America,Colombia,1.806667,-78.764722,5.0,0.0
+2014,1,27,South America,Colombia,8.533734,-73.456863,0.0,0.0
+2014,1,30,South America,Colombia,8.233333,-73.35,1.0,0.0
+2014,1,30,South America,Colombia,1.411057,-76.065956,0.0,0.0
+2014,2,14,South America,Colombia,4.30499,-72.073603,0.0,0.0
+2014,2,5,North America,Mexico,18.154171,-94.3937,0.0,1.0
+2014,2,12,South America,Colombia,7.893825,-72.50467,0.0,0.0
+2014,2,13,South America,Colombia,6.906659,-75.686928,0.0,0.0
+2014,2,13,South America,Brazil,-22.461847,-43.482415,0.0,1.0
+2014,2,14,South America,Colombia,1.907192,-77.263248,0.0,2.0
+2014,2,14,South America,Colombia,3.982466,-75.924457,0.0,0.0
+2014,2,16,South America,Colombia,6.715532,-71.689924,0.0,0.0
+2014,2,17,South America,Colombia,7.527234,-75.411744,3.0,5.0
+2014,2,17,South America,Peru,-12.73574,-72.614288,1.0,0.0
+2014,2,18,South America,Peru,-12.78656,-74.173725,0.0,0.0
+2014,2,21,South America,Colombia,6.794034,-71.768645,0.0,0.0
+2014,2,21,South America,Colombia,6.458529,-71.733247,0.0,0.0
+2014,2,18,South America,Peru,-11.335798,-75.341218,0.0,0.0
+2014,2,23,South America,Colombia,6.596402,-71.062746,0.0,0.0
+2014,2,26,South America,Colombia,5.6891,-76.654412,10.0,4.0
+2014,3,3,South America,Chile,-38.698045,-72.326232,0.0,0.0
+2014,3,4,South America,Colombia,2.954862,-76.268236,0.0,0.0
+2014,3,4,South America,Chile,-38.698045,-72.326232,7.0,0.0
+2014,3,10,South America,Colombia,1.527288,-75.482252,4.0,4.0
+2014,3,11,South America,Colombia,6.379665,-76.328018,0.0,1.0
+2014,3,13,South America,Peru,-6.892207,-79.560685,0.0,0.0
+2014,3,15,South America,Colombia,1.806831,-78.764395,0.0,2.0
+2014,3,16,South America,Colombia,6.955331,-71.859149,0.0,1.0
+2014,3,16,South America,Colombia,6.953831,-71.875067,0.0,0.0
+2014,3,16,South America,Colombia,7.309026,-72.483972,0.0,0.0
+2014,3,17,South America,Colombia,5.075028,-76.659745,1.0,1.0
+2014,3,18,North America,United States,31.32747,-89.327765,0.0,0.0
+2014,3,19,South America,Colombia,2.742885,-73.747655,0.0,0.0
+2014,3,22,South America,Colombia,2.954862,-76.268236,0.0,0.0
+2014,3,24,South America,Colombia,2.570256,-77.88552,8.0,1.0
+2014,3,25,South America,Colombia,7.318612,-72.48146,0.0,0.0
+2014,3,25,North America,United States,41.630557,-87.854074,0.0,0.0
+2014,3,26,South America,Colombia,2.550003,-76.062721,0.0,0.0
+2014,3,27,South America,Colombia,2.450154,-77.979665,6.0,2.0
+2014,3,27,South America,Colombia,-0.621448,-72.381708,2.0,2.0
+2014,3,30,South America,Colombia,2.508176,-78.451533,5.0,1.0
+2014,3,30,South America,Colombia,1.806831,-78.764395,3.0,1.0
+2014,4,1,South America,Colombia,2.951367,-76.529237,0.0,0.0
+2014,4,1,South America,Colombia,2.551525,-75.976382,0.0,0.0
+2014,4,1,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2014,4,4,South America,Colombia,2.777048,-76.325053,0.0,2.0
+2014,4,6,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2014,4,7,South America,Colombia,3.017089,-76.641926,1.0,1.0
+2014,4,8,South America,Colombia,2.45,-76.616667,0.0,0.0
+2014,4,8,South America,Colombia,1.459624,-75.04173,0.0,3.0
+2014,4,10,South America,Colombia,1.803303,-78.777507,12.0,0.0
+2014,4,11,South America,Colombia,1.675044,-77.330472,1.0,2.0
+2014,4,12,North America,United States,36.7684,-114.1281,0.0,0.0
+2014,4,13,South America,Colombia,6.952116,-71.874347,0.0,1.0
+2014,4,13,North America,United States,38.982228,-94.670792,0.0,2.0
+2014,4,13,North America,United States,38.982228,-94.670792,0.0,1.0
+2014,4,13,South America,Peru,-12.930115,-74.233524,0.0,0.0
+2014,4,14,South America,Colombia,8.435722,-73.287308,0.0,0.0
+2014,4,15,South America,Colombia,2.720015,-76.148408,0.0,0.0
+2014,4,15,South America,Colombia,1.884008,-77.200806,0.0,0.0
+2014,4,16,South America,Colombia,2.381424,-76.454183,0.0,0.0
+2014,4,16,South America,Colombia,6.49288,-71.560744,0.0,2.0
+2014,4,16,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2014,4,19,South America,Colombia,6.957857,-71.878282,0.0,0.0
+2014,4,21,South America,Peru,-15.484792,-70.12505,0.0,0.0
+2014,4,22,South America,Colombia,2.923692,-72.196948,0.0,0.0
+2014,4,22,South America,Peru,-11.967368,-76.978462,2.0,0.0
+2014,4,22,South America,Colombia,8.645655,-72.719868,7.0,1.0
+2014,4,27,North America,United States,47.610786,-122.331306,0.0,1.0
+2014,4,28,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2014,4,27,North America,Mexico,16.51649,-91.163615,0.0,0.0
+2014,4,29,South America,Paraguay,-23.344167,-57.043611,0.0,0.0
+2014,5,2,South America,Colombia,6.999182,-72.109703,0.0,0.0
+2014,5,1,South America,Colombia,3.72315,-75.48316,0.0,0.0
+2014,5,5,North America,United States,40.40803,-80.588972,0.0,0.0
+2014,5,6,South America,Colombia,0.343611,-76.910833,0.0,0.0
+2014,5,6,South America,Colombia,0.388945,-76.409304,0.0,0.0
+2014,5,6,South America,Colombia,0.276981,-76.929295,0.0,0.0
+2014,5,8,South America,Venezuela,10.482834,-66.962128,1.0,1.0
+2014,5,10,South America,Colombia,8.563769,-73.925574,7.0,0.0
+2014,5,14,South America,Colombia,1.65919,-78.74717,8.0,2.0
+2014,5,20,South America,Colombia,2.199469,-76.650431,0.0,0.0
+2014,5,21,South America,Colombia,8.43557,-73.28742,0.0,1.0
+2014,5,23,North America,United States,34.411929,-119.858282,0.0,3.0
+2014,5,23,North America,United States,34.414238,-119.855348,13.0,4.0
+2014,5,24,South America,Colombia,1.405977,-75.453481,0.0,0.0
+2014,5,25,North America,Mexico,16.516343,-91.163625,0.0,0.0
+2014,5,25,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2014,5,27,South America,Colombia,8.218344,-72.949748,1.0,0.0
+2014,5,27,South America,Paraguay,-23.124529,-56.69482,0.0,0.0
+2014,5,29,South America,Colombia,6.8167,-75.698209,0.0,0.0
+2014,5,29,South America,Colombia,3.132777,-76.383991,0.0,0.0
+2014,5,30,South America,Colombia,5.692234,-76.658002,17.0,0.0
+2014,6,1,North America,United States,47.610786,-122.331306,0.0,2.0
+2014,6,2,South America,Colombia,1.280879,-75.204791,0.0,1.0
+2014,6,3,South America,Colombia,6.95284,-71.87514,1.0,4.0
+2014,6,3,South America,Colombia,2.94818,-75.04098,0.0,0.0
+2014,6,4,North America,Canada,46.087816,-64.778231,2.0,3.0
+2014,6,5,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2014,6,6,South America,Colombia,8.095106,-76.732407,0.0,0.0
+2014,6,6,South America,Colombia,1.935204,-77.309739,1.0,1.0
+2014,6,6,North America,United States,34.206408,-84.13969,1.0,1.0
+2014,6,8,South America,Colombia,11.436254,-72.805757,0.0,0.0
+2014,6,8,South America,Colombia,7.073697,-75.145938,0.0,1.0
+2014,6,8,North America,United States,36.211296,-115.247536,0.0,5.0
+2014,6,9,South America,Colombia,6.547306,-71.002231,0.0,1.0
+2014,6,11,North America,United States,31.340043,-110.935304,0.0,0.0
+2014,6,17,South America,Colombia,6.792498,-71.775599,0.0,1.0
+2014,6,18,South America,Colombia,3.24884,-76.22903,0.0,0.0
+2014,6,16,South America,Paraguay,-23.463938,-56.737833,0.0,0.0
+2014,6,19,South America,Colombia,8.669344,-73.040528,0.0,0.0
+2014,6,20,South America,Colombia,4.667128,-74.106056,3.0,0.0
+2014,6,25,South America,Colombia,3.15243,-75.05271,0.0,1.0
+2014,6,25,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,6,25,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,6,25,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,6,25,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,6,25,South America,Colombia,6.46052,-71.72989,0.0,0.0
+2014,6,25,North America,United States,40.798588,-74.238395,0.0,1.0
+2014,6,27,South America,Colombia,8.609472,-73.225545,0.0,0.0
+2014,6,29,South America,Colombia,6.957063,-71.088624,13.0,0.0
+2014,6,29,South America,Colombia,9.19974,-73.5433,0.0,0.0
+2014,7,1,South America,Colombia,8.300591,-72.889254,0.0,0.0
+2014,7,2,South America,Colombia,8.998507,-72.89733,1.0,3.0
+2014,7,3,South America,Colombia,0.667076,-76.868134,1.0,0.0
+2014,7,10,South America,Colombia,7.078412,-70.757347,7.0,0.0
+2014,7,12,South America,Colombia,6.308312,-75.561875,0.0,0.0
+2014,7,11,South America,Colombia,6.83641,-70.72861,0.0,0.0
+2014,7,13,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,7,16,South America,Colombia,2.043924,-72.331113,0.0,0.0
+2014,7,16,South America,Colombia,8.555443,-72.726861,0.0,0.0
+2014,7,17,South America,Colombia,1.637898,-77.745208,0.0,0.0
+2014,7,19,South America,Peru,-12.068636,-75.210298,0.0,1.0
+2014,7,19,South America,Colombia,7.068173,-70.758848,4.0,1.0
+2014,7,21,South America,Colombia,0.497786,-76.497429,0.0,0.0
+2014,7,1,South America,Colombia,0.497603,-76.497567,0.0,0.0
+2014,7,22,South America,Colombia,2.568137,-72.750508,0.0,0.0
+2014,7,22,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,7,22,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,7,23,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,7,23,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,7,23,South America,Chile,-33.010693,-71.527794,0.0,0.0
+2014,7,26,South America,Colombia,8.136308,-72.96894,0.0,0.0
+2014,7,27,South America,Paraguay,-23.266556,-56.450292,0.0,0.0
+2014,7,26,South America,Colombia,1.206613,-77.275885,1.0,0.0
+2014,7,26,South America,Colombia,1.206613,-77.275885,1.0,0.0
+2014,7,27,South America,Colombia,0.701083,-75.25293,3.0,1.0
+2014,7,26,South America,Colombia,3.37654,-73.564049,0.0,0.0
+2014,7,29,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,7,29,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,7,29,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,7,29,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2014,7,29,South America,Colombia,3.888444,-77.069878,0.0,0.0
+2014,7,30,South America,Colombia,3.248527,-76.228814,2.0,1.0
+2014,7,31,South America,Colombia,2.776462,-76.546127,0.0,0.0
+2014,7,31,South America,Colombia,8.595295,-73.367613,0.0,0.0
+2014,8,4,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2014,8,4,South America,Colombia,6.46052,-71.72989,6.0,1.0
+2014,8,6,South America,Paraguay,-22.666667,-55.916667,0.0,0.0
+2014,8,8,South America,Colombia,6.501169,-75.58068,0.0,0.0
+2014,8,8,South America,Colombia,0.497418,-76.497598,0.0,0.0
+2014,8,8,South America,Colombia,3.429344,-76.516037,0.0,0.0
+2014,8,8,South America,Colombia,8.63781,-72.73464,0.0,0.0
+2014,8,8,South America,Colombia,8.63781,-72.73464,0.0,0.0
+2014,8,11,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,8,11,North America,United States,33.15407,-97.064381,0.0,0.0
+2014,8,12,South America,Colombia,8.435654,-73.28654,2.0,4.0
+2014,8,12,South America,Colombia,6.958717,-71.882112,8.0,0.0
+2014,8,12,South America,Colombia,7.582642,-75.399712,0.0,1.0
+2014,8,13,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2014,8,13,South America,Colombia,6.33336,-71.48332,0.0,0.0
+2014,8,13,South America,Colombia,6.95284,-71.87514,0.0,2.0
+2014,8,14,South America,Colombia,4.585493,-71.070114,0.0,0.0
+2014,8,14,South America,Colombia,1.641284,-77.734463,0.0,0.0
+2014,8,14,South America,Peru,-13.163933,-74.223483,3.0,0.0
+2014,8,14,South America,Colombia,6.648015,-73.426871,0.0,1.0
+2014,8,15,South America,Colombia,8.999799,-72.89781,0.0,0.0
+2014,8,15,South America,Colombia,1.808832,-78.767587,10.0,0.0
+2014,8,15,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,8,21,South America,Colombia,2.116667,-76.983333,0.0,3.0
+2014,8,25,South America,Colombia,7.027777,-71.428526,4.0,3.0
+2014,8,25,South America,Colombia,6.545924,-71.000519,0.0,0.0
+2014,8,26,South America,Colombia,2.116667,-76.983333,0.0,0.0
+2014,8,27,South America,Colombia,6.961684,-75.426826,0.0,0.0
+2014,8,27,South America,Colombia,6.962864,-75.413649,0.0,0.0
+2014,8,27,South America,Colombia,3.913644,-75.477196,0.0,0.0
+2014,8,29,South America,Colombia,1.403468,-75.464179,4.0,0.0
+2014,8,29,South America,Colombia,1.637898,-77.745208,1.0,1.0
+2014,8,30,South America,Colombia,1.61456,-75.6053,3.0,0.0
+2014,9,3,South America,Paraguay,-23.267752,-56.450383,0.0,0.0
+2014,9,5,South America,Colombia,7.011961,-75.687562,0.0,0.0
+2014,9,5,South America,Paraguay,-23.267911,-56.44804,0.0,0.0
+2014,9,5,South America,Paraguay,-23.458064,-56.737975,0.0,1.0
+2014,9,6,South America,Colombia,6.81429,-75.2406,2.0,1.0
+2014,9,6,South America,Colombia,7.022878,-75.908358,1.0,0.0
+2014,9,6,South America,Colombia,2.925749,-75.290872,0.0,1.0
+2014,9,6,North America,Mexico,20.914491,-100.745191,2.0,0.0
+2014,9,7,South America,Colombia,7.011961,-75.687562,0.0,0.0
+2014,9,8,South America,Chile,-33.366238,-70.505302,14.0,0.0
+2014,9,9,South America,Chile,-33.010693,-71.527794,1.0,0.0
+2014,9,10,South America,Chile,-33.010693,-71.527794,2.0,0.0
+2014,9,10,South America,Colombia,7.073611,-75.145833,0.0,0.0
+2014,9,10,South America,Colombia,6.439985,-76.684247,3.0,0.0
+2014,9,11,North America,United States,39.176086,-94.574127,0.0,0.0
+2014,9,12,North America,United States,41.370121,-75.154073,1.0,1.0
+2014,9,14,South America,Colombia,8.436488,-73.286494,0.0,2.0
+2014,9,16,South America,Colombia,7.826449,-75.883894,5.0,7.0
+2014,9,16,South America,Colombia,2.524159,-75.316141,0.0,0.0
+2014,9,21,South America,Colombia,0.431183,-75.526989,0.0,0.0
+2014,9,21,South America,Colombia,0.431183,-75.526989,0.0,0.0
+2014,9,21,South America,Colombia,0.431183,-75.526989,0.0,0.0
+2014,9,24,South America,Colombia,1.93514,-77.30609,14.0,1.0
+2014,9,25,South America,Colombia,7.073611,-75.145833,0.0,0.0
+2014,9,25,South America,Chile,-33.366238,-70.505302,0.0,1.0
+2014,9,26,South America,Colombia,7.448119,-75.308934,0.0,0.0
+2014,9,25,South America,Colombia,2.989959,-75.294683,0.0,0.0
+2014,9,29,South America,Brazil,-15.784282,-47.875568,0.0,0.0
+2014,10,1,South America,Colombia,3.80084,-76.30333,0.0,1.0
+2014,10,2,South America,Colombia,2.791269,-76.403448,0.0,1.0
+2014,10,1,South America,Colombia,2.975011,-74.992453,0.0,0.0
+2014,10,4,South America,Colombia,2.547063,-76.07204,0.0,0.0
+2014,10,3,South America,Peru,-12.683056,-73.8725,1.0,2.0
+2014,10,3,North America,United States,40.697132,-73.931351,1.0,0.0
+2014,10,5,South America,Colombia,8.40255,-73.20768,1.0,1.0
+2014,10,5,South America,Colombia,1.407104,-75.452354,0.0,0.0
+2014,10,6,South America,Colombia,3.067228,-75.135169,0.0,0.0
+2014,10,7,South America,Chile,-38.668304,-72.222626,0.0,0.0
+2014,10,8,South America,Colombia,2.486444,-75.730181,0.0,0.0
+2014,10,7,South America,Colombia,3.591047,-75.380399,0.0,0.0
+2014,10,10,South America,Colombia,3.086155,-76.185775,0.0,0.0
+2014,10,12,South America,Argentina,-41.256801,-71.286438,0.0,0.0
+2014,10,13,South America,Colombia,8.250932,-73.167008,1.0,2.0
+2014,10,13,South America,Colombia,2.11317,-74.76918,0.0,1.0
+2014,10,13,South America,Peru,-12.62707,-73.787498,5.0,1.0
+2014,10,15,South America,Colombia,7.5834,-75.46663,0.0,0.0
+2014,10,17,South America,Colombia,0.448982,-76.920278,0.0,0.0
+2014,10,18,South America,Colombia,3.750363,-75.585482,1.0,1.0
+2014,10,20,North America,Canada,45.313186,-73.259307,1.0,2.0
+2014,10,20,South America,Colombia,8.322058,-73.144933,0.0,0.0
+2014,10,22,North America,Canada,45.423571,-75.700909,3.0,2.0
+2014,10,22,South America,Colombia,0.425431,-76.904994,0.0,0.0
+2014,10,22,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2014,10,23,North America,United States,40.697132,-73.931351,3.0,1.0
+2014,10,24,North America,United States,35.068259,-106.62154,0.0,0.0
+2014,10,31,South America,Colombia,2.95485,-76.26825,1.0,0.0
+2014,10,31,South America,Colombia,2.263184,-75.969492,3.0,0.0
+2014,11,4,South America,Colombia,1.80813,-78.76893,9.0,0.0
+2014,11,4,South America,Colombia,1.806656,-78.764722,9.0,0.0
+2014,11,4,North America,United States,34.012516,-84.35873,0.0,0.0
+2014,11,4,North America,United States,33.693175,-116.18749,0.0,0.0
+2014,11,5,South America,Colombia,2.95485,-76.26825,0.0,2.0
+2014,11,5,South America,Colombia,1.637898,-77.745208,0.0,0.0
+2014,11,5,South America,Colombia,2.582881,-76.04531,0.0,0.0
+2014,11,6,South America,Colombia,1.80813,-78.76893,3.0,1.0
+2014,11,6,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2014,11,9,South America,Colombia,6.46052,-71.72989,2.0,1.0
+2014,11,12,South America,Colombia,3.7246,-75.4841,0.0,2.0
+2014,11,12,South America,Colombia,8.63781,-72.73464,1.0,0.0
+2014,11,12,South America,Colombia,7.10429,-75.647612,0.0,0.0
+2014,11,12,South America,Colombia,7.580349,-75.399418,0.0,0.0
+2014,11,13,South America,Peru,-12.950153,-74.020741,0.0,0.0
+2014,11,16,South America,Colombia,5.692272,-76.65809,0.0,0.0
+2014,11,16,South America,Colombia,1.586802,-74.985534,1.0,1.0
+2014,11,19,South America,Colombia,7.198606,-75.341218,0.0,0.0
+2014,11,20,South America,Colombia,2.289671,-75.957153,0.0,0.0
+2014,11,22,South America,Colombia,2.96924,-78.185206,6.0,1.0
+2014,11,23,North America,United States,45.672075,-118.788597,0.0,0.0
+2014,11,24,South America,Chile,-33.366238,-70.505302,2.0,0.0
+2014,11,25,South America,Colombia,3.173889,-76.259444,0.0,0.0
+2014,11,25,South America,Colombia,3.42277,-76.184609,0.0,0.0
+2014,11,26,South America,Colombia,6.999,-72.10975,0.0,0.0
+2014,11,25,South America,Colombia,1.914607,-76.856943,0.0,0.0
+2014,11,28,North America,United States,30.283581,-97.698654,0.0,0.0
+2014,11,28,North America,United States,30.283581,-97.698654,0.0,1.0
+2014,11,28,North America,United States,30.283581,-97.698654,0.0,0.0
+2014,11,28,South America,Colombia,6.986212,-71.497521,0.0,0.0
+2014,11,29,South America,Colombia,3.173853,-76.259395,0.0,2.0
+2014,12,3,South America,Colombia,2.524172,-75.316114,0.0,0.0
+2014,12,3,South America,Colombia,3.03345,-76.40897,0.0,0.0
+2014,12,7,North America,United States,34.097866,-118.407379,0.0,0.0
+2014,12,14,South America,Colombia,2.3889,-75.89255,0.0,0.0
+2014,12,14,South America,Colombia,2.846342,-77.24775,0.0,1.0
+2014,12,16,South America,Colombia,5.52683,-76.99174,0.0,0.0
+2014,12,17,South America,Colombia,4.11584,-76.19448,0.0,0.0
+2014,12,18,South America,Colombia,7.027336,-71.428494,3.0,2.0
+2014,12,18,North America,United States,35.745407,-81.684819,0.0,1.0
+2014,12,19,South America,Colombia,2.796235,-76.483157,0.0,0.0
+2014,12,19,South America,Colombia,3.012639,-76.482881,5.0,5.0
+2014,12,19,South America,Colombia,7.31027,-72.482066,0.0,3.0
+2014,12,17,South America,Colombia,1.637898,-77.745208,0.0,0.0
+2014,12,20,North America,United States,40.697132,-73.931351,0.0,2.0
+2014,12,28,South America,Colombia,6.158404,-71.766233,0.0,4.0
+2014,12,29,South America,Paraguay,-22.970036,-56.540982,1.0,0.0
+2014,12,30,South America,Paraguay,-23.319684,-56.488403,0.0,0.0
+2015,1,2,North America,Mexico,19.058698,-96.15845,0.0,1.0
+2015,1,6,North America,United States,38.864281,-104.778412,0.0,0.0
+2015,1,14,South America,Colombia,2.519314,-74.753891,0.0,0.0
+2015,1,20,South America,Colombia,1.08799,-77.61931,0.0,2.0
+2015,1,25,South America,Paraguay,-23.318849,-56.488096,0.0,0.0
+2015,1,30,South America,Colombia,2.2086,-76.49673,0.0,0.0
+2015,2,4,North America,Mexico,25.852107,-97.505632,1.0,0.0
+2015,2,8,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2015,2,10,North America,United States,35.896708,-79.009738,0.0,3.0
+2015,2,10,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2015,2,12,South America,Peru,-12.932081,-73.747786,1.0,0.0
+2015,2,14,South America,Colombia,1.68458,-75.28622,1.0,1.0
+2015,2,15,South America,Colombia,8.0827,-72.80035,2.0,3.0
+2015,2,15,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2015,2,17,North America,United States,28.122223,-80.689149,0.0,0.0
+2015,2,18,South America,Colombia,8.234801,-73.354165,3.0,2.0
+2015,2,18,South America,Paraguay,-23.318849,-56.488096,0.0,0.0
+2015,2,18,South America,Paraguay,-23.124529,-56.69482,0.0,0.0
+2015,2,18,North America,United States,42.258525,-85.589194,0.0,0.0
+2015,2,19,South America,Colombia,8.510846,-73.447444,0.0,0.0
+2015,2,21,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2015,2,21,South America,Colombia,8.40255,-73.20768,2.0,6.0
+2015,2,20,South America,Paraguay,-23.266556,-56.450292,0.0,0.0
+2015,2,21,South America,Paraguay,-24.502438,-54.856367,0.0,0.0
+2015,2,23,North America,United States,41.151766,-81.348654,0.0,0.0
+2015,3,3,South America,Colombia,3.52994,-76.29799,0.0,1.0
+2015,3,6,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2015,3,9,North America,United States,39.530155,-119.8142,0.0,0.0
+2015,3,12,South America,Colombia,4.667128,-74.106056,7.0,0.0
+2015,3,18,South America,Peru,-14.086628,-72.102182,0.0,1.0
+2015,3,20,North America,United States,29.984368,-90.257301,2.0,1.0
+2015,3,21,South America,Peru,-14.021944,-75.217778,0.0,1.0
+2015,3,21,South America,Peru,-14.021944,-75.217778,0.0,1.0
+2015,3,23,South America,Colombia,1.95846,-72.65231,3.0,1.0
+2015,3,24,South America,Paraguay,-24.194867,-56.561647,0.0,3.0
+2015,3,27,South America,Venezuela,9.640122,-63.670547,0.0,0.0
+2015,4,4,South America,Colombia,8.412236,-72.457974,1.0,3.0
+2015,4,5,South America,Colombia,7.02115,-72.061275,0.0,0.0
+2015,4,8,South America,Colombia,8.328091,-73.146235,8.0,0.0
+2015,4,14,North America,Mexico,17.340252,-98.011081,0.0,1.0
+2015,4,15,South America,Colombia,3.115381,-76.62609,19.0,13.0
+2015,4,20,South America,Colombia,7.084914,-70.755335,0.0,0.0
+2015,5,3,North America,United States,32.959034,-96.641877,1.0,2.0
+2015,5,4,North America,Mexico,16.33178,-96.594356,0.0,1.0
+2015,5,6,South America,Colombia,8.470146,-73.337007,1.0,0.0
+2015,5,7,South America,Colombia,1.68458,-75.28622,0.0,1.0
+2015,5,9,South America,Colombia,7.0467,-72.16996,0.0,2.0
+2015,5,13,South America,Brazil,-18.512178,-44.555031,0.0,1.0
+2015,5,18,South America,Colombia,3.82172,-76.52047,0.0,0.0
+2015,5,19,South America,Colombia,1.336905,-77.592324,0.0,1.0
+2015,5,22,South America,Colombia,8.322058,-73.144933,0.0,1.0
+2015,5,22,North America,Canada,45.501689,-73.567256,1.0,0.0
+2015,5,23,South America,Colombia,2.025595,-75.754052,0.0,0.0
+2015,5,23,South America,Brazil,-12.50828,-38.998179,0.0,1.0
+2015,5,24,South America,Colombia,1.807981,-78.768396,2.0,1.0
+2015,5,28,South America,Colombia,2.01151,-77.12487,6.0,0.0
+2015,5,28,South America,Colombia,0.869892,-73.841906,0.0,0.0
+2015,5,28,South America,Colombia,7.029334,-71.429476,0.0,6.0
+2015,5,28,South America,Colombia,3.251528,-76.229027,1.0,0.0
+2015,5,30,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2015,5,30,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2015,5,30,South America,Colombia,0.361688,-76.900971,0.0,0.0
+2015,5,30,South America,Colombia,0.435951,-75.52767,0.0,0.0
+2015,5,31,South America,Colombia,3.886611,-77.070229,0.0,0.0
+2015,6,1,South America,Colombia,8.29985,-72.88991,1.0,1.0
+2015,6,2,South America,Colombia,1.807981,-78.768396,0.0,0.0
+2015,6,2,South America,Colombia,2.62419,-72.76097,0.0,0.0
+2015,6,3,South America,Colombia,3.251528,-76.229027,0.0,1.0
+2015,6,3,North America,Mexico,25.870624,-97.50543,4.0,0.0
+2015,6,4,South America,Colombia,1.891266,-77.19658,0.0,0.0
+2015,6,2,South America,Colombia,1.41608,-75.87266,0.0,0.0
+2015,6,6,South America,Colombia,2.524129,-75.316164,0.0,0.0
+2015,6,6,South America,Colombia,6.913245,-75.67556,0.0,0.0
+2015,6,6,South America,Colombia,2.332748,-77.234573,0.0,0.0
+2015,6,6,South America,Colombia,2.524129,-75.316164,0.0,0.0
+2015,6,7,South America,Colombia,8.642356,-72.737733,0.0,0.0
+2015,6,7,North America,Canada,43.589045,-79.64412,0.0,0.0
+2015,6,8,South America,Colombia,0.504929,-76.500191,0.0,0.0
+2015,6,8,South America,Colombia,1.807981,-78.768396,0.0,0.0
+2015,6,6,South America,Colombia,1.033817,-75.920771,0.0,0.0
+2015,6,10,South America,Colombia,1.615386,-75.604236,0.0,0.0
+2015,6,11,South America,Colombia,1.967177,-77.119458,0.0,0.0
+2015,6,10,South America,Colombia,5.372373,-76.608456,0.0,1.0
+2015,6,11,South America,Colombia,2.34996,-76.70002,0.0,3.0
+2015,6,11,South America,Colombia,0.49919,-76.89443,0.0,0.0
+2015,6,11,South America,Colombia,0.423385,-76.904997,0.0,0.0
+2015,6,12,South America,Colombia,0.853304,-77.518453,1.0,3.0
+2015,6,16,South America,Colombia,8.437521,-73.286943,0.0,0.0
+2015,6,16,South America,Colombia,8.5979,-72.81923,0.0,0.0
+2015,6,16,South America,Colombia,3.402939,-73.955927,0.0,0.0
+2015,6,17,North America,United States,32.787474,-79.933101,0.0,9.0
+2015,6,17,South America,Colombia,0.869892,-73.841906,3.0,4.0
+2015,6,19,South America,Colombia,3.52721,-74.02371,0.0,1.0
+2015,6,20,South America,Colombia,1.247404,-78.091609,0.0,0.0
+2015,6,22,South America,Colombia,1.807981,-78.768396,0.0,0.0
+2015,6,22,North America,United States,35.967509,-83.946033,0.0,0.0
+2015,6,22,South America,Colombia,8.59674,-73.22737,6.0,4.0
+2015,6,23,North America,United States,32.823281,-83.664394,0.0,0.0
+2015,6,24,North America,United States,35.213923,-80.790063,0.0,0.0
+2015,6,26,South America,Colombia,3.890551,-77.078864,0.0,0.0
+2015,6,26,South America,Colombia,3.890551,-77.078864,0.0,0.0
+2015,6,26,North America,United States,33.505056,-81.818259,0.0,0.0
+2015,6,26,North America,Mexico,21.020728,-101.257615,0.0,1.0
+2015,6,29,South America,Colombia,0.43595,-75.52767,0.0,0.0
+2015,6,29,South America,Colombia,3.27199,-73.087749,0.0,0.0
+2015,6,29,South America,Colombia,4.76142,-76.221947,0.0,0.0
+2015,6,30,South America,Colombia,8.642356,-72.737733,2.0,1.0
+2015,6,30,South America,Colombia,6.965036,-75.41625,0.0,0.0
+2015,7,1,South America,Colombia,3.151685,-75.054209,1.0,2.0
+2015,6,30,South America,Colombia,6.794367,-71.771549,0.0,0.0
+2015,7,1,South America,Colombia,8.642356,-72.737733,0.0,0.0
+2015,6,30,South America,Colombia,6.794367,-71.771549,0.0,0.0
+2015,6,30,South America,Colombia,6.956107,-71.872595,0.0,0.0
+2015,7,1,South America,Colombia,2.571287,-77.885469,1.0,0.0
+2015,6,30,North America,Mexico,19.260161,-96.578339,0.0,1.0
+2015,7,2,South America,Colombia,4.667128,-74.106056,9.0,0.0
+2015,7,2,South America,Colombia,4.667128,-74.106056,1.0,0.0
+2015,7,2,South America,Colombia,3.27199,-73.087749,0.0,0.0
+2015,7,1,South America,Colombia,6.885648,-75.335829,4.0,1.0
+2015,7,3,North America,Mexico,19.602523,-99.051421,0.0,0.0
+2015,7,2,North America,Mexico,16.33539,-96.594375,0.0,1.0
+2015,7,3,South America,Colombia,8.959667,-73.626268,2.0,0.0
+2015,7,4,South America,Colombia,8.642356,-72.737733,0.0,0.0
+2015,7,5,South America,Colombia,0.872837,-75.619941,3.0,1.0
+2015,7,6,South America,Colombia,0.67688,-76.880163,0.0,0.0
+2015,7,7,South America,Colombia,0.435951,-75.52767,3.0,1.0
+2015,7,10,South America,Colombia,8.234801,-73.354165,0.0,2.0
+2015,7,10,South America,Colombia,2.25575,-77.249334,4.0,0.0
+2015,7,10,South America,Colombia,1.47888,-75.43724,3.0,2.0
+2015,7,11,South America,Colombia,2.772482,-77.66283,0.0,0.0
+2015,7,12,South America,Colombia,2.34071,-77.23162,7.0,0.0
+2015,7,12,South America,Paraguay,-24.194867,-56.561647,0.0,2.0
+2015,7,13,South America,Ecuador,-2.189834,-79.887707,0.0,0.0
+2015,7,13,South America,Peru,-13.918219,-71.904565,3.0,1.0
+2015,7,15,North America,United States,29.813822,-95.365295,0.0,0.0
+2015,7,16,North America,United States,35.031789,-85.184718,0.0,0.0
+2015,7,16,North America,United States,35.095083,-85.253424,2.0,6.0
+2015,7,14,South America,Colombia,7.016667,-73.916667,0.0,0.0
+2015,7,16,South America,Colombia,2.704981,-76.825965,0.0,0.0
+2015,7,16,South America,Colombia,6.45929,-71.736282,3.0,1.0
+2015,7,16,South America,Colombia,7.583191,-75.399966,0.0,0.0
+2015,7,16,South America,Colombia,0.910907,-77.549911,0.0,0.0
+2015,7,16,South America,Colombia,2.704981,-76.825965,1.0,0.0
+2015,7,17,South America,Paraguay,-24.194867,-56.561647,0.0,3.0
+2015,7,17,South America,Colombia,2.954086,-76.692855,5.0,0.0
+2015,7,19,South America,Colombia,8.38615,-72.59794,0.0,0.0
+2015,7,19,North America,United States,41.758165,-88.239197,0.0,0.0
+2015,7,20,South America,Colombia,3.06735,-75.138106,0.0,0.0
+2015,7,21,South America,Colombia,7.583191,-75.399966,1.0,0.0
+2015,7,21,South America,Peru,-14.050453,-73.087749,1.0,1.0
+2015,7,23,North America,United States,30.201966,-92.045686,9.0,3.0
+2015,7,30,South America,Brazil,-23.582734,-46.611418,0.0,0.0
+2015,8,1,South America,Colombia,6.634367,-71.577858,2.0,0.0
+2015,8,1,South America,Colombia,7.029334,-71.429476,1.0,0.0
+2015,8,1,North America,United States,29.950112,-90.096663,0.0,0.0
+2015,8,2,South America,Colombia,6.957317,-71.86983,2.0,2.0
+2015,8,2,North America,United States,32.294582,-106.754459,0.0,0.0
+2015,8,2,North America,United States,32.319945,-106.790007,0.0,0.0
+2015,8,3,South America,Colombia,1.659604,-78.792429,0.0,1.0
+2015,8,3,South America,Paraguay,-23.43903,-56.501362,0.0,1.0
+2015,8,5,South America,Peru,-11.44732,-74.024678,2.0,1.0
+2015,8,6,South America,Brazil,-2.906273,-40.79279,0.0,1.0
+2015,8,7,South America,Colombia,8.437521,-73.286943,0.0,2.0
+2015,8,8,South America,Paraguay,-23.462606,-56.741909,0.0,1.0
+2015,8,10,South America,Paraguay,-24.086327,-57.084409,0.0,0.0
+2015,8,13,South America,Colombia,3.151715,-75.054046,1.0,0.0
+2015,8,14,North America,United States,32.292512,-106.773223,0.0,0.0
+2015,8,17,South America,Colombia,7.003598,-75.61075,4.0,0.0
+2015,8,17,South America,Colombia,6.828333,-75.513056,1.0,0.0
+2015,8,25,South America,Colombia,3.151685,-75.054209,0.0,0.0
+2015,8,30,North America,Canada,44.389356,-79.690332,0.0,0.0
+2015,8,31,South America,Paraguay,-23.457515,-56.738709,0.0,0.0
+2015,9,2,South America,Colombia,5.856681,-76.185623,0.0,0.0
+2015,9,3,South America,Colombia,8.25205,-73.354232,0.0,0.0
+2015,9,4,North America,United States,46.715956,-117.179453,0.0,0.0
+2015,9,4,South America,Paraguay,-24.194867,-56.561647,0.0,0.0
+2015,9,9,South America,Colombia,5.264795,-76.559836,0.0,0.0
+2015,9,9,South America,Colombia,9.33338,-75.541076,0.0,0.0
+2015,9,9,South America,Peru,-11.739316,-76.703945,0.0,0.0
+2015,9,9,South America,Peru,-11.967368,-76.978462,0.0,0.0
+2015,9,10,South America,Colombia,1.852621,-76.046073,0.0,1.0
+2015,9,13,North America,United States,32.137933,-95.323685,0.0,0.0
+2015,9,13,South America,Colombia,6.794367,-71.771549,2.0,0.0
+2015,9,14,South America,Colombia,7.029345,-71.429497,0.0,0.0
+2015,9,13,South America,Colombia,6.492122,-71.558878,0.0,0.0
+2015,9,14,South America,Colombia,8.212994,-73.238383,0.0,3.0
+2015,9,19,South America,Paraguay,-24.194867,-56.561647,0.0,0.0
+2015,9,23,South America,Paraguay,-24.193926,-56.558551,0.0,2.0
+2015,9,23,South America,Paraguay,-24.193926,-56.558551,0.0,0.0
+2015,9,30,North America,United States,34.184851,-118.90688,0.0,0.0
+2015,10,1,North America,United States,43.288981,-123.333302,7.0,10.0
+2015,10,3,South America,Colombia,1.855076,-76.048595,1.0,0.0
+2015,10,5,South America,Brazil,-23.565073,-46.652833,0.0,0.0
+2015,10,6,South America,Peru,-11.967368,-76.978462,0.0,0.0
+2015,10,12,South America,Colombia,11.240534,-74.211035,0.0,0.0
+2015,10,25,South America,Colombia,7.078391,-75.147312,0.0,1.0
+2015,10,26,South America,Colombia,6.463034,-72.412035,3.0,12.0
+2015,10,30,South America,Paraguay,-22.811926,-57.101319,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,10,31,North America,Mexico,19.563255,-99.038382,0.0,0.0
+2015,11,1,North America,United States,34.308638,-88.709435,0.0,0.0
+2015,11,4,North America,United States,37.365797,-120.424771,4.0,1.0
+2015,11,6,South America,Colombia,7.957151,-73.946404,0.0,0.0
+2015,11,6,North America,United States,33.959535,-118.348342,1.0,0.0
+2015,11,12,South America,Colombia,7.109318,-75.550892,1.0,1.0
+2015,11,14,North America,Canada,44.309058,-78.319747,0.0,0.0
+2015,11,15,North America,United States,41.519714,-72.840257,0.0,0.0
+2015,11,16,North America,Canada,43.720507,-79.338778,1.0,0.0
+2015,11,17,South America,Paraguay,-23.800845,-56.502802,0.0,0.0
+2015,11,19,North America,United States,38.861472,-77.146621,0.0,0.0
+2015,11,23,North America,United States,44.964985,-93.260193,5.0,0.0
+2015,11,23,South America,Argentina,-34.61768,-58.444435,0.0,0.0
+2015,11,25,South America,Venezuela,9.858081,-66.382067,0.0,1.0
+2015,11,27,North America,United States,38.864281,-104.778412,9.0,3.0
+2015,11,29,North America,Mexico,16.863608,-99.883137,5.0,3.0
+2015,12,2,North America,United States,34.07577,-117.277924,17.0,16.0
+2015,12,2,South America,Colombia,8.401599,-73.208998,1.0,1.0
+2015,11,25,South America,Colombia,1.313507,-74.030012,0.0,0.0
+2015,12,5,North America,United States,40.697132,-73.931351,1.0,0.0
+2015,12,6,South America,Colombia,7.073968,-73.169265,0.0,2.0
+2015,12,8,North America,United States,47.900053,-97.044649,0.0,0.0
+2015,12,9,South America,Colombia,8.322145,-73.145859,1.0,1.0
+2015,12,11,North America,United States,33.69288,-116.187442,0.0,0.0
+2015,12,22,South America,Venezuela,10.456826,-66.782303,0.0,0.0
+2015,12,26,North America,United States,37.764563,-121.452503,0.0,0.0
+2016,1,2,North America,United States,43.265841,-118.844083,0.0,0.0
+2016,1,7,North America,United States,40.008171,-75.13549,2.0,0.0
+2016,1,9,North America,Canada,49.282729,-123.120738,30.0,0.0
+2016,1,10,North America,Canada,51.038021,-114.060989,1.0,0.0
+2016,1,15,North America,United States,40.697132,-73.931351,1.0,0.0
+2016,1,15,South America,Chile,-38.735902,-72.590374,0.0,0.0
+2016,1,16,South America,Colombia,8.271877,-73.873991,0.0,0.0
+2016,1,31,South America,Colombia,7.946283,-72.898807,0.0,2.0
+2016,2,3,South America,Colombia,7.133955,-74.648538,0.0,0.0
+2016,2,3,South America,Colombia,7.092702,-74.710145,0.0,0.0
+2016,2,5,South America,Colombia,1.802141,-77.164009,0.0,1.0
+2016,2,8,South America,Colombia,7.081767,-70.753639,0.0,0.0
+2016,2,8,North America,Mexico,18.846659,-97.101754,0.0,1.0
+2016,2,8,South America,Colombia,5.705185,-73.732201,0.0,0.0
+2016,2,8,South America,Colombia,6.547881,-71.002481,0.0,0.0
+2016,2,10,South America,Colombia,7.891122,-72.505657,8.0,0.0
+2016,2,11,North America,United States,40.064024,-82.863818,4.0,1.0
+2016,2,11,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2016,2,13,South America,Colombia,8.28065,-73.579173,0.0,0.0
+2016,2,14,South America,Colombia,8.395851,-73.431784,3.0,1.0
+2016,2,15,South America,Colombia,2.346235,-78.367251,1.0,2.0
+2016,2,15,South America,Colombia,2.454318,-76.735255,0.0,0.0
+2016,2,15,South America,Colombia,8.642356,-72.737733,0.0,0.0
+2016,2,15,South America,Colombia,5.811908,-76.213659,0.0,0.0
+2016,2,15,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2016,2,18,North America,United States,39.207489,-86.246998,1.0,0.0
+2016,2,22,South America,Colombia,5.117584,-74.479136,1.0,1.0
+2016,2,22,South America,Colombia,5.117584,-74.479136,0.0,0.0
+2016,2,25,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2016,2,26,South America,Colombia,5.758927,-71.572395,7.0,3.0
+2016,2,28,North America,United States,34.605975,-117.829953,3.0,0.0
+2016,3,5,South America,Argentina,-34.61768,-58.444435,2.0,0.0
+2016,3,7,South America,Colombia,4.667128,-74.106056,3.0,0.0
+2016,3,8,South America,Colombia,7.436307,-74.690256,0.0,2.0
+2016,3,8,South America,Chile,-38.675086,-72.220952,0.0,0.0
+2016,3,8,South America,Uruguay,-32.317808,-58.076822,1.0,1.0
+2016,3,9,South America,Colombia,5.967692,-71.866416,0.0,0.0
+2016,3,12,South America,Colombia,8.506926,-73.447276,0.0,0.0
+2016,3,12,South America,Colombia,6.965771,-71.453023,0.0,0.0
+2016,3,14,North America,Canada,43.762057,-79.410288,2.0,0.0
+2016,3,20,South America,Colombia,8.570586,-74.075774,0.0,0.0
+2016,3,24,South America,Venezuela,7.924669,-72.444445,0.0,1.0
+2016,3,30,North America,United States,42.691279,-71.438679,0.0,0.0
+2016,3,31,South America,Chile,-38.893953,-72.432467,0.0,0.0
+2016,4,1,South America,Chile,-38.770248,-72.586749,0.0,0.0
+2016,4,1,South America,Chile,-38.764244,-72.406216,0.0,0.0
+2016,4,3,South America,Colombia,8.045866,-73.081688,0.0,1.0
+2016,4,6,South America,Colombia,8.446004,-73.287604,0.0,1.0
+2016,4,6,South America,Colombia,5.31112,-76.415456,0.0,0.0
+2016,4,9,South America,Peru,-11.840746,-74.724871,5.0,10.0
+2016,4,9,South America,Peru,-11.892272,-73.907497,2.0,0.0
+2016,4,9,South America,Brazil,-5.824046,-46.16072,0.0,1.0
+2016,4,9,South America,Colombia,2.51444,-76.785835,1.0,1.0
+2016,4,11,South America,Chile,-38.387578,-71.933745,0.0,0.0
+2016,4,12,South America,Chile,-37.833104,-73.390223,0.0,0.0
+2016,4,20,South America,Colombia,8.212022,-73.325726,0.0,0.0
+2016,4,20,South America,Colombia,1.61754,-75.608376,0.0,1.0
+2016,4,20,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2016,4,20,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2016,4,21,North America,United States,48.684131,-116.316826,0.0,0.0
+2016,4,24,South America,Paraguay,-23.459099,-56.738404,0.0,1.0
+2016,4,25,North America,Mexico,18.568114,-99.604215,0.0,1.0
+2016,4,25,South America,Colombia,1.80292,-75.439664,1.0,0.0
+2016,4,26,North America,United States,42.7678,-71.04865,0.0,0.0
+2016,4,29,South America,Colombia,6.964523,-71.972791,0.0,0.0
+2016,5,1,South America,Colombia,8.074901,-73.174346,1.0,2.0
+2016,5,6,South America,Colombia,1.803436,-75.439697,0.0,1.0
+2016,5,7,South America,Colombia,1.62,-75.603775,1.0,0.0
+2016,5,13,South America,Colombia,8.576,-73.094867,0.0,1.0
+2016,5,14,South America,Colombia,5.054354,-76.649505,0.0,0.0
+2016,5,14,South America,Colombia,8.085092,-72.799937,1.0,2.0
+2016,5,15,South America,Chile,-38.948921,-72.331113,0.0,0.0
+2016,5,17,South America,Colombia,6.956107,-71.872595,0.0,0.0
+2016,5,21,South America,Colombia,8.576,-73.094867,0.0,0.0
+2016,5,23,South America,Colombia,8.576,-73.094867,0.0,0.0
+2016,5,25,South America,Chile,-38.667719,-72.224441,0.0,0.0
+2016,5,25,South America,Chile,-38.667719,-72.224441,0.0,0.0
+2016,5,25,North America,United States,45.672237,-122.658793,0.0,0.0
+2016,5,25,North America,United States,37.664764,-120.994427,0.0,0.0
+2016,5,26,North America,United States,45.710821,-122.635039,0.0,0.0
+2016,6,4,South America,Guyana,6.800481,-58.167907,0.0,0.0
+2016,6,5,North America,Mexico,20.548557,-97.525118,0.0,1.0
+2016,6,5,North America,United States,40.697132,-73.931351,0.0,0.0
+2016,6,9,North America,United States,40.697132,-73.931351,0.0,0.0
+2016,6,10,South America,Colombia,4.983,-76.400181,0.0,0.0
+2016,6,10,South America,Paraguay,-23.406726,-57.440677,0.0,0.0
+2016,6,12,South America,Colombia,3.27199,-73.087749,2.0,1.0
+2016,6,12,North America,United States,28.519601,-81.376794,53.0,50.0
+2016,6,13,South America,Paraguay,-23.80023,-56.502704,0.0,0.0
+2016,6,15,South America,Paraguay,-23.566667,-56.55,0.0,0.0
+2016,6,18,North America,United States,36.211296,-115.247536,0.0,0.0
+2016,6,19,North America,United States,39.111992,-78.193905,0.0,0.0
+2016,6,19,South America,Colombia,8.420252,-73.207529,0.0,2.0
+2016,6,21,South America,Colombia,8.547921,-73.121731,0.0,2.0
+2016,6,24,South America,Colombia,6.684513,-71.851653,0.0,0.0
+2016,6,29,South America,Colombia,6.954385,-71.871888,0.0,0.0
+2016,6,30,South America,Colombia,6.956107,-71.872595,0.0,0.0
+2016,7,1,South America,Colombia,7.021163,-71.38499,0.0,0.0
+2016,7,1,South America,Colombia,5.760006,-67.706214,0.0,3.0
+2016,7,4,South America,Colombia,7.198606,-75.341218,3.0,1.0
+2016,7,4,North America,United States,38.656298,-90.413024,0.0,0.0
+2016,7,5,South America,Paraguay,-23.716667,-56.499994,0.0,0.0
+2016,7,5,North America,United States,38.70333,-90.248796,0.0,0.0
+2016,7,6,North America,United States,38.608081,-90.224879,0.0,0.0
+2016,7,7,North America,United States,32.779578,-96.804259,9.0,6.0
+2016,7,7,North America,United States,36.58886,-82.185961,4.0,1.0
+2016,7,7,North America,United States,30.62228,-96.347518,0.0,0.0
+2016,7,8,South America,Venezuela,9.032117,-69.725573,25.0,2.0
+2016,7,9,North America,United States,29.406786,-98.481201,0.0,0.0
+2016,8,31,South America,Colombia,6.794367,-71.771549,0.0,0.0
+2016,7,11,South America,Colombia,8.411186,-73.208692,1.0,0.0
+2016,7,11,South America,Colombia,6.684513,-71.851653,2.0,0.0
+2016,7,12,South America,Colombia,10.023267,-73.358826,0.0,0.0
+2016,7,17,North America,United States,30.433483,-91.080857,3.0,4.0
+2016,7,17,South America,Colombia,7.000662,-76.265441,0.0,2.0
+2016,7,17,North America,United States,29.200533,-81.034508,0.0,0.0
+2016,7,17,South America,Colombia,7.57649,-75.350334,0.0,0.0
+2016,7,17,South America,Colombia,7.289972,-75.392693,0.0,0.0
+2016,7,17,North America,United States,28.011485,-82.373941,0.0,0.0
+2016,7,24,South America,Colombia,6.547306,-71.002231,0.0,0.0
+2016,7,25,North America,United States,36.211296,-115.247536,0.0,0.0
+2016,7,25,North America,United States,36.211296,-115.247536,0.0,0.0
+2016,7,27,South America,Colombia,8.7424,-73.103604,0.0,0.0
+2016,7,27,North America,United States,27.987652,-82.550249,0.0,0.0
+2016,7,27,South America,Paraguay,-23.824397,-56.519311,0.0,0.0
+2016,7,31,North America,United States,41.291673,-92.649359,0.0,0.0
+2016,8,1,North America,United States,41.703318,-93.057353,0.0,0.0
+2016,8,1,North America,United States,41.577354,-93.024003,0.0,0.0
+2016,8,4,North America,United States,28.032289,-82.408025,0.0,0.0
+2016,8,4,South America,Venezuela,10.24552,-67.603934,30.0,5.0
+2016,8,5,North America,United States,28.032289,-82.408025,0.0,0.0
+2016,8,9,North America,United States,41.154049,-73.990929,0.0,0.0
+2016,8,9,North America,United States,41.154049,-73.990929,0.0,0.0
+2016,8,10,South America,Colombia,2.331899,-72.628127,5.0,0.0
+2016,8,10,North America,Canada,42.95571,-81.623195,1.0,1.0
+2016,8,10,North America,United States,42.095085,-76.059599,0.0,0.0
+2016,8,13,North America,United States,40.697132,-73.931351,0.0,2.0
+2016,8,18,South America,Argentina,-27.362137,-55.900875,0.0,0.0
+2016,8,18,South America,Colombia,6.54608,-70.984141,0.0,0.0
+2016,8,19,South America,Colombia,6.957368,-71.860864,1.0,0.0
+2016,8,20,North America,United States,37.27097,-79.941427,3.0,0.0
+2016,8,23,North America,United States,42.521477,-70.895532,0.0,0.0
+2016,8,24,South America,Venezuela,9.342022,-70.600387,0.0,0.0
+2016,8,24,South America,Colombia,8.612184,-72.781222,0.0,0.0
+2016,8,27,South America,Paraguay,-20.488627,-59.17068,0.0,8.0
+2016,8,30,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2016,8,30,South America,Colombia,7.086416,-70.75814,0.0,0.0
+2016,8,30,South America,Colombia,6.455762,-71.745412,0.0,0.0
+2016,8,30,South America,Colombia,6.242026,-75.564766,0.0,0.0
+2016,8,30,South America,Colombia,8.411186,-73.208692,4.0,0.0
+2016,9,2,North America,United States,36.197294,-115.131528,0.0,0.0
+2016,9,3,South America,Colombia,8.642356,-72.737733,0.0,0.0
+2016,9,3,South America,Paraguay,-23.26564,-56.448541,0.0,1.0
+2016,9,5,South America,Colombia,8.251932,-73.353994,0.0,0.0
+2016,9,6,South America,Colombia,2.382331,-76.672289,0.0,0.0
+2016,9,8,South America,Paraguay,-25.508529,-54.675323,0.0,0.0
+2016,9,9,South America,Paraguay,-22.545996,-55.732117,2.0,0.0
+2016,9,12,North America,United States,27.374522,-80.337837,0.0,0.0
+2016,9,12,South America,Colombia,6.956107,-71.872595,0.0,0.0
+2016,9,12,South America,Colombia,7.022091,-71.385222,0.0,0.0
+2016,9,12,South America,Colombia,5.800014,-72.196155,0.0,0.0
+2016,9,14,South America,Venezuela,9.911389,-67.353611,22.0,1.0
+2016,9,14,North America,Canada,43.251298,-79.844161,0.0,0.0
+2016,9,16,North America,United States,40.008171,-75.13549,5.0,2.0
+2016,9,17,North America,United States,39.925457,-74.074757,0.0,0.0
+2016,9,17,North America,United States,40.697132,-73.931351,29.0,0.0
+2016,9,17,North America,United States,40.697132,-73.931351,0.0,0.0
+2016,9,17,North America,United States,45.555575,-94.210178,10.0,1.0
+2016,9,18,North America,United States,40.666781,-74.215785,0.0,0.0
+2016,9,18,North America,Canada,45.560108,-73.600286,0.0,0.0
+2016,9,24,North America,United States,39.176086,-94.574127,0.0,0.0
+2016,9,27,South America,Colombia,2.54203,-75.276648,1.0,1.0
+2016,9,28,South America,Paraguay,-22.970346,-56.54483,0.0,0.0
+2016,9,28,South America,Chile,-38.668759,-72.224956,0.0,2.0
+2016,9,29,South America,Paraguay,-23.318849,-56.488096,0.0,0.0
+2016,9,29,South America,Chile,-37.512183,-72.323872,2.0,0.0
+2016,9,30,South America,Paraguay,-23.318849,-56.488096,0.0,0.0
+2016,10,2,South America,Colombia,1.543216,-72.288388,0.0,0.0
+2016,10,3,North America,United States,40.846274,-96.700467,0.0,0.0
+2016,10,3,North America,United States,40.846244,-96.700429,0.0,0.0
+2016,10,4,South America,Colombia,6.956107,-71.872595,0.0,0.0
+2016,10,4,North America,United States,39.825657,-86.227067,0.0,0.0
+2016,10,9,North America,United States,30.963733,-87.267362,0.0,0.0
+2016,10,13,North America,United States,39.826113,-86.227124,0.0,0.0
+2016,10,15,North America,United States,41.578663,-93.022688,0.0,0.0
+2016,10,16,North America,United States,36.060668,-79.101578,0.0,0.0
+2016,10,19,South America,Colombia,4.68335,-74.25007,0.0,0.0
+2016,10,19,South America,Colombia,4.68335,-74.25007,2.0,0.0
+2016,10,19,South America,Colombia,4.667128,-74.106056,0.0,0.0
+2016,10,24,South America,Colombia,6.94997,-71.56666,0.0,0.0
+2016,10,27,South America,Colombia,6.794367,-71.771549,0.0,2.0
+2016,10,30,South America,Colombia,1.488154,-78.077755,0.0,1.0
+2016,11,4,South America,Colombia,6.457094,-71.745515,0.0,2.0
+2016,11,6,South America,Colombia,10.55,-75.366667,0.0,1.0
+2016,11,8,North America,United States,42.670545,-95.143207,0.0,0.0
+2016,11,13,South America,Colombia,5.348903,-72.400523,0.0,2.0
+2016,11,13,South America,Colombia,1.213605,-77.996673,0.0,0.0
+2016,11,15,South America,Brazil,-17.424789,-49.662512,0.0,0.0
+2016,11,16,South America,Colombia,7.889097,-72.49669,13.0,0.0
+2016,11,16,South America,Colombia,10.445791,-75.368501,0.0,2.0
+2016,11,16,South America,Colombia,6.974722,-71.374167,0.0,0.0
+2016,11,20,South America,Peru,-16.623552,-72.710471,0.0,1.0
+2016,11,21,South America,Ecuador,-2.305106,-78.114687,7.0,0.0
+2016,11,23,North America,United States,35.091952,-106.586558,0.0,0.0
+2016,11,25,North America,United States,47.154901,-122.368098,0.0,0.0
+2016,11,26,South America,Colombia,10.391049,-75.479426,0.0,0.0
+2016,11,28,North America,United States,40.00329,-83.011421,11.0,1.0
+2016,11,28,South America,Colombia,1.289151,-77.35794,0.0,0.0
+2016,11,30,South America,Colombia,8.572842,-73.095568,0.0,1.0
+2016,11,30,South America,Colombia,7.032926,-72.06382,0.0,0.0
+2016,11,30,South America,Colombia,5.401898,-77.400533,1.0,1.0
+2016,12,4,North America,United States,38.908642,-77.015381,0.0,0.0
+2016,12,7,South America,Colombia,6.558646,-75.826553,1.0,0.0
+2016,12,5,South America,Colombia,7.889097,-72.49669,0.0,1.0
+2016,12,5,South America,Colombia,7.889097,-72.49669,0.0,0.0
+2016,12,7,North America,United States,34.053546,-117.181537,0.0,0.0
+2016,12,9,South America,Colombia,2.043924,-72.331113,0.0,0.0
+2016,12,10,North America,Mexico,28.632996,-106.0691,0.0,1.0
+2016,12,14,South America,Colombia,6.941809,-71.881099,0.0,2.0
+2016,12,14,South America,Ecuador,-2.305106,-78.114687,7.0,1.0
+2016,12,15,North America,United States,32.776664,-96.796988,1.0,0.0
+2016,12,18,South America,Colombia,6.547306,-71.002231,0.0,2.0
+2016,12,20,South America,Paraguay,-23.45954,-56.738399,0.0,0.0
+2016,12,21,South America,Colombia,6.963573,-71.86836,0.0,0.0
+2016,12,28,South America,Colombia,4.667128,-74.106056,0.0,1.0
+2016,12,28,South America,Colombia,4.667128,-74.106056,7.0,0.0
+2016,12,31,North America,Mexico,26.819644,-107.069898,0.0,0.0
+2017,1,2,North America,United States,41.842602,-87.681229,1.0,0.0
+2017,1,3,North America,Mexico,25.426636,-100.995363,0.0,1.0
+2017,1,6,North America,United States,26.071231,-80.145668,6.0,5.0
+2017,1,6,North America,Mexico,20.673231,-103.366859,1.0,0.0
+2017,1,7,North America,United States,30.411172,-97.930155,0.0,0.0
+2017,1,7,North America,United States,32.713541,-97.355277,0.0,0.0
+2017,1,8,South America,Paraguay,-23.759724,-56.494923,0.0,2.0
+2017,1,9,South America,Colombia,6.617778,-71.109722,0.0,1.0
+2017,1,9,South America,Colombia,6.45929,-71.736282,0.0,1.0
+2017,1,9,South America,Colombia,4.763119,-75.030572,0.0,1.0
+2017,1,10,South America,Colombia,8.049293,-75.57405,0.0,1.0
+2017,1,13,South America,Chile,-33.366238,-70.505302,1.0,0.0
+2017,1,14,North America,United States,47.602104,-122.156296,0.0,0.0
+2017,1,18,South America,Colombia,4.667128,-74.106056,9.0,0.0
+2017,1,21,South America,Ecuador,-2.305106,-78.114687,0.0,0.0
+2017,1,20,North America,United States,39.176086,-94.574127,1.0,0.0
+2017,1,24,South America,Colombia,6.956107,-71.872595,0.0,0.0
+2017,1,25,South America,Colombia,7.325909,-75.335682,0.0,0.0
+2017,1,26,South America,Colombia,10.474245,-73.243634,0.0,1.0
+2017,1,29,South America,Venezuela,8.302296,-62.714989,0.0,0.0
+2017,1,29,South America,Venezuela,8.302296,-62.714989,0.0,0.0
+2017,1,28,North America,United States,28.819306,-97.003321,0.0,0.0
+2017,1,28,South America,Colombia,7.26385,-73.30104,0.0,0.0
+2017,1,29,North America,Canada,46.777907,-71.305364,19.0,6.0
+2017,1,30,South America,Colombia,8.59554,-73.36775,2.0,1.0
+2017,1,31,North America,United States,39.758968,-104.876305,0.0,1.0
+2017,2,6,North America,United States,42.993611,-71.486401,0.0,0.0
+2017,2,6,South America,Colombia,8.085092,-72.799937,0.0,0.0
+2017,2,7,South America,Colombia,2.946176,-73.206957,0.0,1.0
+2017,2,11,South America,Peru,-14.071426,-75.736286,0.0,1.0
+2017,2,9,North America,United States,32.298757,-90.18481,0.0,0.0
+2017,2,14,South America,Colombia,4.199835,-73.745036,2.0,0.0
+2017,2,15,South America,Ecuador,-0.211188,-78.522629,0.0,0.0
+2017,2,16,South America,Colombia,8.50874,-73.4488,0.0,0.0
+2017,2,16,South America,Colombia,8.493055,-73.470565,0.0,0.0
+2017,2,17,South America,Ecuador,-0.211188,-78.522629,0.0,0.0
+2017,2,19,South America,Colombia,6.9853,-72.0127,0.0,0.0
+2017,2,19,South America,Colombia,4.667128,-74.106056,26.0,1.0
+2017,2,22,North America,United States,38.853889,-94.781111,2.0,1.0
+2017,2,23,South America,Colombia,8.249992,-73.166669,0.0,0.0
+2017,2,24,North America,United States,28.148307,-82.280547,0.0,0.0
+2017,2,24,South America,Peru,-11.967368,-76.978462,0.0,1.0
+2017,2,25,South America,Colombia,7.946283,-72.898807,0.0,0.0
+2017,2,27,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2017,2,28,North America,United States,18.340668,-64.926876,0.0,0.0
+2017,2,28,North America,United States,18.339965,-64.930059,0.0,0.0
+2017,2,28,North America,United States,18.336551,-64.953661,0.0,0.0
+2017,2,28,North America,Canada,43.683256,-79.481154,0.0,0.0
+2017,3,2,North America,Mexico,18.357816,-100.668626,0.0,1.0
+2017,3,2,South America,Colombia,6.242026,-75.564766,0.0,1.0
+2017,3,3,North America,United States,47.403401,-122.174519,1.0,0.0
+2017,3,3,South America,Brazil,-20.811761,-49.376227,0.0,0.0
+2017,3,8,South America,Colombia,2.704981,-76.825965,0.0,0.0
+2017,2,4,South America,Peru,-7.159038,-78.513379,1.0,0.0
+2017,3,10,North America,United States,27.31804,-80.349962,0.0,0.0
+2017,3,12,South America,Chile,-38.735902,-72.590374,0.0,0.0
+2017,3,12,South America,Peru,-11.80203,-74.778511,0.0,0.0
+2017,3,12,South America,Colombia,4.966667,-76.233333,0.0,0.0
+2017,3,15,South America,Colombia,8.642356,-72.737733,0.0,0.0
+2017,3,17,South America,Paraguay,-23.759724,-56.494923,0.0,0.0
+2017,3,18,South America,Peru,-12.767585,-73.656398,3.0,3.0
+2017,3,19,North America,Mexico,18.833393,-96.799966,0.0,1.0
+2017,3,20,North America,United States,40.697132,-73.931351,0.0,1.0
+2017,3,22,South America,Colombia,3.174159,-76.258802,0.0,1.0
+2017,3,22,North America,United States,46.679696,-97.810146,0.0,0.0
+2017,3,23,North America,Mexico,28.632996,-106.0691,0.0,1.0
+2017,3,25,South America,Colombia,6.794367,-71.771549,0.0,1.0
+2017,3,25,South America,Colombia,4.22482,-77.31948,1.0,5.0
+2017,3,27,North America,Mexico,22.138199,-104.645618,0.0,1.0
+2017,3,28,South America,Colombia,6.714226,-71.691576,3.0,2.0
+2017,3,28,North America,Mexico,23.063656,-109.702438,0.0,1.0
+2017,3,29,North America,Mexico,20.527059,-97.462912,1.0,0.0
+2017,3,29,South America,Colombia,2.256437,-77.248979,4.0,0.0
+2017,3,29,South America,Colombia,6.955556,-71.872222,0.0,0.0
+2017,4,6,North America,United States,35.203377,-80.74943,0.0,0.0
+2017,4,6,South America,Paraguay,-23.281812,-56.441454,0.0,1.0
+2017,4,6,South America,Colombia,8.300971,-72.889635,0.0,0.0
+2017,4,8,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2017,4,8,South America,Colombia,1.861587,-71.961986,3.0,1.0
+2017,4,13,North America,United States,36.795142,-119.791034,0.0,1.0
+2017,4,14,North America,Canada,45.657245,-73.567108,0.0,0.0
+2017,4,14,South America,Colombia,3.037993,-76.408973,2.0,1.0
+2017,4,16,South America,Colombia,1.416884,-78.43489,0.0,1.0
+2017,4,18,North America,United States,36.747696,-119.798892,0.0,3.0
+2017,4,18,South America,Colombia,-0.83081,-70.109444,0.0,0.0
+2017,4,19,North America,Canada,45.415258,-75.696929,0.0,0.0
+2017,4,24,North America,United States,38.354542,-121.989794,0.0,0.0
+2017,4,25,South America,Colombia,2.96169,-76.269306,0.0,1.0
+2017,4,26,South America,Paraguay,-23.281812,-56.441454,0.0,1.0
+2017,4,27,South America,Colombia,8.512242,-73.447275,0.0,0.0
+2017,4,27,North America,United States,38.280951,-122.034046,0.0,0.0
+2017,4,27,North America,United States,38.283344,-122.03495,0.0,0.0
+2017,4,28,North America,United States,38.052751,-84.493642,3.0,0.0
+2017,4,28,North America,United States,38.252277,-122.044673,0.0,0.0
+2017,4,28,South America,Colombia,8.43564,-73.287148,0.0,1.0
+2017,4,30,South America,Colombia,8.874711,-73.668624,4.0,1.0
+2017,5,1,South America,Colombia,3.034042,-76.407993,0.0,1.0
+2017,5,1,South America,Colombia,8.636385,-72.735117,1.0,0.0
+2017,5,2,South America,Colombia,8.891312,-72.848592,3.0,1.0
+2017,5,3,South America,Colombia,1.212668,-71.965651,0.0,0.0
+2017,5,7,South America,Colombia,4.955156,-76.607057,0.0,0.0
+2017,5,10,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2017,5,13,South America,Colombia,8.43564,-73.287148,0.0,1.0
+2017,5,15,North America,Mexico,24.809065,-107.394012,0.0,1.0
+2017,5,15,North America,Mexico,19.770775,-104.366758,1.0,1.0
+2017,5,15,South America,Chile,-33.686159,-71.216684,0.0,0.0
+2017,5,15,South America,Colombia,3.991663,-73.766129,0.0,0.0
+2017,5,15,South America,Colombia,3.991663,-73.766129,0.0,0.0
+2017,5,15,South America,Colombia,3.991663,-73.766129,0.0,0.0
+2017,5,15,North America,Mexico,19.371887,-99.086624,0.0,1.0
+2017,5,16,South America,Venezuela,10.067772,-69.347351,0.0,1.0
+2017,5,18,North America,Mexico,19.021736,-102.092108,0.0,1.0
+2017,5,19,North America,United States,28.088985,-82.403127,0.0,2.0
+2017,5,19,North America,United States,28.088081,-82.404704,0.0,0.0
+2017,5,20,North America,United States,38.988155,-76.931633,0.0,1.0
+2017,5,22,North America,Canada,51.187119,-114.824762,0.0,0.0
+2017,5,26,South America,Chile,-38.063818,-72.374219,1.0,0.0
+2017,5,26,South America,Chile,-38.232654,-72.351508,0.0,0.0
+2017,5,26,North America,United States,45.533293,-122.65353,1.0,2.0
+2017,5,26,South America,Peru,-11.967368,-76.978462,0.0,0.0
+2017,5,26,North America,United States,40.697132,-73.931351,1.0,0.0
+2017,5,29,North America,United States,38.041374,-84.488595,0.0,0.0
+2017,5,30,North America,United States,40.697132,-73.931351,1.0,0.0
+2017,5,31,South America,Colombia,2.934484,-75.2809,3.0,0.0
+2017,6,3,North America,Mexico,16.690895,-98.410198,0.0,1.0
+2017,6,3,North America,Canada,43.758004,-79.226356,1.0,0.0
+2017,6,7,South America,Colombia,10.854839,-74.777715,0.0,1.0
+2017,6,8,South America,Colombia,3.385133,-74.043636,0.0,0.0
+2017,6,8,North America,United States,40.697132,-73.931351,0.0,0.0
+2017,6,8,North America,Mexico,32.493683,-116.95295,1.0,0.0
+2017,6,9,North America,United States,40.697132,-73.931351,0.0,0.0
+2017,6,10,North America,Mexico,16.816163,-99.66802,2.0,7.0
+2017,6,11,South America,Colombia,8.279405,-73.864075,0.0,0.0
+2017,6,12,South America,Colombia,7.137932,-72.664123,0.0,0.0
+2017,6,14,North America,United States,38.821582,-77.053422,6.0,1.0
+2017,6,15,South America,Colombia,6.52931,-71.78602,3.0,1.0
+2017,6,15,South America,Colombia,5.7,-76.666667,0.0,0.0
+2017,6,17,South America,Colombia,8.574275,-73.093584,0.0,0.0
+2017,6,17,South America,Colombia,6.964936,-71.815315,0.0,0.0
+2017,6,17,South America,Colombia,4.667128,-74.106056,8.0,3.0
+2017,6,21,North America,United States,42.973383,-83.738903,1.0,0.0
+2017,6,26,North America,United States,40.697132,-73.931351,0.0,0.0
+2017,6,24,South America,Colombia,7.271401,-73.301064,0.0,0.0
+2017,6,26,South America,Colombia,2.080071,-76.813661,4.0,3.0
+2017,6,27,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2017,6,28,South America,Colombia,8.451893,-73.275248,1.0,1.0
+2017,6,30,South America,Chile,-33.366238,-70.505302,0.0,0.0
+2017,7,3,South America,Colombia,1.920496,-72.554178,3.0,0.0
+2017,7,3,South America,Colombia,8.61101,-73.635759,2.0,0.0
+2017,7,4,South America,Colombia,7.905315,-72.936204,0.0,0.0
+2017,7,5,North America,Mexico,24.142689,-110.312744,0.0,1.0
+2017,7,5,South America,Colombia,6.098639,-72.248391,0.0,0.0
+2017,7,5,South America,Argentina,-41.15,-71.3,0.0,0.0
+2017,7,5,North America,United States,40.697132,-73.931351,1.0,2.0
+2017,7,6,South America,Venezuela,10.482834,-66.962128,20.0,0.0
+2017,7,7,North America,United States,32.762122,-96.774511,0.0,0.0
+2017,7,8,North America,United States,39.117274,-86.043045,0.0,0.0
+2017,7,9,South America,Colombia,2.35313,-72.831904,6.0,0.0
+2017,7,9,North America,United States,40.256711,-76.581162,0.0,0.0
+2017,7,10,South America,Venezuela,10.401217,-67.594695,0.0,1.0
+2017,7,10,South America,Venezuela,10.456826,-66.782303,7.0,0.0
+2017,7,11,South America,Paraguay,-23.344702,-57.051517,1.0,0.0
+2017,7,12,South America,Colombia,7.237485,-75.75883,0.0,1.0
+2017,7,13,North America,United States,40.256896,-76.581134,0.0,0.0
+2017,7,14,North America,Canada,45.472392,-73.581943,0.0,0.0
+2017,7,15,South America,Colombia,1.671667,-78.139722,0.0,1.0
+2017,7,22,South America,Colombia,7.343103,-72.497653,0.0,0.0
+2017,7,25,South America,Chile,-38.667513,-72.224409,0.0,0.0
+2017,7,25,North America,Mexico,19.371887,-99.086624,0.0,0.0
+2017,7,26,South America,Colombia,7.04722,-72.170244,0.0,0.0
+2017,7,26,South America,Colombia,7.050111,-72.170244,0.0,0.0
+2017,7,30,South America,Venezuela,8.088279,-63.553555,0.0,1.0
+2017,7,30,South America,Venezuela,10.456826,-66.782303,4.0,0.0
+2017,8,2,South America,Argentina,-42.250458,-71.149094,0.0,0.0
+2017,8,3,South America,Venezuela,10.482834,-66.962128,0.0,0.0
+2017,8,4,North America,United States,39.176086,-94.574127,10.0,0.0
+2017,8,5,North America,United States,44.854703,-93.264384,0.0,0.0
+2017,8,6,South America,Venezuela,10.157918,-67.997114,1.0,2.0
+2017,8,6,North America,Canada,46.814026,-71.207868,0.0,0.0
+2017,8,6,South America,Colombia,3.03015,-76.29228,1.0,0.0
+2017,8,12,North America,United States,38.029474,-78.479616,19.0,1.0
+2017,8,15,South America,Colombia,8.43564,-73.287148,0.0,1.0
+2017,8,15,South America,Colombia,8.642356,-72.737733,5.0,1.0
+2017,8,16,North America,Canada,43.428942,-79.839402,0.0,0.0
+2017,8,18,South America,Colombia,6.454307,-71.740474,0.0,1.0
+2017,8,19,South America,Chile,-38.735973,-72.589261,0.0,0.0
+2017,8,19,North America,United States,29.813822,-95.365295,0.0,0.0
+2017,8,21,South America,Paraguay,-23.459532,-56.738168,0.0,0.0
+2017,8,22,North America,Mexico,18.148907,-95.146659,0.0,3.0
+2017,8,28,South America,Chile,-40.231022,-72.331113,0.0,0.0
+2017,8,28,South America,Colombia,8.512538,-73.458678,0.0,0.0
+2017,8,31,South America,Colombia,7.023776,-71.424978,3.0,1.0
+2017,9,1,South America,Paraguay,-23.720249,-56.499901,0.0,0.0
+2017,9,6,South America,Colombia,8.254059,-73.475184,1.0,1.0
+2017,9,10,South America,Colombia,1.790011,-78.786512,0.0,1.0
+2017,9,10,South America,Colombia,1.54256,-72.288688,0.0,1.0
+2017,9,11,North America,United States,30.451468,-91.187147,0.0,0.0
+2017,9,12,North America,United States,30.449998,-91.154152,0.0,1.0
+2017,9,14,North America,United States,30.420015,-91.184493,0.0,1.0
+2017,9,15,South America,Colombia,2.111336,-74.765873,0.0,1.0
+2017,9,16,South America,Colombia,7.289972,-75.392693,0.0,0.0
+2017,9,16,South America,Colombia,7.289972,-75.392693,2.0,0.0
+2017,9,18,South America,Colombia,6.931858,-71.851172,0.0,0.0
+2017,9,19,North America,Canada,51.038021,-114.060989,0.0,0.0
+2017,9,24,North America,United States,36.046771,-86.583081,8.0,1.0
+2017,9,25,South America,Colombia,7.28132,-72.5105,0.0,0.0
+2017,9,25,South America,Paraguay,-23.666957,-56.475654,0.0,0.0
+2017,9,26,South America,Colombia,6.547306,-71.002231,0.0,0.0
+2017,9,26,South America,Colombia,8.43765,-73.286871,0.0,0.0
+2017,9,27,South America,Colombia,8.35364,-72.54917,0.0,1.0
+2017,9,30,North America,Canada,53.559074,-113.478905,1.0,0.0
+2017,9,30,North America,Canada,53.549221,-113.507826,4.0,0.0
+2017,9,30,South America,Colombia,3.199879,-76.217254,0.0,3.0
+2017,10,1,North America,United States,36.082645,-115.135925,851.0,59.0
+2017,10,1,South America,Paraguay,-23.459483,-56.738521,0.0,0.0
+2017,10,2,South America,Paraguay,-23.457256,-56.737754,0.0,0.0
+2017,10,6,North America,United States,35.437653,-82.537256,0.0,0.0
+2017,10,7,South America,Colombia,5.695265,-76.64748,0.0,0.0
+2017,10,8,North America,United States,47.679135,-117.402209,1.0,0.0
+2017,10,10,South America,Colombia,8.300552,-73.41262,3.0,0.0
+2017,10,15,South America,Venezuela,10.633001,-71.633273,0.0,0.0
+2017,10,15,South America,Colombia,8.57451,-73.09339,0.0,1.0
+2017,10,17,South America,Colombia,1.415,-78.669556,0.0,1.0
+2017,10,18,South America,Colombia,2.478809,-78.11097,0.0,6.0
+2017,10,20,South America,Colombia,3.250477,-76.230292,1.0,1.0
+2017,10,21,South America,Colombia,2.332967,-72.603967,0.0,1.0
+2017,10,21,South America,Colombia,2.331899,-72.628127,2.0,0.0
+2017,10,21,South America,Colombia,3.26038,-76.587631,4.0,1.0
+2017,10,22,North America,United States,40.252274,-99.635072,0.0,0.0
+2017,10,23,South America,Colombia,8.65052,-72.770037,1.0,0.0
+2017,10,24,South America,Colombia,5.252803,-76.825965,0.0,1.0
+2017,10,28,North America,United States,18.386932,-66.061127,0.0,0.0
+2017,10,31,North America,United States,40.697132,-73.931351,13.0,8.0
+2017,10,31,North America,United States,32.419801,-91.763649,0.0,0.0
+2017,11,7,North America,United States,40.087687,-88.246841,0.0,0.0
+2017,11,2,South America,Venezuela,8.196566,-62.564172,0.0,0.0
+2017,11,10,South America,Chile,-38.94892,-72.331113,0.0,0.0
+2017,11,12,South America,Colombia,7.819853,-72.453906,0.0,3.0
+2017,11,13,South America,Colombia,1.825814,-78.54485,0.0,1.0
+2017,11,13,North America,United States,35.630842,-81.43925,0.0,0.0
+2017,11,16,South America,Colombia,3.15078,-76.2237,1.0,0.0
+2017,11,18,South America,Brazil,-17.424791,-49.664473,0.0,0.0
+2017,11,24,North America,Mexico,21.019935,-101.260748,0.0,0.0
+2017,11,30,South America,Venezuela,10.227364,-68.016451,0.0,0.0
+2017,12,2,South America,Colombia,3.371251,-71.741618,0.0,1.0
+2017,12,4,South America,Colombia,0.400512,-76.543099,0.0,1.0
+2017,12,7,North America,United States,36.820666,-107.990818,0.0,3.0
+2017,12,9,South America,Colombia,1.37517,-78.599097,1.0,0.0
+2017,12,11,North America,United States,40.697132,-73.931351,4.0,0.0
+2017,12,11,South America,Chile,-37.9552,-72.432741,0.0,0.0
+2017,12,16,South America,Colombia,2.56426,-72.637985,2.0,1.0
+2017,12,19,North America,Mexico,17.949243,-94.916882,0.0,1.0
+2017,12,20,South America,Colombia,7.745807,-76.556143,0.0,1.0
+2017,12,22,North America,United States,40.262772,-76.881107,0.0,0.0
+2017,12,22,North America,United States,40.261864,-76.880913,1.0,1.0
+2017,12,24,South America,Colombia,1.916008,-75.242891,0.0,1.0
